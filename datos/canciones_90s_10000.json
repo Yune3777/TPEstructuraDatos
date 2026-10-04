@@ -1,0 +1,25 @@
+{
+  "descripcion": "Especificación del dataset final de 10.000 canciones de los años 90.",
+  "cantidad_objetivo": 10000,
+  "campos": [
+    "nombre",
+    "genero",
+    "artista",
+    "idioma",
+    "año"
+  ],
+  "distribucion_generos_aprobada": {
+    "Pop internacional": 1500,
+    "Rock internacional": 1500,
+    "Dance / Eurodance / electrónica": 1000,
+    "R&B / Soul / Funk": 700,
+    "Hip hop / Rap": 700,
+    "Grunge / Alternative": 600,
+    "Hard rock / Metal": 500,
+    "Música latina": 1000,
+    "Pop en español": 700,
+    "Rock argentino": 800,
+    "Otros géneros": 1000
+  },
+  "nota": "La distribución anterior es una meta de clasificación. El archivo definitivo de 10.000 debe construirse a partir de una fuente verificable para evitar inventar títulos, años, géneros o idiomas."
+}
