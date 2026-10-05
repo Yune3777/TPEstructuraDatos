@@ -3,30 +3,30 @@
 
 ## 📝 Descripción del proyecto
 
+Sistema de recomendación de música de los 90' que permite buscar, ordenar y descubrir canciones a partir de uno dado.
 
-<div align="center">👩‍🎤👨‍🎤 Si sos de los que piensa que la mejor época de la música fue en los 90' 🤘🏻 entonces 
+## 🎯 Dominio elegido y justificación
 
-ESTE ES TU PROGRAMA!🤘🏻
-
-
-🎼 Recordás un tema pero no quién lo canta o de qué año exacto es? Con nuestro ***Buscador de Canciones*** vas a tener todos los datos que estás buscando.
-
-🎶 Encontrá tus nuevos viejos temas favoritos con nuestra opción ***Canción Aleatorio***.
-
-📻 Conocé nuevas bandas que ya están extintas pero que tenían la misma vibra de las bandas que te gustaban con la opción ***Bandas Relacionadas***. 
-
-💃🏻🕺🏻 Animate a cambiar de género con nuestra opción ***Canciones por Género*** y sorprendete con bandas que ya no dan conciertos pero te hacen bailar en el living de tu casa.
-
-💽 Le perdiste el rastro a tu cantante favorito de los 90' y ya no sabés en qué banda está? No pasa nada! Con nuestro ***Buscador de Cantantes*** redescubrí su carrera... si es que ya no se jubiló.
-
-Si escuchabas una canción de Cher y cuando la cantabas invocabas algo por tu mal inglés, no te preocupes, te recomendamos que uses nuestra opción ***Canciones por Idioma*** para que estés cómodo cantando tus temas.
-
-🎶 Querés ser un experto de la música de un año en concreto de los 90'? Con nuestro ***Buscador Por Año*** podemos ayudarte y darte tema para que hables de eso en cada juntada de asado de los Domingos.
-
-📀 Porque la mejor época fue y será la de los 90' y te lo vamos a demostrar! 📀</div>
-
+- **Dominio elegido:** Se eligió el tema de música de los 90'.
+- **Justificación:** Al combinar una base de datos como lo es MusicBrainz, que tiene base de datos es 100% pública y descargables, y Spotify, que cuenta con filtros como año, géneros específicos, etc., sumado los charts de Billboards para poder ver los temas más rankeados, se puede llegar a la cantidad de 10.000 canciones pudiendo generar un dataset con los datos necesarios para poder usarlo en el proyecto.
 
 ---
+
+## 🛠️ Problema que resuelve
+
+En los 90' estaba la posibilidad de encontrar música o bandas extranjeras por recomendación del boca a boca. Hoy en día el acceso a esa música es más fácil pero con tanta información uno no sabe por dónde empezar, así que lo mejor es comenzar asociando lo que ya se conoce e ir expandiendo los horizontes, por ejemplo, con recomendaciones por género, por similitud en estilos entre artistas, etc.
+
+## 🙋🏻‍♀️🙋🏻‍♂️ Usuario objetivo
+El Usuario es lo que hoy consideran *"Millenials"*, que creció escuchando estas bandas y no las cambia a pesar de conocer otras nuevas, ya sea por nostalgia o por fanatismo. Es el que se queja cada vez que escucha lo que los jóvenes de hoy escuchan agregando la frase "la mejor época era la de los 90'". Es el que escribe "Nirvana" en el buscador de Youtube y espera que el logaritmo lo lleve a temas icónicos de esa década encontrando siempre los mismos temas. No se cansa de escucharlos pero le gustaría descubrir nuevos temas con la estética de esa época.
+
+
+## ⚙️ Requisitos
+```bash
+- Python 3.10 o superior.
+- Librería `Rich` (especificada en el `requirements.md`).
+```
+
+
 ## 🚀 Instrucciones de ejecucion
 
 1. Abrir la terminal en la carpeta del proyecto
@@ -39,12 +39,33 @@ python main.py
 
 ### ️ Menú principal
 
-- Búsqueda de Canción: introducir el nombre de la canción para obtener todos los datos de ella.
+```bash
+- Búsqueda por Canción: introducir el nombre de la canción para obtener todos los datos de ella.
 - Canción Aleatoria: se recomienda una canción aleatoria de cualquier género, banda o cantante, idioma o año.
-- Bandas Relacionadas: introducir una banda y dará como resultado una banda relacionada por género, año o idioma.
-- Canciones por Idioma: elegir entre español o inglés para que devuelva una canción en ese idioma.
-- Canciones por Género: elegir el género y devuelve una banda o un cantante perteneciente a él.
-- Buscador de Cantantes: introducir el nombre del cantante y devuelve las canciones en las que participó.
+- Top 10: elegir entre español o inglés para que devuelva una canción en ese idioma.
+- Explorar por Género: elegir el género y devuelve una banda o un cantante perteneciente a él.
+- Buscador de Artistas: introducir el nombre del cantante o banda y devuelven sus canciones.
+- Buscador por año: introducir un año en concreto para conocer todas las canciones que salieron en ese momento.
+```
+
+### Ejemplo de uso
+
+```text
+========================================
+OÍD MORTALES - TERMINAL
+========================================
+1. Buscar Canción
+2. Canción Aleatoria
+3. Ver Top 10
+4. Explorar por Género
+5. Buscador de Artistas
+6. Buscador por Año
+0. Salir
+----------------------------------------
+Opción: 1
+La canción elegida fue: Zombie y a continuación te cuento más sobre ella...
+"Zombie" fue interpretada por "The Cranberries" en el idioma Inglés. Su género es Rock alternativo y es del año 1994.
+```
 
 ## 📁 Estructura del proyecto
 
@@ -89,4 +110,5 @@ python main.py
 ```
 ---
 ## 🤝 Integrantes
+* *Antonela Bruno*
 * *Daiana Calderón*
