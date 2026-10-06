@@ -1,0 +1,8004 @@
+{
+  "temas": [
+    {
+      "nombre": "Say You'll Be There (7” Radio Mix)",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Description of a Fool",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Metallica",
+      "genero": "Rock",
+      "artista": "P.E.E.",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Los Miserables",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Last Time Lover",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Siempre Hace Frío",
+      "genero": "Música latina",
+      "artista": "Selena",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Sean Olson",
+      "genero": "Heavy metal",
+      "artista": "Korn",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Meet Ze Monsta",
+      "genero": "Rock",
+      "artista": "PJ Harvey",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Sludge Factory (Live)",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Rebeca (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Sublime",
+      "genero": "Rock",
+      "artista": "The Ocean Blue",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Can't Let Her Go",
+      "genero": "R&B",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Boogie (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Ratones Paranoicos",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Sumthin' Sumthin' ((Mellosmoothe) [cut])",
+      "genero": "R&B",
+      "artista": "Maxwell",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Strange Currencies (Remastered)",
+      "genero": "Rock alternativo",
+      "artista": "R.E.M.",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Under a Glass Moon",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.4
+    },
+    {
+      "nombre": "I Wanna Come",
+      "genero": "R&B",
+      "artista": "Real McCoy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Taxi Taxi",
+      "genero": "Pop",
+      "artista": "Cher",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Don't Let the Sun Go Down on Me",
+      "genero": "Pop",
+      "artista": "George Michael & Elton John",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Mine",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Dueño de mi silencio",
+      "genero": "Música latina",
+      "artista": "Jarabe de Palo",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Sou Você",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1999,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Stir It Up",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.9
+    },
+    {
+      "nombre": "No Se Olvida",
+      "genero": "Música latina",
+      "artista": "Grupo Karicia",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Perro de Playa (Acoustic)",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "As My Girl",
+      "genero": "R&B",
+      "artista": "Maxwell",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Bemba Colora (Live)",
+      "genero": "Música latina",
+      "artista": "Celia Cruz",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Scene Two: I. Overture 1928",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Vos Sabés",
+      "genero": "Rock alternativo",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Dara (feat. Angelique Kidjo)",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1999,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Pour que tu m’aimes encore",
+      "genero": "Pop",
+      "artista": "Céline Dion",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Gravity: Pushing to Pull (Remastered 2018)",
+      "genero": "R&B",
+      "artista": "Maxwell",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Linger",
+      "genero": "Pop",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Aunque Me Digas Adiós",
+      "genero": "Música latina",
+      "artista": "Banda Rafaga",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Take No Prisoners",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Santa Monica",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Seduz",
+      "genero": "Música latina",
+      "artista": "Olodum",
+      "idioma": "Brasilero",
+      "año": 1995,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Mothers Pride",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.6
+    },
+    {
+      "nombre": "The Body That Loves You",
+      "genero": "Hip hop",
+      "artista": "Janet Jackson",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Interstate Love Song (2019 Remaster)",
+      "genero": "Rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Hoy Lloré Canción (Remasterizada 2008)",
+      "genero": "Rock alternativo",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 8.5
+    },
+    {
+      "nombre": "All Over the World",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Avanti Morocha",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Play Thang",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Highway to Hell",
+      "genero": "Heavy metal",
+      "artista": "Marilyn Manson",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Esta Pega'o (Remix)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.2
+    },
+    {
+      "nombre": "No Estas Solo",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.6
+    },
+    {
+      "nombre": "What is Love (Lynx & Pico Remix)",
+      "genero": "Dance",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.2
+    },
+    {
+      "nombre": "It's All Coming Back to Me Now (Radio Edit 1)",
+      "genero": "Pop",
+      "artista": "Céline Dion",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "No Te Quedes Afuera",
+      "genero": "Música latina",
+      "artista": "Gilda",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "It Ain't Over Till the Fat Lady Sings",
+      "genero": "R&B",
+      "artista": "En Vogue",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Killing Me Softly with His Song",
+      "genero": "Pop",
+      "artista": "Fugees",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Violet",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Subtraction (Remastered)",
+      "genero": "Heavy metal",
+      "artista": "Sepultura",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.8
+    },
+    {
+      "nombre": "World in Your Hands",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Pubic Enemy",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Face to Face",
+      "genero": "Pop",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Hola Que Tal (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 6.9
+    },
+    {
+      "nombre": "El Reloj Cucú",
+      "genero": "Música latina",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "The Afterparty (Single Version)",
+      "genero": "Dance",
+      "artista": "Captain Hollywood Project",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Introducing (Original Version)",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Parte del aire",
+      "genero": "Rock alternativo",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Somewhere",
+      "genero": "Hard rock",
+      "artista": "Soundgarden",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Everything Is Everything (Radio Edit)",
+      "genero": "R&B",
+      "artista": "Lauryn Hill",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Baby-Baby-Baby",
+      "genero": "R&B",
+      "artista": "TLC",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Who Would Have Thought (Remastered 2024)",
+      "genero": "Pop",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Sumthin' Wicked This Way Comes",
+      "genero": "R&B",
+      "artista": "TLC",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Se Parecio Tanto a Ti",
+      "genero": "Música latina",
+      "artista": "Grupo Niche",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Airbag",
+      "genero": "Rock alternativo",
+      "artista": "Radiohead",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.9
+    },
+    {
+      "nombre": "É Proibido Fumar / Peter Gunn Theme",
+      "genero": "Música latina",
+      "artista": "Skank",
+      "idioma": "Brasilero",
+      "año": 1994,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Les Innocents (Live)",
+      "genero": "Pop",
+      "artista": "Jazzorange",
+      "idioma": "Francés",
+      "año": 1997,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Bed of Roses",
+      "genero": "Pop",
+      "artista": "Bon Jovi",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Agradezco Que Respiro (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 5.8
+    },
+    {
+      "nombre": "Mas mucho mas",
+      "genero": "Música latina",
+      "artista": "Grupo Sombras",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Cuz You're Gone",
+      "genero": "Pop",
+      "artista": "The Goo Goo Dolls",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Always",
+      "genero": "Pop",
+      "artista": "Bon Jovi",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Positive Song",
+      "genero": "Rock",
+      "artista": "th'Inbred",
+      "idioma": "Brasilero",
+      "año": 1994,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Space-Dye Vest",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Breakin' Down",
+      "genero": "Heavy metal",
+      "artista": "Skid Row",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Never Alone",
+      "genero": "Hip hop",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Survival of the Fittest",
+      "genero": "Hip hop",
+      "artista": "Mobb Deep",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.5
+    },
+    {
+      "nombre": "1990 (Mil Nueve Noventa) (Acoustic)",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Rendez-Vous",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Teachers",
+      "genero": "Dance",
+      "artista": "Daft Punk",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Satisfy You (West Coast Remix)",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Soup",
+      "genero": "Rock",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Angels We Have Heard On High",
+      "genero": "R&B",
+      "artista": "Vanessa Williams",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Dead Wrong (feat. Eminem) [2016 Remaster]",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Le Cose Che Vivi",
+      "genero": "Pop",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "A1",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Love Is a Stranger",
+      "genero": "Dance",
+      "artista": "Real McCoy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Salome (Club Mix-Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Chayanne",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.9
+    },
+    {
+      "nombre": "An Ode to No One",
+      "genero": "Hard rock",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Fey",
+      "genero": "Pop",
+      "artista": "Boukman Eksperyans",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Homem Que Sabia Demais",
+      "genero": "Música latina",
+      "artista": "Skank",
+      "idioma": "Brasilero",
+      "año": 1993,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Vai Chover",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1996,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Untitled",
+      "genero": "Rock alternativo",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Fantasya (Original Version)",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Forever Yellow Skies",
+      "genero": "Rock alternativo",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.4
+    },
+    {
+      "nombre": "In the Meanwhile",
+      "genero": "Pop",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.6
+    },
+    {
+      "nombre": "U Ain't Bone",
+      "genero": "Hip hop",
+      "artista": "Bone Thugs-n-Harmony",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.1
+    },
+    {
+      "nombre": "I'm Still Waiting",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.4
+    },
+    {
+      "nombre": "One More Chance (Hip Hop Mix)",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.5
+    },
+    {
+      "nombre": "I Don't Care",
+      "genero": "Rock",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Rocío Tropical",
+      "genero": "Música latina",
+      "artista": "Vico y su Grupo Karicia",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.4
+    },
+    {
+      "nombre": "You Mean the World to Me",
+      "genero": "R&B",
+      "artista": "Toni Braxton",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.6
+    },
+    {
+      "nombre": "The First Noel",
+      "genero": "R&B",
+      "artista": "Vanessa Williams",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Kennedy Rose",
+      "genero": "Pop",
+      "artista": "Patricia Kaas",
+      "idioma": "Francés",
+      "año": 1990,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Ho's a Housewife (feat. Dr. Dre & Hittman)",
+      "genero": "Hip hop",
+      "artista": "Kurupt",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Adelante (12\")",
+      "genero": "Dance",
+      "artista": "Sash!",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Al Final",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Soy un Hippie",
+      "genero": "Música latina",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Heaven's What I Feel (Pablo Flores Dance Remix) (Remix)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan & Pablo Flores",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Cecilia (Remastered)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Hasta Estallár",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Demoliendo Hoteles (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Acapella of the Mack",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "40 Miles From the Sun (Remastered)",
+      "genero": "Rock",
+      "artista": "Bush",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Appletree",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.4
+    },
+    {
+      "nombre": "In A Moment",
+      "genero": "Rock",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Jazzy Belle",
+      "genero": "Hip hop",
+      "artista": "Outkast",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "The Beginning",
+      "genero": "Pop",
+      "artista": "Seal",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Metal Meltdown",
+      "genero": "Heavy metal",
+      "artista": "Judas Priest",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Te Tiraré del Altar (Versión '93) (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Amy Hit the Atmosphere",
+      "genero": "Pop",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Smokin' Stix",
+      "genero": "Hip hop",
+      "artista": "Coolio",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Por el Resto (Versión Acústica)",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Se fué",
+      "genero": "Pop",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Heaven Ain't Hard 2 Find",
+      "genero": "Hip hop",
+      "artista": "2Pac",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Prayer for the Dying (2024 Remaster)",
+      "genero": "R&B",
+      "artista": "Seal",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Sonífera Ilha",
+      "genero": "Música latina",
+      "artista": "Titãs",
+      "idioma": "Brasilero",
+      "año": 1998,
+      "rating": 8.6
+    },
+    {
+      "nombre": "No Importa la Distancia (Go the Distance)",
+      "genero": "Música latina",
+      "artista": "Ricky Martin",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Dear Mama (feat. Anthony Hamilton) [Remix]",
+      "genero": "Hip hop",
+      "artista": "2Pac",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Sweet Child O' Mine (Rick Rubin New Mix)",
+      "genero": "Rock",
+      "artista": "Sheryl Crow",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Hope",
+      "genero": "Rock alternativo",
+      "artista": "Sublime",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Siguiendo la Luna (Remasterizado 2008)",
+      "genero": "Rock",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Diggy Down",
+      "genero": "Hip hop",
+      "artista": "LL COOL J",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Los Miserables (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.7
+    },
+    {
+      "nombre": "The Best Of Me",
+      "genero": "Pop",
+      "artista": "Bryan Adams",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Fino all'ultimo",
+      "genero": "Pop",
+      "artista": "Toto Cutugno",
+      "idioma": "Italiano",
+      "año": 1991,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Hechicera",
+      "genero": "Rock alternativo",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Armatage Shanks",
+      "genero": "Rock alternativo",
+      "artista": "Green Day",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Fly Away",
+      "genero": "Rock",
+      "artista": "Lenny Kravitz",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Hey Boy Hey Girl (2003 Remaster)",
+      "genero": "Dance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Músculos (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Award Tour (LP Version)",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.2
+    },
+    {
+      "nombre": "What's It Gonna Be (feat. Janet Jackson)",
+      "genero": "Hip hop",
+      "artista": "Busta Rhymes",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.2
+    },
+    {
+      "nombre": "The Way That You Love",
+      "genero": "R&B",
+      "artista": "Vanessa Williams",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Voglio restare cosi",
+      "genero": "Pop",
+      "artista": "Andrea Bocelli",
+      "idioma": "Italiano",
+      "año": 1995,
+      "rating": 7.0
+    },
+    {
+      "nombre": "All I Wanna Do",
+      "genero": "Rock",
+      "artista": "Sheryl Crow",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Jesus Born on This Day",
+      "genero": "Pop",
+      "artista": "Mariah Carey",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Music: Response",
+      "genero": "Eurodance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Maresias (Original Version)",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Blown Away",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Cuál Es el Precio?",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.4
+    },
+    {
+      "nombre": "La Copa de la Vida (La Canción Oficial de la Copa Mundial, Francia '98) [Remix - Spanish Radio Edit] (Remix)",
+      "genero": "Pop",
+      "artista": "Ricky Martin",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Untitled",
+      "genero": "Hard rock",
+      "artista": "Marilyn Manson",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Take No Prisoners (2004 Remix)",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Sueña (Live)",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Ooh La La",
+      "genero": "Hip hop",
+      "artista": "Coolio",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Cómo Dueles en los Labios (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 8.4
+    },
+    {
+      "nombre": "The Sweetest Thing (feat. Lauryn Hill) [Mahogany Mix]",
+      "genero": "R&B",
+      "artista": "Refugee Camp All-Stars",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.5
+    },
+    {
+      "nombre": "El Novio Del Olvido",
+      "genero": "Rock alternativo",
+      "artista": "Andrés Calamaro",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Colores Santos",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Gonna Eat For Christmas (Live)",
+      "genero": "Pop",
+      "artista": "Rosie O'Donnell & Gloria Estefan",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Por una Cabeza",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Chemical Beats",
+      "genero": "Dance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Don't Save It All for Christmas Day",
+      "genero": "Pop",
+      "artista": "Céline Dion",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Funktion (Remastered)",
+      "genero": "Pop",
+      "artista": "Jamiroquai",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Hip Hop Hooray (Dungeon Jeep Mix)",
+      "genero": "Hip hop",
+      "artista": "Naughty By Nature",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Simple et funky",
+      "genero": "Hip hop",
+      "artista": "Alliance Ethnik",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Come In Love (English version)",
+      "genero": "Pop",
+      "artista": "Zucchero",
+      "idioma": "Italiano",
+      "año": 1995,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Delirio (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Si El Norte Fuera el Sur (Remix)",
+      "genero": "Música latina",
+      "artista": "Ricardo Arjona",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Como Billy the Kid",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Memories Are Designed to Fade",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Another Day",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Faultline (Live at the Cambridge [Remastered])",
+      "genero": "Rock alternativo",
+      "artista": "Silverchair",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Colocado Voy (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Ratones Paranoicos",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.7
+    },
+    {
+      "nombre": "We Who Are Not As Others (Remastered)",
+      "genero": "Heavy metal",
+      "artista": "Sepultura",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Go Your Own Way",
+      "genero": "Rock",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Believe (Acoustic Version)",
+      "genero": "Pop",
+      "artista": "Lenny Kravitz",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.4
+    },
+    {
+      "nombre": "No Puedo",
+      "genero": "Música latina",
+      "artista": "Los Auténticos Decadentes",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Bem, Bem, Maria",
+      "genero": "Música latina",
+      "artista": "Gipsy Kings",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "New Agenda",
+      "genero": "Hip hop",
+      "artista": "Janet Jackson",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.0
+    },
+    {
+      "nombre": "I Want You",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.7
+    },
+    {
+      "nombre": "What Is Love (Tnt's Alt.Radio Edit'99)",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.7
+    },
+    {
+      "nombre": "As I Read My S-A",
+      "genero": "Hip hop",
+      "artista": "Gang Starr",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Las Lágrimas de Mi Almohada (Remix)",
+      "genero": "Música latina",
+      "artista": "Fey",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Mother Earth",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "La Cienega Blvd.",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Eaunanisme",
+      "genero": "Pop",
+      "artista": "Mylène Farmer",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Down by the Water",
+      "genero": "Rock",
+      "artista": "PJ Harvey",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Separate/Together",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.0
+    },
+    {
+      "nombre": "One And One",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Jugar Con Fuego (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Andrés Calamaro",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Azúcar Negra",
+      "genero": "Música latina",
+      "artista": "Celia Cruz",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Goodnight Elisabeth",
+      "genero": "Rock",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Illico presto",
+      "genero": "Hip hop",
+      "artista": "MC Solaar",
+      "idioma": "Francés",
+      "año": 1997,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Colore",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 8.3
+    },
+    {
+      "nombre": "213",
+      "genero": "Heavy metal",
+      "artista": "Slayer",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.8
+    },
+    {
+      "nombre": "The Warriors Arrive",
+      "genero": "R&B",
+      "artista": "Alan Menken",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.6
+    },
+    {
+      "nombre": "The Navajo Know",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Serenity (Prolog)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.2
+    },
+    {
+      "nombre": "In the Still of the Nite (I'll Remember)",
+      "genero": "R&B",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Canela Pa Tu Boca",
+      "genero": "Pop",
+      "artista": "Los del Río",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 8.6
+    },
+    {
+      "nombre": "No Se Si Es Amor (It Must Have Been Love)",
+      "genero": "Música latina",
+      "artista": "Roxette",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Dos en la Ciudad (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Drama/ Misery Interlude (feat. S.Gary)",
+      "genero": "R&B",
+      "artista": "Blackstreet",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Real McCoy",
+      "genero": "Eurodance",
+      "artista": "Niels Lan Doky",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Interlude (553-Nasty)",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Peruvian Skies",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Ni Tú Ni Nadie",
+      "genero": "Música latina",
+      "artista": "Fey",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Inolvidable (Acoustic)",
+      "genero": "Música latina",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Impersonality",
+      "genero": "Pop",
+      "artista": "The Goo Goo Dolls",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Sex Type Thing (Live) [MTV Unplugged, 11/17/93]",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Entre los Dos",
+      "genero": "Música latina",
+      "artista": "Nek",
+      "idioma": "Italiano",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Redundant",
+      "genero": "Rock alternativo",
+      "artista": "Green Day",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Mo Money Mo Problems (feat. Puff Daddy & Mase) [Razor-N-Go EEC Main Mix] [Edit]",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Ardiente Tentación",
+      "genero": "Música latina",
+      "artista": "Sentidos Opuestos",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Don't Pick It Up",
+      "genero": "Rock",
+      "artista": "The Offspring",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Live or Die (feat. Master P, Silkk the Shocker, Mystikal & Phiness) [Instrumental]",
+      "genero": "Hip hop",
+      "artista": "Naughty By Nature",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Feel My Gat Blow (feat. Mobb Deep)",
+      "genero": "Hip hop",
+      "artista": "Slam",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Regrets",
+      "genero": "Pop",
+      "artista": "Mylène Farmer",
+      "idioma": "Francés",
+      "año": 1991,
+      "rating": 8.7
+    },
+    {
+      "nombre": "All Eyez On Me (feat. Big Syke)",
+      "genero": "Hip hop",
+      "artista": "2Pac",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Long, long, long",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Spanish Eyes",
+      "genero": "Pop",
+      "artista": "Ricky Martin",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Spiders",
+      "genero": "Heavy metal",
+      "artista": "System Of A Down",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.3
+    },
+    {
+      "nombre": "The Gold (feat. Mobb Deep) [Edited]",
+      "genero": "Hip hop",
+      "artista": "DJ Clue",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.7
+    },
+    {
+      "nombre": "É preciso saber viver (Trio Acústico)",
+      "genero": "Rock",
+      "artista": "Titãs",
+      "idioma": "Brasilero",
+      "año": 1997,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Illusion",
+      "genero": "Hard rock",
+      "artista": "Creed",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.1
+    },
+    {
+      "nombre": "What's Mine Is Mine",
+      "genero": "Pop",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Pause 4 Porno",
+      "genero": "Hip hop",
+      "artista": "Dr. Dre & Jake Steed",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Instant Death",
+      "genero": "Hip hop",
+      "artista": "Beastie Boys",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Return of the Mack (C&J Remix)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.8
+    },
+    {
+      "nombre": "It's All About the Benjamins (Remix) [feat. The Notorious B.I.G., Lil' Kim & the Lox]",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Angels of the Silences (Live At Chelsea Studios, New York/1997)",
+      "genero": "Pop",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Peace, Prosperity & Paper",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Loops of Fury",
+      "genero": "Dance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.5
+    },
+    {
+      "nombre": "La Mentira",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Zoom",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Omaha",
+      "genero": "Rock",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Reach (NBC Olympic Version)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.1
+    },
+    {
+      "nombre": "God Don't Make Lonely Girls",
+      "genero": "Rock",
+      "artista": "The Wallflowers",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Mas Alla (Beyond) (Remix)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan, Kike Santander, Diana F. Serna, Juanito Marquez, Archie Peña, Edwin Bonilla, Don Grolnick, Elena Barere, David Nadien, Barry Finclair, Richard Sortomme, John Pintavalle, Gene Orloff, Charles Libove, Marti Sweet, Cecilia Hobbs Gardner, Donna Tecco, Jan Mullen, Laura Seaton, Paul Peabody, Jean Ingraham, Sandra Park, Joyce Hammann, Jorge Casas, Sue Pray, Julien Barber, Maryhelen Ewing, Ira Weller, Richard Locker, Ellen Westermann, Jeanne LeBlanc & Jr. Eugene J. Moye",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.8
+    },
+    {
+      "nombre": "My Friend of Misery",
+      "genero": "Heavy metal",
+      "artista": "Metallica",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.8
+    },
+    {
+      "nombre": "De Música Ligera (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Agua en Buenos Aires (En Vivo) (Version 95)",
+      "genero": "Rock",
+      "artista": "Divididos",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Una Obsesión",
+      "genero": "Música latina",
+      "artista": "Nek",
+      "idioma": "Italiano",
+      "año": 1998,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Let Me Be the One (Come Runnin')",
+      "genero": "Hip hop",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Tú Estás Aquí",
+      "genero": "Música latina",
+      "artista": "Nek",
+      "idioma": "Italiano",
+      "año": 1997,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Carlito (En Vivo) (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.2
+    },
+    {
+      "nombre": "I Alone",
+      "genero": "Rock alternativo",
+      "artista": "LIVE",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Party",
+      "genero": "Pop",
+      "artista": "Real McCoy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.3
+    },
+    {
+      "nombre": "F**k You (Instrumental)",
+      "genero": "Hip hop",
+      "artista": "Dr. Dre",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.6
+    },
+    {
+      "nombre": "No Way José (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Illya Kuryaki & The Valderramas",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Celia Y Tito",
+      "genero": "Música latina",
+      "artista": "Tito Puente & Celia Cruz",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.4
+    },
+    {
+      "nombre": "ONE MAN ARMY",
+      "genero": "Eurodance",
+      "artista": "The Prodigy & Tom Morello",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Luz y Veneno (Live)",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 10.0
+    },
+    {
+      "nombre": "Sol, Arena y Mar (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Onzième commandement",
+      "genero": "Hip hop",
+      "artista": "MC Solaar",
+      "idioma": "Francés",
+      "año": 1998,
+      "rating": 9.1
+    },
+    {
+      "nombre": "La flaca",
+      "genero": "Música latina",
+      "artista": "Jarabe de Palo",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Rajá Rata (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Seemann",
+      "genero": "Rock",
+      "artista": "Rammstein",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "I'll Never Break Your Heart",
+      "genero": "Pop",
+      "artista": "Backstreet Boys",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Stay",
+      "genero": "R&B",
+      "artista": "Destiny's Child",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.0
+    },
+    {
+      "nombre": "God Is a DJ",
+      "genero": "Dance",
+      "artista": "Faithless",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Flores Robadas",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Pruno",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Pushin Forward Back",
+      "genero": "Rock alternativo",
+      "artista": "Temple of the Dog",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Bang Bang (Instrumental)",
+      "genero": "Hip hop",
+      "artista": "Dr. Dre",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Fruta Fresca",
+      "genero": "Música latina",
+      "artista": "Carlos Vives",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Un Charquito de Estrellas",
+      "genero": "Música latina",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Cecilia Ann",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Abarrotería de Amor (Remix)",
+      "genero": "Música latina",
+      "artista": "Ricardo Arjona",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Rock de la Calle (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Ratones Paranoicos",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 5.7
+    },
+    {
+      "nombre": "Cuando Vuelva a Tu Lado",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Nappy Heads (Remix Radio Edit)",
+      "genero": "R&B",
+      "artista": "Fugees",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.4
+    },
+    {
+      "nombre": "November Rain",
+      "genero": "Hard rock",
+      "artista": "Guns N' Roses",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.3
+    },
+    {
+      "nombre": "You Learn (Live Unplugged)",
+      "genero": "Rock alternativo",
+      "artista": "Alanis Morissette",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Time After Time",
+      "genero": "Heavy metal",
+      "artista": "Ozzy Osbourne",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Movida Rasta Fari (Live)",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Land of Tha Heartless",
+      "genero": "Hip hop",
+      "artista": "Bone Thugs-n-Harmony",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Eyes of a Fool",
+      "genero": "Pop",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Oro De Ley (Live)",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Entrer dans la lumière",
+      "genero": "Pop",
+      "artista": "Patricia Kaas",
+      "idioma": "Francés",
+      "año": 1993,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Stripsearch (2016 Remastered Version)",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Got Me Wrong (Unplugged)",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.5
+    },
+    {
+      "nombre": "¿Y Tu Qué Sabes?",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Poison Was The Cure (2004 Remix)",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Rey de La Revolución: Jesús en el Barrio",
+      "genero": "Rock alternativo",
+      "artista": "Rata Blanca",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Buscando la Manera (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 5.8
+    },
+    {
+      "nombre": "Nice 'N' Slow",
+      "genero": "Dance",
+      "artista": "La Bouche",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Como Yo Te Amé (Remix)",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Sin Sintimiento",
+      "genero": "Música latina",
+      "artista": "Grupo Niche",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 9.7
+    },
+    {
+      "nombre": "A Better Tomorrow (feat. Inspectah Deck, Masta Killa, U-God, RZA & Method Man)",
+      "genero": "Hip hop",
+      "artista": "Wu-Tang Clan",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.9
+    },
+    {
+      "nombre": "La Parabellum del Buen Psicópata (En Vivo) (Acoustic)",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.3
+    },
+    {
+      "nombre": "The Wind",
+      "genero": "Rock",
+      "artista": "PJ Harvey",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Baila Baila (Remix)",
+      "genero": "Música latina",
+      "artista": "Chayanne",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Dónde Está Tu Corazón",
+      "genero": "Música latina",
+      "artista": "Los Palmeras",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Kiss From a Rose (2024 Remaster)",
+      "genero": "R&B",
+      "artista": "Seal",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Jamaican Talk, Foreign Rap",
+      "genero": "Música latina",
+      "artista": "Niney the Observer, Charlie Sprang & Commanche",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Amigo / White Trash",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Dales Libertad",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Cruel Summer",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Voodoo People (Remastered)",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Shame In You",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Time To Say Goodbye (Con Te Partirè) [feat. Andrea Bocelli]",
+      "genero": "Pop",
+      "artista": "Sarah Brightman",
+      "idioma": "Italiano",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Yo No Me Caí del Cielo (En Vivo)",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Cachito",
+      "genero": "Rock alternativo",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.3
+    },
+    {
+      "nombre": "#!*@ Me",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Big Bag Of Dope",
+      "genero": "Rock",
+      "artista": "House of Large Sizes",
+      "idioma": "Brasilero",
+      "año": 1994,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Black Sabbath (From the Satanic Perspective) [Bonus Track]",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Give U My Heart (feat. Babyface)",
+      "genero": "R&B",
+      "artista": "Toni Braxton",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.6
+    },
+    {
+      "nombre": "I Miss You (Radio Edit) [Remastered 2025]",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Love on Layaway (Version 95)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "El Pájaro Víó el Cielo y Se Voló",
+      "genero": "Rock alternativo",
+      "artista": "Los Auténticos Decadentes",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.1
+    },
+    {
+      "nombre": "What Is Love (Pump Mix '99)",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.6
+    },
+    {
+      "nombre": "How (Remastered 2026)",
+      "genero": "Rock",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Love And Understanding",
+      "genero": "Pop",
+      "artista": "Cher",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Can't Not",
+      "genero": "Pop",
+      "artista": "Alanis Morissette",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Tearz (feat. RZA & Ghostface Killah)",
+      "genero": "Hip hop",
+      "artista": "Wu-Tang Clan",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "It's Alright",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.5
+    },
+    {
+      "nombre": "One Love (Edit)",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.3
+    },
+    {
+      "nombre": "All That She Wants (Remastered)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Quiero Saber",
+      "genero": "Música latina",
+      "artista": "Gipsy Kings",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Pogo (Version 95)",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.1
+    },
+    {
+      "nombre": "La Cañaguatera",
+      "genero": "Música latina",
+      "artista": "Carlos Vives",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Quédate",
+      "genero": "Música latina",
+      "artista": "Nek",
+      "idioma": "Italiano",
+      "año": 1998,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Fading Like a Flower (Every Time You Leave) [Humberto Gatica Remix]",
+      "genero": "Pop",
+      "artista": "Roxette",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Return of the Mack (C&J Street Remix)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Av. Alcorta",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Live Forever (Remastered)",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Shouts Out from the Block",
+      "genero": "Hip hop",
+      "artista": "Fugees",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Vive Ya! (Vivere)",
+      "genero": "Pop",
+      "artista": "Andrea Bocelli & Laura Pausini",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.3
+    },
+    {
+      "nombre": "En El Muelle de San Blas (2019 Remasterizado)",
+      "genero": "Pop",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Colorblind",
+      "genero": "Pop",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Fue",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.1
+    },
+    {
+      "nombre": "¡Es Hora de Levantarse Querido! (¿Dormiste Bien?) (Radio Edit)",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Nuevos Hippies",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.7
+    },
+    {
+      "nombre": "State of Love and Trust",
+      "genero": "Rock",
+      "artista": "Pearl Jam",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Land of Dreaming (Cappella T.S.O.B. Mix)",
+      "genero": "Dance",
+      "artista": "Masterboy",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Cuatro Amores",
+      "genero": "Pop",
+      "artista": "Los del Río",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.6
+    },
+    {
+      "nombre": "On & On (Live)",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Gitana (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.3
+    },
+    {
+      "nombre": "I'm Feeling Hopeful",
+      "genero": "Rock",
+      "artista": "Fiona Apple",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Mientras Haya Luces de Bar (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "You Can Do It",
+      "genero": "Pop",
+      "artista": "No Doubt",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Gualicho",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Maximum Overdrive (Radio Edit)",
+      "genero": "Pop",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Tengo, Tengo",
+      "genero": "Música latina",
+      "artista": "Los del Río",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Love for All Seasons",
+      "genero": "Pop",
+      "artista": "Christina Aguilera",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Groove da Baiana",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1999,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Ratamahatta",
+      "genero": "Heavy metal",
+      "artista": "Sepultura",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Stoned (Remastered)",
+      "genero": "Rock alternativo",
+      "artista": "Silverchair",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Hot Sex (Ali's Radio Edit)",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Raja Rata (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Qué Nivel de Mujer",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Un Siglo Sin Ti",
+      "genero": "Música latina",
+      "artista": "Chayanne",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.7
+    },
+    {
+      "nombre": "La Parabellum del Buen Psicópata (En Vivo)",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Air",
+      "genero": "Rock alternativo",
+      "artista": "Shiro SAGISU",
+      "idioma": "Francés",
+      "año": 1997,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Rock del Pedazo",
+      "genero": "Rock alternativo",
+      "artista": "Ratones Paranoicos",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Bajan",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Falso Corazón",
+      "genero": "Música latina",
+      "artista": "Grupo Sombras",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.9
+    },
+    {
+      "nombre": "River's Edge",
+      "genero": "R&B",
+      "artista": "Alan Menken",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Walking In Memphis",
+      "genero": "Pop",
+      "artista": "Cher",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Blood Sugar Sex Magik",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.9
+    },
+    {
+      "nombre": "In Assenza Di Te",
+      "genero": "Pop",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Hip Hop Lover",
+      "genero": "R&B",
+      "artista": "En Vogue",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Arise",
+      "genero": "Heavy metal",
+      "artista": "Sepultura",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Cloud Number Nine",
+      "genero": "Rock",
+      "artista": "Bryan Adams",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Tucán",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.8
+    },
+    {
+      "nombre": "I Think I'm Paranoid",
+      "genero": "Rock",
+      "artista": "Garbage",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.9
+    },
+    {
+      "nombre": "El Dinero No Es Todo (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Los Auténticos Decadentes",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.2
+    },
+    {
+      "nombre": "La Aurora (Spanish Version Of \"L'Aurora\") (Live)",
+      "genero": "Música latina",
+      "artista": "Eros Ramazzotti",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Zero Signal",
+      "genero": "Heavy metal",
+      "artista": "Fear Factory",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Clan In Da Front (feat. RZA & GZA)",
+      "genero": "Hip hop",
+      "artista": "Wu-Tang Clan",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.4
+    },
+    {
+      "nombre": "All That She Wants (2015 Remastered Version)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Obsesión",
+      "genero": "Música latina",
+      "artista": "Sentidos Opuestos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Tell Me That You Wait (Airdrome Club-Mix)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Una Y Mil Veces",
+      "genero": "Música latina",
+      "artista": "Cristian Castro",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Ali d'Oro (feat. John Lee Hooker)",
+      "genero": "Pop",
+      "artista": "Zucchero",
+      "idioma": "Italiano",
+      "año": 1996,
+      "rating": 9.2
+    },
+    {
+      "nombre": "El Balz (Version 95)",
+      "genero": "Heavy metal",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.9
+    },
+    {
+      "nombre": "La brigada",
+      "genero": "Música latina",
+      "artista": "Commanche",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Amigos",
+      "genero": "Rock alternativo",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Bells Of War (feat. U-God, Method Man, RZA, Masta Killa, Raekwon & Ghostface Killah)",
+      "genero": "Hip hop",
+      "artista": "Wu-Tang Clan",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Silent Night (Remastered 2024)",
+      "genero": "Pop",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.7
+    },
+    {
+      "nombre": "I Knew I Loved You",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Pumpin'",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.7
+    },
+    {
+      "nombre": "On Bended Knee",
+      "genero": "R&B",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Waiting",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Rock My Heart",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Nosotros",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Born of a Broken Man",
+      "genero": "Hard rock",
+      "artista": "Rage Against the Machine",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Just Another Day (Live)",
+      "genero": "Pop",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.3
+    },
+    {
+      "nombre": "We Gonna Take U Back (Lude) / Don't Leave Me",
+      "genero": "Pop",
+      "artista": "Blackstreet",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Hammering In My Head",
+      "genero": "Rock",
+      "artista": "Garbage",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Go to Hell",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Latinos (Hex Hector Remix)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Push It",
+      "genero": "Rock",
+      "artista": "Garbage",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Waiting for Magic (2015 Remastered Version) [Total Remix 7\" Version]",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.5
+    },
+    {
+      "nombre": "¿Qué Ves? (En Vivo) (Remix)",
+      "genero": "Rock",
+      "artista": "Divididos",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 10.0
+    },
+    {
+      "nombre": "Share My World",
+      "genero": "R&B",
+      "artista": "Mary J. Blige",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Demasiada Presión",
+      "genero": "Rock alternativo",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Travel to Romantis (Remastered)",
+      "genero": "Dance",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Lonely Heart",
+      "genero": "R&B",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Olodum a Banda do Pelo",
+      "genero": "Pop",
+      "artista": "Olodum",
+      "idioma": "Brasilero",
+      "año": 1991,
+      "rating": 9.5
+    },
+    {
+      "nombre": "The Virginia Company (Reprise)",
+      "genero": "R&B",
+      "artista": "Chorus & Mel Gibson",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Too Much",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Tiburón (Club Spanish Version)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Poison Was the Cure",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Ava Adore",
+      "genero": "Hard rock",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Así Es la Vída",
+      "genero": "Música latina",
+      "artista": "Ricky Martin",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.3
+    },
+    {
+      "nombre": "In 3's",
+      "genero": "Hip hop",
+      "artista": "Beastie Boys",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Die With Me",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.4
+    },
+    {
+      "nombre": "You're Not from Brighton",
+      "genero": "Dance",
+      "artista": "Fatboy Slim",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.4
+    },
+    {
+      "nombre": "¿Lo Ves? (Live)",
+      "genero": "Música latina",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Nirvana",
+      "genero": "Rock",
+      "artista": "Juliana Hatfield",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Usted Abuso",
+      "genero": "Música latina",
+      "artista": "Celia Cruz & Willie Colón",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Mi PC",
+      "genero": "Música latina",
+      "artista": "Juan Luis Guerra",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Crackerman (Live) [MTV Unplugged, 11/17/93]",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Tu Amor Eterno",
+      "genero": "Música latina",
+      "artista": "Carlos Vives",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Josephine",
+      "genero": "Rock",
+      "artista": "The Wallflowers",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Bring It On (Reprise)",
+      "genero": "R&B",
+      "artista": "Seal",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Easy",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Are You Still Up",
+      "genero": "Pop",
+      "artista": "Janet Jackson",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Psycho Therapy",
+      "genero": "Heavy metal",
+      "artista": "Skid Row",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Miss U [Amended]",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Love Is a Good Thing",
+      "genero": "Rock",
+      "artista": "Sheryl Crow",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Y Todavía Hay Amor",
+      "genero": "Música latina",
+      "artista": "Banda Rafaga",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Cuarto Poder",
+      "genero": "Rock alternativo",
+      "artista": "Rata Blanca",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.2
+    },
+    {
+      "nombre": "6th Avenue Heartache (Radio Edit)",
+      "genero": "Rock",
+      "artista": "The Wallflowers",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Consentement",
+      "genero": "Pop",
+      "artista": "Mylène Farmer",
+      "idioma": "Francés",
+      "año": 1999,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Tornado Of Souls (2004 Remix)",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Chicos y Perros (Acoustic)",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.6
+    },
+    {
+      "nombre": "All By Myself",
+      "genero": "Rock alternativo",
+      "artista": "Green Day",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Never Forget",
+      "genero": "Pop",
+      "artista": "Take That",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Gilda",
+      "genero": "Música latina",
+      "artista": "Momus",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 9.9
+    },
+    {
+      "nombre": "The Way Love Is (Extended Mix)",
+      "genero": "Dance",
+      "artista": "Captain Hollywood Project",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.0
+    },
+    {
+      "nombre": "El Me Engaño (Acoustic)",
+      "genero": "Pop",
+      "artista": "Paulina Rubio",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Las Lagrimas de Mi Almohada",
+      "genero": "Música latina",
+      "artista": "Fey",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Happy Song (Tonite)",
+      "genero": "R&B",
+      "artista": "Blackstreet",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Into Another",
+      "genero": "Heavy metal",
+      "artista": "Skid Row",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Misunderstood",
+      "genero": "Pop",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Sol da Liberdade (feat. Milton Nascimento)",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1999,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Tonight I'm Gonna Let Go (The Remix) [feat. Busta Rhymes, Rampage, Sham & Spliff Star of the Flipmode Squad]",
+      "genero": "R&B",
+      "artista": "Syleena Johnson",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Lost Ones",
+      "genero": "R&B",
+      "artista": "Lauryn Hill",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Come & Talk To Me (Radio Remix)",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Mascara",
+      "genero": "Hard rock",
+      "artista": "Deftones",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Climbing Up the Walls (Remastered)",
+      "genero": "Rock alternativo",
+      "artista": "Radiohead",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Hadas del Mar (En Vivo)",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Blue (Da Ba Dee) [Gabry Ponte Video Edit]",
+      "genero": "Dance",
+      "artista": "Eiffel 65",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Pídele a una Estrella",
+      "genero": "Música latina",
+      "artista": "Melina León & DLG",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Sacha, Sissi y el Círculo de Baba",
+      "genero": "Rock alternativo",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Surrounded",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Hip Hop Bugle Boy",
+      "genero": "R&B",
+      "artista": "En Vogue",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Sometimes",
+      "genero": "Rock alternativo",
+      "artista": "Pearl Jam",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Colores Santos (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 5.8
+    },
+    {
+      "nombre": "Un Raggio Di Sole",
+      "genero": "Música latina",
+      "artista": "Jovanotti",
+      "idioma": "Italiano",
+      "año": 1999,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Si Te Vas",
+      "genero": "Música latina",
+      "artista": "Shakira",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Somos Novios",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Locotes",
+      "genero": "Hip hop",
+      "artista": "Cypress Hill",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.8
+    },
+    {
+      "nombre": "En Remolinos (Acoustic)",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Reach Down",
+      "genero": "Rock alternativo",
+      "artista": "Temple of the Dog",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Estrellas (Cinco Estrellas)",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Creep (Demo)",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Soy Yo (Live)",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Jamboree (feat. Zhané) [Club Mix]",
+      "genero": "Hip hop",
+      "artista": "Naughty By Nature",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Day Tripper (Medley)",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Next Lifetime (Interlude) [Live]",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Replica",
+      "genero": "Heavy metal",
+      "artista": "Fear Factory",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Ascolta Il Tuo Cuore",
+      "genero": "Pop",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Realmente No Estoy Tan Solo",
+      "genero": "Música latina",
+      "artista": "Ricardo Arjona",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Megamix (Long Maxi Edit)",
+      "genero": "Dance",
+      "artista": "Vengaboys",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Oh Yes",
+      "genero": "Pop",
+      "artista": "Whitney Houston",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Por Ser",
+      "genero": "Música latina",
+      "artista": "Nek",
+      "idioma": "Italiano",
+      "año": 1998,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Rhinoceros (Edit)",
+      "genero": "Hard rock",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Cucamonga Dance",
+      "genero": "Música latina",
+      "artista": "Charly Garcia & Pedro Aznar",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Oye (Pablo Flores Spanish Remix)",
+      "genero": "Música latina",
+      "artista": "Gloria Estefan & Pablo Flores",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.6
+    },
+    {
+      "nombre": "La Pancho Alfaro",
+      "genero": "Música latina",
+      "artista": "Mercedes Sosa",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Si Tú Me Miras (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Spit (Remastered)",
+      "genero": "Heavy metal",
+      "artista": "Sepultura",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "The World I Know (LP Version)",
+      "genero": "Rock",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Hole",
+      "genero": "Rock",
+      "artista": "The Jesus and Mary Chain",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.8
+    },
+    {
+      "nombre": "L'enfant Sauvage",
+      "genero": "Pop",
+      "artista": "Claude Barzotti",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 7.4
+    },
+    {
+      "nombre": "La Aurora (Live)",
+      "genero": "Música latina",
+      "artista": "Eros Ramazzotti",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Malpractice",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Is She Weird",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Road Trippin'",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Letters from a Porcupine",
+      "genero": "Rock",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Mentirosa",
+      "genero": "Música latina",
+      "artista": "Ráfaga",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Goodnight Good Guy",
+      "genero": "Rock",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Vive Y Deja Vivir (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Jarabe de Palo",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Octavo Día",
+      "genero": "Música latina",
+      "artista": "Shakira",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Everything She Wants (Live)",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Motownphilly (12\" Version)",
+      "genero": "R&B",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Over and Over",
+      "genero": "Dance",
+      "artista": "Captain Hollywood Project",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Dear Lie",
+      "genero": "R&B",
+      "artista": "TLC",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Demoliendo Hoteles",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.3
+    },
+    {
+      "nombre": "It'll Be a Long Time",
+      "genero": "Rock alternativo",
+      "artista": "The Offspring",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Dreamin'",
+      "genero": "Pop",
+      "artista": "Vanessa Williams",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "The Crisis",
+      "genero": "Música latina",
+      "artista": "Ennio Morricone, Gilda Buttà & Accademia Musicale Italiana",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.9
+    },
+    {
+      "nombre": "I Still Believe",
+      "genero": "Pop",
+      "artista": "Mariah Carey",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Give Up The Goods (Just Step)",
+      "genero": "Hip hop",
+      "artista": "Mobb Deep",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "One Day You'll Be Mine",
+      "genero": "R&B",
+      "artista": "USHER",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Orugas",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Este Mundo",
+      "genero": "Música latina",
+      "artista": "Gipsy Kings",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Estrella Gemela (Remix)",
+      "genero": "Música latina",
+      "artista": "Eros Ramazzotti",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.5
+    },
+    {
+      "nombre": "The Strangest Thing",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Como Yo Te Amé",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Gotta Love It",
+      "genero": "Pop",
+      "artista": "Aerosmith",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Tú (Live)",
+      "genero": "Música latina",
+      "artista": "Shakira",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Aguita de Melon",
+      "genero": "Música latina",
+      "artista": "Commanche",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Hey Mr. DJ (Keep Playin' This Song)",
+      "genero": "Pop",
+      "artista": "Backstreet Boys",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Hundido en un Rincón (Acoustic)",
+      "genero": "Música latina",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Ayer (Remix)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.2
+    },
+    {
+      "nombre": "No Love",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Somebody Else's Money",
+      "genero": "Rock",
+      "artista": "The Wallflowers",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Notorious Thugs [Amended]",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Wave Wet Sand (Remastered)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Anything",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Tiburón (English Version)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Never Gonna Say I'm Sorry (Remastered)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Hot Sex (Instrumental)",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Malvenido (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Punk Song 2",
+      "genero": "Rock",
+      "artista": "Silverchair",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Collision",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Take the Time",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Changes (feat. Talent) [Greatest Hits Version]",
+      "genero": "Hip hop",
+      "artista": "2Pac",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Pull Me Under",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.4
+    },
+    {
+      "nombre": "If I Die Tonight",
+      "genero": "R&B",
+      "artista": "Montell Jordan, Flesh-n-Bone & Monifah",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Say You'll Be There (Live)",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Everybody in the Place (Fairground Remix)",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.7
+    },
+    {
+      "nombre": "La La La (Remix)",
+      "genero": "Música latina",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Obras de Poetas (Os Passarinhos)",
+      "genero": "Música latina",
+      "artista": "Chitãozinho & Xororó",
+      "idioma": "Brasilero",
+      "año": 1999,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Take Me Down (Remastered 2012)",
+      "genero": "Rock alternativo",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Song 2 (2012 Remaster)",
+      "genero": "Pop",
+      "artista": "Blur",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Si Supieras (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Dear Ol' Dad (Sippin' Time Sessions)",
+      "genero": "Rock",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Fable (Message Version)",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Wanted (Remastered 2026)",
+      "genero": "Rock",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Chalito",
+      "genero": "Rock alternativo",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Pumpin' (Hex Hector Remix)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Faces",
+      "genero": "Pop",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Bang and Blame (Remastered)",
+      "genero": "Rock alternativo",
+      "artista": "R.E.M.",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Naked",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Hawai (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Me Niego a Estar Solo",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Crazy (Back to the Roots Edit)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Return of the Mack (Radio Edit)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Starsky & Hutch (feat. Busta Rhymes)",
+      "genero": "Hip hop",
+      "artista": "LL COOL J",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.9
+    },
+    {
+      "nombre": "El Matador",
+      "genero": "Música latina",
+      "artista": "Los Fabulosos Cadillacs",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Spoonman",
+      "genero": "Hard rock",
+      "artista": "Soundgarden",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Salsalliancia",
+      "genero": "Hip hop",
+      "artista": "Alliance Ethnik",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Les cailloux",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1999,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Mimãr Você",
+      "genero": "Pop",
+      "artista": "Timbalada",
+      "idioma": "Brasilero",
+      "año": 1995,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Reloj de Plastilina (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Lie to Me",
+      "genero": "Grunge",
+      "artista": "Silverchair",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Vive Ya! (Vivere) (Acoustic)",
+      "genero": "Pop",
+      "artista": "Andrea Bocelli & Laura Pausini",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.5
+    },
+    {
+      "nombre": "There Will Never Be Another Tonight",
+      "genero": "Rock",
+      "artista": "Bryan Adams",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Down On My Knees",
+      "genero": "Hip hop",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Can't Nobody Hold Me Down (feat. Mase)",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Stupid Girl",
+      "genero": "Rock",
+      "artista": "Garbage",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Ain't That Unusual",
+      "genero": "Pop",
+      "artista": "The Goo Goo Dolls",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Hacelo por Mi (Remix)",
+      "genero": "Rock",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Serenity (Epilog)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.2
+    },
+    {
+      "nombre": "In My Dreams (Original Version)",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Las Miradas",
+      "genero": "Rock alternativo",
+      "artista": "Los Auténticos Decadentes",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Show Me Colours (Big Club Mix)",
+      "genero": "Dance",
+      "artista": "Masterboy",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "St. Andrew's Fall",
+      "genero": "Rock",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Quiero Más (Remix)",
+      "genero": "Música latina",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Block Rockin' Beats (Single Version)",
+      "genero": "Dance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Flesh",
+      "genero": "Pop",
+      "artista": "Aerosmith",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Slave New World",
+      "genero": "Heavy metal",
+      "artista": "Sepultura",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.2
+    },
+    {
+      "nombre": "É uma Partida de Futebol",
+      "genero": "Música latina",
+      "artista": "Skank",
+      "idioma": "Brasilero",
+      "año": 1996,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Virus (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Avail",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.4
+    },
+    {
+      "nombre": "...Baby One More Time",
+      "genero": "Pop",
+      "artista": "Britney Spears",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Sistema al Mejor Postor",
+      "genero": "Rock",
+      "artista": "Bersuit Vergarabat",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Land of Dreaming (Gospel Club Mix)",
+      "genero": "Dance",
+      "artista": "Masterboy",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Me Siento Mucho Mejor (I Feel Much Better)",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Pass The Mic (Remastered 2009)",
+      "genero": "Hip hop",
+      "artista": "Beastie Boys",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.4
+    },
+    {
+      "nombre": "No Sabes Cómo Duele",
+      "genero": "Música latina",
+      "artista": "Marc Anthony",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Certainly",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Four Days",
+      "genero": "Pop",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Aspero (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Mine, Mine, Mine",
+      "genero": "R&B",
+      "artista": "David Ogden Stiers & Mel Gibson",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.0
+    },
+    {
+      "nombre": "The Lord Is Real (Time Will Reveal)",
+      "genero": "R&B",
+      "artista": "Blackstreet",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Bird Dream of the Olympus Mons",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Jamás Abandoné (Live)",
+      "genero": "Música latina",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 5.8
+    },
+    {
+      "nombre": "Hoodlum (feat. Rakim & Big Noyd)",
+      "genero": "Hip hop",
+      "artista": "Mobb Deep",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Me Killa",
+      "genero": "Hip hop",
+      "artista": "Bone Thugs-n-Harmony",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Jericho",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Candyman",
+      "genero": "Hip hop",
+      "artista": "LL COOL J",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Dispárame Dispara (Remastered 2013) (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Laura Pausini",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Já Que Tá Gostoso Deixa (Mata Papai) [feat. Bateria do Salgueiro & Bateria do Olodum] [Remasterizado]",
+      "genero": "Música latina",
+      "artista": "Art Popular",
+      "idioma": "Brasilero",
+      "año": 1999,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Waitin",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Turandot, Act 3: Nessun Dorma!",
+      "genero": "Pop",
+      "artista": "Luciano Pavarotti, Dolores O'Riordan, Simon Le Bon, Michael Bolton, L'Orchestra Filarmonica Di Torino, Marco Armiliato, Bono, The Edge, Brian Eno, Jovanotti, Meat Loaf, Nenad Bach & Zucchero",
+      "idioma": "Italiano",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Traces",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.8
+    },
+    {
+      "nombre": "The Couch",
+      "genero": "Pop",
+      "artista": "Alanis Morissette",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Under My Skin",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "What You Want",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Ana",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Zealots",
+      "genero": "Pop",
+      "artista": "Fugees",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Lejos de Casa (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Rata Blanca",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Entre Mis Recuerdos (Version 95)",
+      "genero": "Música latina",
+      "artista": "Chayanne",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 10.0
+    },
+    {
+      "nombre": "Praise You",
+      "genero": "Dance",
+      "artista": "Fatboy Slim",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Salir a Comprar / Gol de Mujer (En Vivo) (Live)",
+      "genero": "Rock",
+      "artista": "Divididos",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Summer Of '69 (MTV Unplugged Version)",
+      "genero": "Rock",
+      "artista": "Bryan Adams",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Waterfalls",
+      "genero": "R&B",
+      "artista": "TLC",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Yuri-G",
+      "genero": "Rock",
+      "artista": "PJ Harvey",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Esperándote",
+      "genero": "Música latina",
+      "artista": "Cristian Castro",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Taste of India",
+      "genero": "Rock",
+      "artista": "Aerosmith",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Diddy Speaks",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.2
+    },
+    {
+      "nombre": "They Won't Go When I Go",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Boca de Pez",
+      "genero": "Música latina",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.3
+    },
+    {
+      "nombre": "De Mala Muerte (En Vivo) (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Einstein on the Beach (For an Eggman)",
+      "genero": "Rock",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Des jours adverses",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Mi Mundo En Tu Mano (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Jarabe de Palo",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.5
+    },
+    {
+      "nombre": "The Other Side",
+      "genero": "Rock",
+      "artista": "Aerosmith",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Bailando (Spanish Version) [feat. Descemer Bueno & Gente de Zona]",
+      "genero": "Música latina",
+      "artista": "Enrique Iglesias",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.9
+    },
+    {
+      "nombre": "No Limit (Marco De Jonge Club Remix)",
+      "genero": "Dance",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Tool",
+      "genero": "Grunge",
+      "artista": "Nuclear Hyde",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Adelante (Original 7\")",
+      "genero": "Dance",
+      "artista": "Sash!",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Straight, No Chaser (Remastered)",
+      "genero": "Rock",
+      "artista": "Bush",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.0
+    },
+    {
+      "nombre": "A Lo Loco",
+      "genero": "Música latina",
+      "artista": "Jarabe de Palo",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.9
+    },
+    {
+      "nombre": "No Limit (Automatic Remix)",
+      "genero": "Dance",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Allegria",
+      "genero": "Música latina",
+      "artista": "Gipsy Kings",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Walla Walla",
+      "genero": "Rock",
+      "artista": "The Offspring",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Bocanada",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Crying in the Rain (Extended Version)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Guilty Conscience (feat. Dr. Dre) [Radio Version]",
+      "genero": "Pop",
+      "artista": "Eminem",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.2
+    },
+    {
+      "nombre": "(A) Man Ray",
+      "genero": "Rock alternativo",
+      "artista": "Long Fin Killie",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 9.9
+    },
+    {
+      "nombre": "In the Closet (Single Version)",
+      "genero": "Pop",
+      "artista": "Michael Jackson",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Electrolite",
+      "genero": "Rock alternativo",
+      "artista": "R.E.M.",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Be My Druidess",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Break 'Em Off Some",
+      "genero": "Hip hop",
+      "artista": "Cypress Hill",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Ámame Suavecito",
+      "genero": "Música latina",
+      "artista": "Gilda",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Reprise (Live)",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Fable (extended)",
+      "genero": "Eurodance",
+      "artista": "LSR/CITY, Gareth Emery & Robert Miles",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Faceless Man",
+      "genero": "Hard rock",
+      "artista": "Creed",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Spend a Lifetime",
+      "genero": "Pop",
+      "artista": "Jamiroquai",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.4
+    },
+    {
+      "nombre": "No Llores por Mi",
+      "genero": "Música latina",
+      "artista": "Enrique Iglesias",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 9.6
+    },
+    {
+      "nombre": "The Great Beyond",
+      "genero": "Rock alternativo",
+      "artista": "R.E.M.",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Seven Caged Tigers (2021 Remaster)",
+      "genero": "Rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Dale Pascual",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Lucretia",
+      "genero": "Heavy metal",
+      "artista": "Megadeth",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Don't Turn Around",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Pupilas lejanas (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Giving It Up (Ace Version) [Bonus Track] [Remastered]",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Génesis",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Requiem do Pequeno",
+      "genero": "Música latina",
+      "artista": "Os Paralamas do Sucesso",
+      "idioma": "Brasilero",
+      "año": 1994,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Flood",
+      "genero": "Heavy metal",
+      "artista": "TOOL",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Up In Arms",
+      "genero": "Rock alternativo",
+      "artista": "Foo Fighters",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Crazy (Phil Chill Radio Edit)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Sugar",
+      "genero": "Rock",
+      "artista": "Lenny Kravitz",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Funeral for a Friend / Love Lies Bleeding (Live)",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Mas Cabezas Para Tu Pared (feat. João Gordo)",
+      "genero": "Heavy metal",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.1
+    },
+    {
+      "nombre": "La Guagua",
+      "genero": "Música latina",
+      "artista": "Celia Cruz",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Se Pareció Tanto a Ti",
+      "genero": "Música latina",
+      "artista": "Grupo Niche",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 6.1
+    },
+    {
+      "nombre": "World Coming Down",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Mio (Acoustic)",
+      "genero": "Música latina",
+      "artista": "Paulina Rubio",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 10.0
+    },
+    {
+      "nombre": "Trio Metal",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1998,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Let's Get Down (Brock Pocket Mix)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Wet My Bed",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Next Lifetime (Radio Version)",
+      "genero": "R&B",
+      "artista": "Erykah Badu",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Fax U",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.7
+    },
+    {
+      "nombre": "How Could I",
+      "genero": "Pop",
+      "artista": "Marc Anthony",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Old Skool",
+      "genero": "Hip hop",
+      "artista": "Suprême NTM",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Sobre la Hierba (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Babasónicos",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Long Day",
+      "genero": "Pop",
+      "artista": "Matchbox Twenty",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Get to Know You Better",
+      "genero": "R&B",
+      "artista": "Mary J. Blige",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Mc5",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Nada Que Ver",
+      "genero": "Música latina",
+      "artista": "Grupo Karicia",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Fay Wray Come Out and Play",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.2
+    },
+    {
+      "nombre": "La Pequeña Novia del Carioca",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Full Throttle",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Star A.D.",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Bandeira Flor",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1996,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Move Over",
+      "genero": "Dance",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Movete",
+      "genero": "Música latina",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Moan and Groan (C&J Radio Mix)",
+      "genero": "Pop",
+      "artista": "Mark Morrison",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "One Sweet Day",
+      "genero": "Pop",
+      "artista": "Mariah Carey & Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Bajo el Arcoíris (Version 95)",
+      "genero": "Música latina",
+      "artista": "Fey",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 10.0
+    },
+    {
+      "nombre": "That Shit (Explicit)",
+      "genero": "Pop",
+      "artista": "A Tribe Called Quest & Jd",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.3
+    },
+    {
+      "nombre": "No Me Conoces",
+      "genero": "Música latina",
+      "artista": "Marc Anthony",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Budsmokers Only",
+      "genero": "Hip hop",
+      "artista": "Bone Thugs-n-Harmony",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Dry County",
+      "genero": "Rock",
+      "artista": "Bon Jovi",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Antes de Morir (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Love Like This (feat. Lil' Ceasar)",
+      "genero": "R&B",
+      "artista": "SWV",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Contra la Corriente",
+      "genero": "Música latina",
+      "artista": "Marc Anthony",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.4
+    },
+    {
+      "nombre": "From Here to Eternity",
+      "genero": "Heavy metal",
+      "artista": "Iron Maiden",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Rhyme'll Shine On",
+      "genero": "Hip hop",
+      "artista": "Naughty By Nature",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Virus",
+      "genero": "Rock alternativo",
+      "artista": "Avail",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Motorway to Roswell",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.3
+    },
+    {
+      "nombre": "I'm Free (Version 95)",
+      "genero": "Pop",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Te Necesito (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Shakira",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Testify",
+      "genero": "Hard rock",
+      "artista": "Rage Against the Machine",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Put That on Everything",
+      "genero": "Pop",
+      "artista": "Brandy",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Can You Stand the Rain",
+      "genero": "R&B",
+      "artista": "Boyz II Men",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Fantasy (feat. Nile Rodgers)",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Tonight's the Night (feat. Tammy Lucas)",
+      "genero": "R&B",
+      "artista": "Blackstreet",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Beautiful",
+      "genero": "Hard rock",
+      "artista": "Creed",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Hola Que Tal",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.2
+    },
+    {
+      "nombre": "New Breed",
+      "genero": "Heavy metal",
+      "artista": "Fear Factory",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Spiel mit mir",
+      "genero": "Heavy metal",
+      "artista": "Rammstein",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Amigos (Live)",
+      "genero": "Rock alternativo",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Livin' On The Edge",
+      "genero": "Pop",
+      "artista": "Aerosmith",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.8
+    },
+    {
+      "nombre": "God Bless America",
+      "genero": "Pop",
+      "artista": "Céline Dion",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Delirio",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Bleed",
+      "genero": "Rock alternativo",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Let's Get High (Instrumental)",
+      "genero": "Hip hop",
+      "artista": "Dr. Dre",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.6
+    },
+    {
+      "nombre": "When You're Gone",
+      "genero": "Rock alternativo",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Fields of Joy",
+      "genero": "Rock",
+      "artista": "Lenny Kravitz",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Somebody To Love (Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992)",
+      "genero": "Rock",
+      "artista": "George Michael & Queen",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Ángel Eléctrico",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.3
+    },
+    {
+      "nombre": "What Is Love (Klaas Impact Mix Edit)",
+      "genero": "Pop",
+      "artista": "Klaas & Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.4
+    },
+    {
+      "nombre": "No More No Less",
+      "genero": "Rock",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.1
+    },
+    {
+      "nombre": "L'emozione Non Ha Voce (Io Non so Parlar D'amore)",
+      "genero": "Pop",
+      "artista": "Adriano Celentano",
+      "idioma": "Italiano",
+      "año": 1999,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Viviendo Deprisa (Version 95)",
+      "genero": "Pop",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Nous souviendrons-nous ?",
+      "genero": "Pop",
+      "artista": "Mylène Farmer",
+      "idioma": "Francés",
+      "año": 1991,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Living In A Bubble (Album Mix)",
+      "genero": "Dance",
+      "artista": "Eiffel 65",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Take Away My Pain",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Quiero Seguir Bailando",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Escucha Me",
+      "genero": "Música latina",
+      "artista": "Gipsy Kings",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Livin' on a Chain Gang",
+      "genero": "Rock",
+      "artista": "Skid Row",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.8
+    },
+    {
+      "nombre": "(Nice Dream)",
+      "genero": "Rock alternativo",
+      "artista": "Radiohead",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Coral",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Sigan Bailando",
+      "genero": "Música latina",
+      "artista": "Ilegales",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.5
+    },
+    {
+      "nombre": "¿Cómo Te Lo Digo?",
+      "genero": "Música latina",
+      "artista": "Commanche",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Swing da Cor",
+      "genero": "Música latina",
+      "artista": "Daniela Mercury",
+      "idioma": "Brasilero",
+      "año": 1998,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Blooming 18 (Remastered)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Como un Perro Enloquecido (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Maná",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Pull",
+      "genero": "Rock",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Pray for Redemption",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Dirty Magic",
+      "genero": "Rock alternativo",
+      "artista": "The Offspring",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Everybody Loves a Carnival",
+      "genero": "Dance",
+      "artista": "Fatboy Slim",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Más Guapa Que Cualquiera",
+      "genero": "Música latina",
+      "artista": "Joaquín Sabina & Fito Páez",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Después de Ti...¿Que?",
+      "genero": "Música latina",
+      "artista": "Raúl Di Blasio",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Quelle gratitude (Instrumental)",
+      "genero": "Hip hop",
+      "artista": "Suprême NTM",
+      "idioma": "Francés",
+      "año": 1991,
+      "rating": 7.7
+    },
+    {
+      "nombre": "La banda de la esquina (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Acid 8000",
+      "genero": "Dance",
+      "artista": "Fatboy Slim",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Suspended In Dusk",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Cuando Te Beso",
+      "genero": "Música latina",
+      "artista": "Juan Luis Guerra",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Tell Me That You Wait",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.1
+    },
+    {
+      "nombre": "My Name Is Not Susan",
+      "genero": "Pop",
+      "artista": "Whitney Houston",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Muzzle (Remastered 2012)",
+      "genero": "Rock alternativo",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Tryin' to Throw Your Arms Around the World",
+      "genero": "Rock",
+      "artista": "U2",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.4
+    },
+    {
+      "nombre": "New Damage (Remastered 2016)",
+      "genero": "Rock",
+      "artista": "Soundgarden",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.5
+    },
+    {
+      "nombre": "2 Times (Masterboy Radio Mix)",
+      "genero": "Eurodance",
+      "artista": "Ann Lee",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Hole",
+      "genero": "Rock",
+      "artista": "Grey Daze",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Mil Horas (Version 95)",
+      "genero": "Pop",
+      "artista": "Andrés Calamaro",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.4
+    },
+    {
+      "nombre": "The Good Die Young",
+      "genero": "Hip hop",
+      "artista": "2Pac & Outlawz",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Media Veronica (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Andrés Calamaro",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Comida China",
+      "genero": "Rock alternativo",
+      "artista": "ANDRES CALAMARO",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Hijos Del Sol",
+      "genero": "Heavy metal",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Take Me (Remix)",
+      "genero": "Pop",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Yeats' Grave (2025 Remastered)",
+      "genero": "Rock",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Lyrics to Go",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Self Bias Resistor",
+      "genero": "Heavy metal",
+      "artista": "Fear Factory",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Sol, Arena y Mar",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Do You Know Where You're Coming From? (feat. Jamiroquai)",
+      "genero": "Pop",
+      "artista": "M-Beat",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Juliana",
+      "genero": "Música latina",
+      "artista": "DLG",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Be Quiet and Drive (Far Away)",
+      "genero": "Hard rock",
+      "artista": "Deftones",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Wrong Way (Remastered 2024)",
+      "genero": "Rock",
+      "artista": "Creed",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Hasta Estallar (feat. León Gieco) (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.1
+    },
+    {
+      "nombre": "The Best Things In Life Are Free (feat. Ralph Tresvant & Bell Biv DeVoe)",
+      "genero": "R&B",
+      "artista": "Janet Jackson & Luther Vandross",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.0
+    },
+    {
+      "nombre": "I'll Be There (feat. Trey Lorenz) [Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992]",
+      "genero": "Pop",
+      "artista": "Mariah Carey",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Love & Liberte",
+      "genero": "Música latina",
+      "artista": "Gipsy Kings",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Por siete vidas (Cacería)",
+      "genero": "Rock alternativo",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Get Ready (Rapversion Edit)",
+      "genero": "Dance",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Miénteme",
+      "genero": "Música latina",
+      "artista": "Sentidos Opuestos",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Died",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Cómo Te Echo de Menos (Acoustic)",
+      "genero": "Música latina",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Blues de la Artillería",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Brother",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.3
+    },
+    {
+      "nombre": "2 Become 1 (Single Version)",
+      "genero": "Dance",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Crack Hitler",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Celia Cruz (Popurri)",
+      "genero": "Música latina",
+      "artista": "El Super Show De Los Vaskez",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.4
+    },
+    {
+      "nombre": "World in Your Hands (Tribal Mix)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Smack My Bitch Up (Radio Edit)",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Get Ready for This (68 Beat Monster Mix)",
+      "genero": "Dance",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Alborada",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Henry Lee (feat. PJ Harvey) [2011 - Remaster]",
+      "genero": "Rock",
+      "artista": "Nick Cave & The Bad Seeds",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Lune de lait",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Hey Love (Keep It Real) [Interlude]",
+      "genero": "R&B",
+      "artista": "Blackstreet",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Goodbye (Single Edit)",
+      "genero": "Dance",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.0
+    },
+    {
+      "nombre": "El Balz",
+      "genero": "Heavy metal",
+      "artista": "A.N.I.M.A.L.",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Les hommes qui passent",
+      "genero": "Pop",
+      "artista": "Patricia Kaas",
+      "idioma": "Francés",
+      "año": 1990,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Sure Shot",
+      "genero": "Hip hop",
+      "artista": "Beastie Boys",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Mr. Vain (Decent Mix)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Gimme the Loot",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Say My Name",
+      "genero": "R&B",
+      "artista": "Destiny's Child",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Hallo Hallo (Alternative Instrumental)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Je ne parlerai pas (J'ecrirai)",
+      "genero": "Pop",
+      "artista": "Claude Barzotti",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Thank You",
+      "genero": "Rock alternativo",
+      "artista": "Alanis Morissette",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Stay",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.5
+    },
+    {
+      "nombre": "No Podrás (Remix)",
+      "genero": "Música latina",
+      "artista": "Cristian Castro",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.1
+    },
+    {
+      "nombre": "I Will Always Love You",
+      "genero": "Pop",
+      "artista": "Whitney Houston",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Fantasy",
+      "genero": "Pop",
+      "artista": "Mariah Carey",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Savage Garden (Remastered 2006)",
+      "genero": "Rock",
+      "artista": "The 69 Eyes",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Hotblooded",
+      "genero": "Pop",
+      "artista": "Roxette",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.7
+    },
+    {
+      "nombre": "You Belong",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Skew It on the Bar-B (feat. Raekwon)",
+      "genero": "Hip hop",
+      "artista": "Outkast",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Por Ser Bonita (feat. Los Avila)",
+      "genero": "Música latina",
+      "artista": "Grupo Sombras",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 6.5
+    },
+    {
+      "nombre": "Blind (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Silverchair",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Because of Love",
+      "genero": "Pop",
+      "artista": "Janet Jackson",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Y, Si Fuera Ella?",
+      "genero": "Música latina",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Creep (Live) [MTV Unplugged, 11/17/93]",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.0
+    },
+    {
+      "nombre": "En el Cielo",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Grind",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Los Dos Cogidos de la Mano",
+      "genero": "Pop",
+      "artista": "Alejandro Sanz",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 9.7
+    },
+    {
+      "nombre": "The Way Love Is (Alternative Mix)",
+      "genero": "Dance",
+      "artista": "Captain Hollywood Project",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Air",
+      "genero": "Pop",
+      "artista": "Guy Smiley",
+      "idioma": "Francés",
+      "año": 1991,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Le paravent",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1992,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Turn the Beat Around (Live)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Torteval",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Edge of Heaven (Remastered)",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Echa Pa' Lante",
+      "genero": "Dance",
+      "artista": "Thalía",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Drawing Flies (Remastered 2016)",
+      "genero": "Rock",
+      "artista": "Soundgarden",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Sumar Tiempo No Es Sumar Amor (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Crying in the Rain (Großer Club Mix)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Star People (Live)",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Leave Home",
+      "genero": "Dance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Stain of Mind",
+      "genero": "Heavy metal",
+      "artista": "Slayer",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Jesús Verbo No Sustantivo (Spanish Version) (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Ricardo Arjona",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Reach",
+      "genero": "Rock",
+      "artista": "Collective Soul",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Don't Stop (Single Version)",
+      "genero": "Dance",
+      "artista": "M.C.Sar & Real McCoy",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.1
+    },
+    {
+      "nombre": "La Gallínita de los Huevos de Oro",
+      "genero": "Música latina",
+      "artista": "Grupo Niche",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Fictional Reality",
+      "genero": "Heavy metal",
+      "artista": "Slayer",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Church of Your Heart",
+      "genero": "Pop",
+      "artista": "Roxette",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.9
+    },
+    {
+      "nombre": "My Mind (2015 Remastered Version) [Mindless Mix]",
+      "genero": "Pop",
+      "artista": "Ace of Base",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Stay (feat. La Trec)",
+      "genero": "Dance",
+      "artista": "Sash!",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Reach (Version 95)",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.6
+    },
+    {
+      "nombre": "On the Bound",
+      "genero": "Rock alternativo",
+      "artista": "Fiona Apple",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Ridiculous Thoughts",
+      "genero": "Pop",
+      "artista": "The Cranberries",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Wicked Garden (Demo)",
+      "genero": "Hard rock",
+      "artista": "Stone Temple Pilots",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Skank",
+      "genero": "Dance",
+      "artista": "Higher Intelligence Agency",
+      "idioma": "Brasilero",
+      "año": 1995,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Marea de Venus (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Pasajera en Trance (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.4
+    },
+    {
+      "nombre": "ATLiens",
+      "genero": "Hip hop",
+      "artista": "Outkast",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.0
+    },
+    {
+      "nombre": "De Mala Muerte (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.5
+    },
+    {
+      "nombre": "La Canción de los (Buenos) Borrachos",
+      "genero": "Música latina",
+      "artista": "Fito Páez & Joaquín Sabina",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Serenity In Murder",
+      "genero": "Heavy metal",
+      "artista": "Slayer",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Confessions (feat. Missy Elliott)",
+      "genero": "R&B",
+      "artista": "Destiny's Child",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Smashed 'n Trashed (Remastered 2006)",
+      "genero": "Rock",
+      "artista": "The 69 Eyes",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Je serai là",
+      "genero": "Pop",
+      "artista": "Claude Barzotti",
+      "idioma": "Francés",
+      "año": 1997,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Europop (No Fear Trance Mix)",
+      "genero": "Dance",
+      "artista": "Eiffel 65",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Vengo del Placard de Otro (En Vivo)",
+      "genero": "Rock",
+      "artista": "Divididos",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Perfección",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Garden",
+      "genero": "Rock alternativo",
+      "artista": "Pearl Jam",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Is This the Love (Union Mix)",
+      "genero": "Pop",
+      "artista": "Masterboy",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Stillness In Time",
+      "genero": "Pop",
+      "artista": "Jamiroquai",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Down to the Well",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.2
+    },
+    {
+      "nombre": "El Peor",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Ain't Nothin' Changed (feat. Majesty) [Everyday Thang Part 2]",
+      "genero": "Hip hop",
+      "artista": "Bone Thugs-n-Harmony",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Poetry (feat. Q-Tip & Erykah Badu)",
+      "genero": "R&B",
+      "artista": "Roy Hargrove",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Tones of Home",
+      "genero": "Rock alternativo",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Straniero (L'étranger) [Version française]",
+      "genero": "Pop",
+      "artista": "Claude Barzotti",
+      "idioma": "Francés",
+      "año": 1995,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Lie To Me",
+      "genero": "Rock",
+      "artista": "Bon Jovi",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Creo",
+      "genero": "Rock alternativo",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Spending My Time (US Adult Contemporary Mix)",
+      "genero": "Pop",
+      "artista": "Roxette",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.6
+    },
+    {
+      "nombre": "Coolo (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Illya Kuryaki & The Valderramas",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Slave",
+      "genero": "Grunge",
+      "artista": "Silverchair",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Falling",
+      "genero": "Rock",
+      "artista": "Decry",
+      "idioma": "Brasilero",
+      "año": 1994,
+      "rating": 9.6
+    },
+    {
+      "nombre": "What Is Love (7\" Mix)",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Sign of the Cross (2015 Remaster)",
+      "genero": "Heavy metal",
+      "artista": "Iron Maiden",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Hollow Years",
+      "genero": "Heavy metal",
+      "artista": "Dream Theater",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Speedway (Theme from \"Fastlane\")",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.9
+    },
+    {
+      "nombre": "If You Leave (feat. Next)",
+      "genero": "R&B",
+      "artista": "Destiny's Child",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Todo Cambia (Remix)",
+      "genero": "Pop",
+      "artista": "Man Ray",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.1
+    },
+    {
+      "nombre": "The Star Spangled Banner",
+      "genero": "Pop",
+      "artista": "Whitney Houston & The Florida Orchestra",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 9.8
+    },
+    {
+      "nombre": "La Media Vuelta",
+      "genero": "Música latina",
+      "artista": "Luis Miguel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Selena",
+      "genero": "Música latina",
+      "artista": "Various Artists - Jamdown Records",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Sabor a Miel (Version 95)",
+      "genero": "Música latina",
+      "artista": "Paulina Rubio",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Doo Wop (That Thing) [Gordon's Dub]",
+      "genero": "R&B",
+      "artista": "Lauryn Hill",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Vivo Per Lei (feat. Giorgia)",
+      "genero": "Pop",
+      "artista": "Andrea Bocelli",
+      "idioma": "Italiano",
+      "año": 1995,
+      "rating": 6.1
+    },
+    {
+      "nombre": "It Must Have Been Love (L.A. Version 1992)",
+      "genero": "Pop",
+      "artista": "Roxette",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Dejame Probar (Taste Your Love)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Tu Medicina",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Fous à lier",
+      "genero": "Pop",
+      "artista": "Les Innocents",
+      "idioma": "Francés",
+      "año": 1992,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Don't Keep Me Waiting",
+      "genero": "Hip hop",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Edgecrusher",
+      "genero": "Heavy metal",
+      "artista": "Fear Factory",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Pudo Ser",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Madre Tierra (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati & Daniel Melero",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Where Does My Heart Beat Now",
+      "genero": "Pop",
+      "artista": "Céline Dion",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Mama's House",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Freedom",
+      "genero": "Hard rock",
+      "artista": "Rage Against the Machine",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.0
+    },
+    {
+      "nombre": "The Magic Friend (Rio & Le Jean Remix)",
+      "genero": "Dance",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Lady Luck (Remastered 2006)",
+      "genero": "Rock",
+      "artista": "The 69 Eyes",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.1
+    },
+    {
+      "nombre": "Ultra Violet (Light My Way)",
+      "genero": "Rock",
+      "artista": "U2",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Life (Club Life)",
+      "genero": "Pop",
+      "artista": "Haddaway",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Habana (Live)",
+      "genero": "Rock alternativo",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Flying High (Extended Mix)",
+      "genero": "Dance",
+      "artista": "Captain Hollywood Project",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Blue (Da Ba Dee) [Dub Mix]",
+      "genero": "Dance",
+      "artista": "Eiffel 65",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Toes Across the Floor",
+      "genero": "Rock",
+      "artista": "Blind Melon",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Rain King (Live At Chelsea Studios, New York/1997)",
+      "genero": "Pop",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Lámpara Mágica",
+      "genero": "Música latina",
+      "artista": "Marta Sánchez",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Charly (Original Mix)",
+      "genero": "Dance",
+      "artista": "The Prodigy",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Inside Out (Not Loveland Master Mix 12\")",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Ascension (No One's Gonna Love You, So Don't Ever Wonder) [The Tribute] [Cut]",
+      "genero": "R&B",
+      "artista": "Maxwell",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.8
+    },
+    {
+      "nombre": "When You Believe (from \"The Prince of Egypt\")",
+      "genero": "Pop",
+      "artista": "Mariah Carey & Whitney Houston",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.0
+    },
+    {
+      "nombre": "Fiesta Caliente",
+      "genero": "Música latina",
+      "artista": "Ilegales",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Caña Seca y un Membrillo",
+      "genero": "Rock",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.5
+    },
+    {
+      "nombre": "How Many of Us Have Them",
+      "genero": "Hip hop",
+      "artista": "Bone Thugs-n-Harmony",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Quieres tú Bailar? (Do You Want to Dance)",
+      "genero": "Rock alternativo",
+      "artista": "Attaque 77",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Pain",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Brown Sugar (C J Mackintosh Remix Edit)",
+      "genero": "R&B",
+      "artista": "D'Angelo",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.0
+    },
+    {
+      "nombre": "That Was My Veil",
+      "genero": "Rock",
+      "artista": "PJ Harvey & John Parish",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.1
+    },
+    {
+      "nombre": "The Professional (feat. Mobb Deep & Noyd)",
+      "genero": "Hip hop",
+      "artista": "DJ Clue",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Si Tú Te Vas (Acoustic)",
+      "genero": "Música latina",
+      "artista": "Enrique Iglesias",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Mental Picture",
+      "genero": "Pop",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Civil War",
+      "genero": "Hard rock",
+      "artista": "Guns N' Roses",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Isabel (Vivo '94) (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Ratones Paranoicos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Depende",
+      "genero": "Música latina",
+      "artista": "Jarabe de Palo",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 9.8
+    },
+    {
+      "nombre": "Alive (Brendan O'Brien Mix)",
+      "genero": "Rock alternativo",
+      "artista": "Pearl Jam",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Hawaii (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Stomp (feat. Coolio, Yo-Yo, Shaquille O'Neal, Luniz, Charlie Wilson, Chaka Khan, Luke Cresswell, Fiona Wilkes, Carl Smith, Fraser Harrison, Everett Bradley, Mr. X & Melle Mel) [Booker T. Underground Mix]",
+      "genero": "R&B",
+      "artista": "Quincy Jones",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Drifting Along (Remastered)",
+      "genero": "Pop",
+      "artista": "Jamiroquai",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Eternamente",
+      "genero": "Pop",
+      "artista": "Sentidos Opuestos",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Ojo de la Tormenta (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Move Your Body (Djs From Mars Radio Remix)",
+      "genero": "Dance",
+      "artista": "Eiffel 65",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 9.5
+    },
+    {
+      "nombre": "Down In a Hole",
+      "genero": "Rock alternativo",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.6
+    },
+    {
+      "nombre": "I Like You (Original Radio Edit) [feat. Lana E. & Jay Supreme]",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 7.5
+    },
+    {
+      "nombre": "I'll Do Anything",
+      "genero": "Hip hop",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "You Can't Run",
+      "genero": "R&B",
+      "artista": "Vanessa Williams",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Tú y Yo (Live)",
+      "genero": "Música latina",
+      "artista": "Sentidos Opuestos",
+      "idioma": "Español",
+      "año": 1998,
+      "rating": 8.6
+    },
+    {
+      "nombre": "No Morirá (No Matter What)",
+      "genero": "Música latina",
+      "artista": "DLG",
+      "idioma": "Español",
+      "año": 1995,
+      "rating": 8.4
+    },
+    {
+      "nombre": "Would?",
+      "genero": "Rock alternativo",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Walk the Same Line (Original Radio Edit)",
+      "genero": "Dance",
+      "artista": "Culture Beat",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Truthfully",
+      "genero": "Pop",
+      "artista": "Brandy",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Soul Surfing",
+      "genero": "Dance",
+      "artista": "Fatboy Slim",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Won't Waste You (feat. Missy \"Misdemeanor\" Elliott)",
+      "genero": "R&B",
+      "artista": "Jodeci",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.5
+    },
+    {
+      "nombre": "Caia pra Dentro (Chove Chuva)",
+      "genero": "Música latina",
+      "artista": "É O Tchan & Gera Samba",
+      "idioma": "Brasilero",
+      "año": 1995,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Parate y Mira (Remix)",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 5.9
+    },
+    {
+      "nombre": "Mercury (Live At Chelsea Studios, New York/1997)",
+      "genero": "Pop",
+      "artista": "Counting Crows",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Si tu rêves",
+      "genero": "Pop",
+      "artista": "Patricia Kaas",
+      "idioma": "Francés",
+      "año": 1999,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Take Me Down",
+      "genero": "Hard rock",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 7.2
+    },
+    {
+      "nombre": "Gestation: Mythos (Remastered 2018)",
+      "genero": "R&B",
+      "artista": "Maxwell",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.7
+    },
+    {
+      "nombre": "A Don Ata",
+      "genero": "Música latina",
+      "artista": "Soledad",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 7.6
+    },
+    {
+      "nombre": "4 Moms (feat. Spanky)",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Volveras",
+      "genero": "Pop",
+      "artista": "Gloria Estefan",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Mañana (Live)",
+      "genero": "Música latina",
+      "artista": "Cristian Castro & Juan Gabriel",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Ready or Not (Salaam's Ready for the Show Remix)",
+      "genero": "R&B",
+      "artista": "Fugees",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Suitelady (The Proposal Jam) [Cut]",
+      "genero": "R&B",
+      "artista": "Maxwell",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Dirty South, Dirty Jerz (feat. Naughty By Nature)",
+      "genero": "Hip hop",
+      "artista": "Mystikal",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 8.8
+    },
+    {
+      "nombre": "Mil Noches (En Vivo)",
+      "genero": "Rock alternativo",
+      "artista": "Los Auténticos Decadentes",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 7.1
+    },
+    {
+      "nombre": "I Wanna",
+      "genero": "Hip hop",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.3
+    },
+    {
+      "nombre": "Tribal Dance",
+      "genero": "Pop",
+      "artista": "2 Unlimited",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Pulsar (Radio Edit)",
+      "genero": "Rock alternativo",
+      "artista": "Gustavo Cerati",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.9
+    },
+    {
+      "nombre": "Agord, la Bruja (Remix)",
+      "genero": "Rock alternativo",
+      "artista": "Rata Blanca",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 6.9
+    },
+    {
+      "nombre": "Rusty Cage (Remastered 2016)",
+      "genero": "Rock",
+      "artista": "Soundgarden",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 8.7
+    },
+    {
+      "nombre": "G'd Up",
+      "genero": "Hip hop",
+      "artista": "Snoop Dogg & Tha Eastsidaz",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 7.1
+    },
+    {
+      "nombre": "Devil's Dance",
+      "genero": "Heavy metal",
+      "artista": "Metallica",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Divididos",
+      "genero": "Rock alternativo",
+      "artista": "Rostros Ocultos",
+      "idioma": "Español",
+      "año": 1997,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Hip Hop Hooray (Pete Rock Remix)",
+      "genero": "Hip hop",
+      "artista": "Naughty By Nature",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Vení Raquel (Live)",
+      "genero": "Música latina",
+      "artista": "Los Auténticos Decadentes",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Lucerito",
+      "genero": "Música latina",
+      "artista": "Jorge Avila & Grupo Sombras",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Y Dale Alegría a Mi Corazón",
+      "genero": "Música latina",
+      "artista": "Fito Páez",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Everybody Must Get Stoned",
+      "genero": "Hip hop",
+      "artista": "Cypress Hill",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.0
+    },
+    {
+      "nombre": "Patinador Sagrado (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Babasónicos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 9.1
+    },
+    {
+      "nombre": "The Pressure",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Black No. 1",
+      "genero": "Heavy metal",
+      "artista": "Type O Negative",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 9.7
+    },
+    {
+      "nombre": "Ángel (Version 95)",
+      "genero": "Música latina",
+      "artista": "Jon Secada",
+      "idioma": "Español",
+      "año": 1992,
+      "rating": 6.1
+    },
+    {
+      "nombre": "No Excuses (Live)",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Block Rockin' Beats",
+      "genero": "Dance",
+      "artista": "The Chemical Brothers",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Générique (Orchestral)",
+      "genero": "Pop",
+      "artista": "Patricia Kaas",
+      "idioma": "Francés",
+      "año": 1990,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Dieu ait son âme (feat. Derin Young)",
+      "genero": "Hip hop",
+      "artista": "MC Solaar",
+      "idioma": "Francés",
+      "año": 1994,
+      "rating": 8.5
+    },
+    {
+      "nombre": "No Estas Solo (Radio Edit)",
+      "genero": "Música latina",
+      "artista": "Los Pericos",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.3
+    },
+    {
+      "nombre": "Footprints (feat. CeeLo Green) [Remix]",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Sweet Sahumerío",
+      "genero": "Rock alternativo",
+      "artista": "Soda Stereo",
+      "idioma": "Español",
+      "año": 1993,
+      "rating": 7.8
+    },
+    {
+      "nombre": "The Sweetest Days",
+      "genero": "R&B",
+      "artista": "Vanessa Williams",
+      "idioma": "Inglés",
+      "año": 1992,
+      "rating": 8.6
+    },
+    {
+      "nombre": "Ugly In the Morning",
+      "genero": "Hard rock",
+      "artista": "Faith No More",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Break Me Shake Me (Broken Mix)",
+      "genero": "Pop",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Love Can Move You",
+      "genero": "Rock",
+      "artista": "Savage Garden",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.5
+    },
+    {
+      "nombre": "I Wanna Know",
+      "genero": "R&B",
+      "artista": "Joe",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.4
+    },
+    {
+      "nombre": "Una Aventura",
+      "genero": "Música latina",
+      "artista": "Grupo Niche",
+      "idioma": "Español",
+      "año": 1990,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Crush",
+      "genero": "Hard rock",
+      "artista": "The Smashing Pumpkins",
+      "idioma": "Inglés",
+      "año": 1991,
+      "rating": 7.0
+    },
+    {
+      "nombre": "Come With Me (feat. Various Artists)",
+      "genero": "Hip hop",
+      "artista": "Puff Daddy & Jimmy Page",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 6.1
+    },
+    {
+      "nombre": "El Amor de Mi Vida",
+      "genero": "Música latina",
+      "artista": "Ricky Martin",
+      "idioma": "Español",
+      "año": 1991,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Fable (Dream Version)",
+      "genero": "Dance",
+      "artista": "Robert Miles",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.3
+    },
+    {
+      "nombre": "The Thing",
+      "genero": "Rock alternativo",
+      "artista": "Pixies",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Heartz of Men",
+      "genero": "Hip hop",
+      "artista": "2Pac",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Get It On Tonite",
+      "genero": "R&B",
+      "artista": "Montell Jordan",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.4
+    },
+    {
+      "nombre": "Brinca (Sabrosura Mix)",
+      "genero": "Música latina",
+      "artista": "Proyecto Uno",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.2
+    },
+    {
+      "nombre": "Después de Ti... Qué? (with Cristian Castro) (En Vivo)",
+      "genero": "Música latina",
+      "artista": "Raúl Di Blasio",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.9
+    },
+    {
+      "nombre": "Mama (Live In Istanbul)",
+      "genero": "Dance",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 7.8
+    },
+    {
+      "nombre": "16 Men Till There's No Men Left (LP Version)",
+      "genero": "Pop",
+      "artista": "Cypress Hill",
+      "idioma": "Inglés",
+      "año": 1998,
+      "rating": 8.7
+    },
+    {
+      "nombre": "Senderos",
+      "genero": "Rock alternativo",
+      "artista": "Las Pelotas",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 7.8
+    },
+    {
+      "nombre": "Desmargaritando el Corazón",
+      "genero": "Música latina",
+      "artista": "Fey",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 9.9
+    },
+    {
+      "nombre": "Marvin Interlude",
+      "genero": "Pop",
+      "artista": "Mary J. Blige",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 9.2
+    },
+    {
+      "nombre": "Cowboys and Angels",
+      "genero": "Pop",
+      "artista": "George Michael",
+      "idioma": "Inglés",
+      "año": 1990,
+      "rating": 9.4
+    },
+    {
+      "nombre": "El Viento Que Todo Empuja (Radio Edit)",
+      "genero": "Rock",
+      "artista": "La Renga",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.2
+    },
+    {
+      "nombre": "Sky's the Limit (feat. 112) [Amended]",
+      "genero": "Hip hop",
+      "artista": "The Notorious B.I.G.",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 6.6
+    },
+    {
+      "nombre": "Don't Be Late, Don't Come Too Soon (feat. Tamia)",
+      "genero": "Hip hop",
+      "artista": "LL COOL J",
+      "idioma": "Inglés",
+      "año": 1997,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Scam",
+      "genero": "Pop",
+      "artista": "Jamiroquai",
+      "idioma": "Inglés",
+      "año": 1994,
+      "rating": 8.0
+    },
+    {
+      "nombre": "Que Pasa en el Barrío",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 8.3
+    },
+    {
+      "nombre": "Back Seat",
+      "genero": "Hip hop",
+      "artista": "LL COOL J",
+      "idioma": "Inglés",
+      "año": 1993,
+      "rating": 6.6
+    },
+    {
+      "nombre": "No Soy un Extraño",
+      "genero": "Rock alternativo",
+      "artista": "Charly Garcia",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.7
+    }
+  ]
+}
