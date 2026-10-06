@@ -1,0 +1,84 @@
+{
+  "temas": [
+    {
+      "nombre": "Say You'll Be There (7” Radio Mix)",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.3
+    },
+    {
+      "nombre": "Description of a Fool",
+      "genero": "Hip hop",
+      "artista": "A Tribe Called Quest",
+      "idioma": "Inglés",
+      "año": 1999,
+      "rating": 6.7
+    },
+    {
+      "nombre": "Metallica",
+      "genero": "Rock",
+      "artista": "P.E.E.",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 8.1
+    },
+    {
+      "nombre": "Los Miserables",
+      "genero": "Rock alternativo",
+      "artista": "Los Caballeros de la Quema",
+      "idioma": "Español",
+      "año": 1994,
+      "rating": 8.5
+    },
+    {
+      "nombre": "Last Time Lover",
+      "genero": "Pop",
+      "artista": "Spice Girls",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 7.7
+    },
+    {
+      "nombre": "Siempre Hace Frío",
+      "genero": "Música latina",
+      "artista": "Selena",
+      "idioma": "Español",
+      "año": 1996,
+      "rating": 6.1
+    },
+    {
+      "nombre": "Sean Olson",
+      "genero": "Heavy metal",
+      "artista": "Korn",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 6.8
+    },
+    {
+      "nombre": "Meet Ze Monsta",
+      "genero": "Rock",
+      "artista": "PJ Harvey",
+      "idioma": "Inglés",
+      "año": 1995,
+      "rating": 9.4
+    },
+    {
+      "nombre": "Sludge Factory (Live)",
+      "genero": "Hard rock",
+      "artista": "Alice In Chains",
+      "idioma": "Inglés",
+      "año": 1996,
+      "rating": 9.6
+    },
+    {
+      "nombre": "Rebeca (Version 95)",
+      "genero": "Rock alternativo",
+      "artista": "Los Enanitos Verdes",
+      "idioma": "Español",
+      "año": 1999,
+      "rating": 7.2
+    }
+  ]
+}
