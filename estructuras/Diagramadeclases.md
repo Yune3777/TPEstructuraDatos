@@ -1,18 +1,27 @@
+
+```mermaid
 classDiagram
     class OidMortales {
-        - List~Cancion~ canciones
-        + buscarPorCancion(titulo: String) List~Cancion~
-        + obtenerCancionAleatoria() Cancion
-        + obtenerTop10PorAnio(anio: int) List~Cancion~
-        + obtenerRecomendacionesPorSimilitud(cancion: Cancion) List~Cancion~
+        -List canciones
+        +buscarPorCancion(String titulo)
+        +obtenerCancionAleatoria()
+        +obtenerTop10PorAnio(int anio)
+        +obtenerRecomendacionesPorSimilitud(Cancion cancion)
     }
 
     class Cancion {
-        - String titulo
-        - int anio
+        -String titulo
+        -int anio
     }
 
     OidMortales "1" *-- "*" Cancion : contiene
+```
+
+
+
+
+
+
 
 
 
