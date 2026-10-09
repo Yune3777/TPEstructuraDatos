@@ -6,3 +6,4 @@ datos/
 arbol_binario.py
 test/
 rich/
+.venv
