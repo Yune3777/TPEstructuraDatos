@@ -40,12 +40,13 @@ python main.py
 ### ️ Menú principal
 
 ```bash
+
 - Búsqueda por Canción: introducir el nombre de la canción para obtener todos los datos de ella.
-- Canción Aleatoria: se recomienda una canción aleatoria de cualquier género, banda o cantante, idioma o año.
-- Top 10: elegir entre español o inglés para que devuelva una canción en ese idioma.
-- Explorar por Género: elegir el género y devuelve una banda o un cantante perteneciente a él.
-- Buscador de Artistas: introducir el nombre del cantante o banda y devuelven sus canciones.
-- Buscador por año: introducir un año en concreto para conocer todas las canciones que salieron en ese momento.
+- Canción Aleatoria: se recomienda una canción aleatoria cualquiera.
+- Explorar por Género: elegir el género y devuelve canciones de ese género.
+- Recomendaciones por similitud: introducir el nombre de una canción y devuelven canciones similares en cuanto a género o artista.
+- Top 10 por año: muestra el top 10 de las mejores canciones de cada año.
+
 ```
 
 ### Ejemplo de uso
@@ -54,12 +55,11 @@ python main.py
 ========================================
 OÍD MORTALES - TERMINAL
 ========================================
-1. Buscar Canción
+1. Búsqueda por Canción
 2. Canción Aleatoria
-3. Ver Top 10
-4. Explorar por Género
-5. Buscador de Artistas
-6. Buscador por Año
+3. Explorar por Género
+4. Recomendaciones por similitud
+5. Top 10 por Año
 0. Salir
 ----------------------------------------
 Opción: 1

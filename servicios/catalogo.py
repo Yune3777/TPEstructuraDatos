@@ -1,6 +1,7 @@
 import json
 import sys
 import os
+import random
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from modelos.cancion import Cancion
 
@@ -10,11 +11,11 @@ class Catalogo:
         self._elementos: list[Cancion] = []
     
     def cargar_desde_json(self, ruta: str) -> None:
-        with open('datos/canciones_90s_10.json', 'r', encoding='utf-8') as canciones:
+        with open('datos/dataset_1000.json', 'r', encoding='utf-8') as canciones:
             catalogo = json.load(canciones) # Carga el contenido en un diccionario o lista
         for item in catalogo["temas"]:
             self._elementos.append(
-                Cancion(item["nombre"], item["genero"], item["artista"], item["idioma"], item["año"])
+                Cancion(item["nombre"], item["genero"], item["artista"], item["rating"], item["año"], item["idioma"])
             )
                 
     
@@ -24,8 +25,8 @@ class Catalogo:
                 return cancion
         return None
 
-    def listar(self) -> list[Cancion]:
-        return list(self._elementos)
+    def cancion_aleatoria(self) -> Cancion:
+        return random.choice(self._elementos)
     
     def filtrar(self, genero: str) -> list[Cancion]:
         return [
