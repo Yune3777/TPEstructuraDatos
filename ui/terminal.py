@@ -28,7 +28,7 @@ class Terminal:
             
 
     def _mostrar_menu(self) -> None:
-        print(Panel(Align.center("OÍD MORTALES"), title="Versión 1.0", title_align="right"))
+        print(Panel(Align.center("✦ ✦ OÍD MORTALES ✦ ✦"), title="Versión 1.0", title_align="right"))
         
         print("1. Buscar canción por [bold green]Nombre[/bold green]")
         print("2. Canción [bold green]Aleatoria[/bold green]")
@@ -37,7 +37,7 @@ class Terminal:
         print("5. Top 10 por [bold green]Año[/bold green]")
         print("0. [bold green]Salir[/bold green]")
         
-        print("\n" + "--*" * 15 + "\n")
+        print("\n" + "✦ ✦ " * 15 + "\n")
         
 
     def _buscar(self) -> None:
@@ -58,6 +58,6 @@ class Terminal:
         resultados = self._catalogo.filtrar(genero)
         if resultados:
             for cancion in resultados:
-                print(f"- {cancion.nombre} (interpretada por {cancion.artista})")
+                print(f"- [bold green]{cancion.nombre}[/bold green] (interpretada por [bold blue]{cancion.artista}[/bold blue])")
         else:
             print(f"No hay canciones del género '{genero}'.")
