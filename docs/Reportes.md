@@ -16,6 +16,7 @@
 
 ## Reporte 01
 
+### Acciones del grupo:
 - Desde que se hizo el repositorio nuevo se trabajó dos días y se dejó de trabajar hasta el Jueves 08/10 donde se retomó la corrección de los archivos "catalogo", "cancion", "terminal" y "main".
 - Se incorporó el uso de Rich para darle más formato a salida en terminal.
 - Se incorporó a la segunda integrante (Antonela Bruno) al grupo.
@@ -36,5 +37,13 @@
 - **Después del desagradable encuentro con los integrantes del equipo anterior tomé la decisión de grabar esos encuentros por si quieren levantar falsas acusaciones contra nosotras.**
 
 
+## Reporte 02
 
+### Acciones del grupo:
+- Se inició el TP2 que tiene como objetivo la medición de tiempos de ejecución entre distintas búsquedas.
+- Se avanzó con la creación de los archivos de medición.py, midetimeit.py, generador.py, los  datasets de diferentes tamaños (estos son temporales hasta terminar de tener los propios con información real) y generó los gráficos comparativos entre las búsquedas secuenciales y las búsquedas binarias.
+- Queda pendiente la redacción de las comparaciones hasta que la compañera pueda acceder a los archivos.
 
+### Conclusiones tomadas en esta entrega:
+- Como una de las integrantes está teniendo problemas con su computadora y, siendo las 1:09 am del 10 de Octubre, está en proceso de formateo se decidió dividir las tareas hasta que las dos tengan las mismas condiciones para seguir con el trabajo.
+- Se decide hace entrega de este trabajo, a pesar de no estar completo, para demostrar que se sigue avanzando en él a pesar de estar retrasadas con las entregas por haber empezado desde cero otra vez.
