@@ -1,0 +1,804 @@
+{
+    "canciones": [
+        {
+            "nombre": "De música ligera",
+            "anio": 1990,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit",
+            "anio": 1991,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe",
+            "anio": 1996,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor",
+            "anio": 1992,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador",
+            "anio": 1993,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall",
+            "anio": 1995,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste",
+            "anio": 1993,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca",
+            "anio": 1997,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back)",
+            "anio": 1997,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada",
+            "anio": 1992,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 11)",
+            "anio": 1990,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 12)",
+            "anio": 1992,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 13)",
+            "anio": 1998,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 14)",
+            "anio": 1998,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 15)",
+            "anio": 1992,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 16)",
+            "anio": 1991,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 17)",
+            "anio": 1999,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 18)",
+            "anio": 1999,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 19)",
+            "anio": 1997,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 20)",
+            "anio": 1994,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 21)",
+            "anio": 1997,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 22)",
+            "anio": 1997,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 23)",
+            "anio": 1994,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 24)",
+            "anio": 1997,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 25)",
+            "anio": 1990,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 26)",
+            "anio": 1998,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 27)",
+            "anio": 1992,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 28)",
+            "anio": 1991,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 29)",
+            "anio": 1990,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 30)",
+            "anio": 1990,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 31)",
+            "anio": 1994,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 32)",
+            "anio": 1991,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 33)",
+            "anio": 1997,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 34)",
+            "anio": 1999,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 35)",
+            "anio": 1992,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 36)",
+            "anio": 1995,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 37)",
+            "anio": 1997,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 38)",
+            "anio": 1999,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 39)",
+            "anio": 1999,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 40)",
+            "anio": 1992,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 41)",
+            "anio": 1993,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 42)",
+            "anio": 1990,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 43)",
+            "anio": 1994,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 44)",
+            "anio": 1995,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 45)",
+            "anio": 1994,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 46)",
+            "anio": 1997,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 47)",
+            "anio": 1997,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 48)",
+            "anio": 1995,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 49)",
+            "anio": 1997,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 50)",
+            "anio": 1997,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 51)",
+            "anio": 1994,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 52)",
+            "anio": 1992,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 53)",
+            "anio": 1995,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 54)",
+            "anio": 1997,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 55)",
+            "anio": 1992,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 56)",
+            "anio": 1998,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 57)",
+            "anio": 1992,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 58)",
+            "anio": 1996,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 59)",
+            "anio": 1992,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 60)",
+            "anio": 1992,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 61)",
+            "anio": 1999,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 62)",
+            "anio": 1999,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 63)",
+            "anio": 1993,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 64)",
+            "anio": 1992,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 65)",
+            "anio": 1997,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 66)",
+            "anio": 1991,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 67)",
+            "anio": 1994,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 68)",
+            "anio": 1994,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 69)",
+            "anio": 1993,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 70)",
+            "anio": 1997,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 71)",
+            "anio": 1991,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 72)",
+            "anio": 1992,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 73)",
+            "anio": 1999,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 74)",
+            "anio": 1994,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 75)",
+            "anio": 1995,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 76)",
+            "anio": 1994,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 77)",
+            "anio": 1997,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 78)",
+            "anio": 1990,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 79)",
+            "anio": 1999,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 80)",
+            "anio": 1992,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 81)",
+            "anio": 1998,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 82)",
+            "anio": 1990,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 83)",
+            "anio": 1999,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 84)",
+            "anio": 1997,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 85)",
+            "anio": 1990,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 86)",
+            "anio": 1993,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 87)",
+            "anio": 1991,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 88)",
+            "anio": 1997,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 89)",
+            "anio": 1996,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 90)",
+            "anio": 1991,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        },
+        {
+            "nombre": "De música ligera (Remix 91)",
+            "anio": 1992,
+            "cantante": "Gustavo Cerati",
+            "idioma": "Español",
+            "banda": "Soda Stereo",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Smells Like Teen Spirit (Remix 92)",
+            "anio": 1991,
+            "cantante": "Kurt Cobain",
+            "idioma": "Inglés",
+            "banda": "Nirvana",
+            "genero": "Grunge / Rock"
+        },
+        {
+            "nombre": "Wannabe (Remix 93)",
+            "anio": 1998,
+            "cantante": "Spice Girls",
+            "idioma": "Inglés",
+            "banda": "Spice Girls",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "El amor después del amor (Remix 94)",
+            "anio": 1990,
+            "cantante": "Fito Páez",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock Nacional"
+        },
+        {
+            "nombre": "Matador (Remix 95)",
+            "anio": 1990,
+            "cantante": "Vicentico",
+            "idioma": "Español",
+            "banda": "Los Fabulosos Cadillacs",
+            "genero": "Ska / Rock"
+        },
+        {
+            "nombre": "Wonderwall (Remix 96)",
+            "anio": 1992,
+            "cantante": "Liam Gallagher",
+            "idioma": "Inglés",
+            "banda": "Oasis",
+            "genero": "Rock Alternativo"
+        },
+        {
+            "nombre": "Fuiste (Remix 97)",
+            "anio": 1994,
+            "cantante": "Gilda",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Cumbia / Tropical"
+        },
+        {
+            "nombre": "Flaca (Remix 98)",
+            "anio": 1992,
+            "cantante": "Andrés Calamaro",
+            "idioma": "Español",
+            "banda": "Solista",
+            "genero": "Rock / Pop"
+        },
+        {
+            "nombre": "Everybody (Backstreet's Back) (Remix 99)",
+            "anio": 1998,
+            "cantante": "Backstreet Boys",
+            "idioma": "Inglés",
+            "banda": "Backstreet Boys",
+            "genero": "Pop"
+        },
+        {
+            "nombre": "La bifurcada (Remix 100)",
+            "anio": 1997,
+            "cantante": "Ricardo Tapia",
+            "idioma": "Español",
+            "banda": "La Mississippi",
+            "genero": "Blues / Rock"
+        }
+    ]
+}

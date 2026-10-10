@@ -1,0 +1,8004 @@
+{
+  "temas": [
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 1.3,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 9.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 6.5,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 1.9,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 6.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 4.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 9.8,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 5.3,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 1.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 1.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 6.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 9.1,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 5.5,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.2,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 8.8,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 5.1,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 6.0,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.3,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 2.8,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 1.2,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.6,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 5.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 4.0,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 3.8,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 7.9,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.1,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 6.3,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 3.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 1.5,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 4.7,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.1,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 7.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 6.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 8.5,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 9.5,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 2.3,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 2.9,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 4.3,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 3.5,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.9,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.5,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 9.7,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 9.7,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.4,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 6.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 5.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 6.2,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 7.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.8,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 5.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 3.8,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 5.5,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 2.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 6.4,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 6.8,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 2.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 2.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.4,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 1.2,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 1.8,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.7,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 6.8,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 7.1,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 5.8,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 6.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 5.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 6.2,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 8.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 5.0,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 9.2,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 4.9,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 2.5,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 3.3,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.9,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 7.3,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 4.7,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 9.4,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 7.2,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.6,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 4.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.9,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 2.7,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 7.6,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 7.9,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 7.6,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.2,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 7.4,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 4.2,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 9.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 7.6,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 8.9,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 8.2,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 3.1,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.6,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 7.6,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 4.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 3.6,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 8.6,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 7.0,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 4.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 5.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 1.9,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 3.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 9.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 4.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 8.3,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 3.9,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 10.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 1.2,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 7.4,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 1.3,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 7.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.7,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 6.6,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 7.4,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 3.0,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 1.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 4.9,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 4.0,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 9.4,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.5,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 3.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 3.3,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 1.1,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 7.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 6.0,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 6.3,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 9.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 2.7,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 3.4,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 1.3,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 4.5,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 7.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 2.3,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 8.6,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.3,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 9.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 1.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.1,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 6.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 4.6,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 3.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 7.1,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 9.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 2.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 3.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 7.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 8.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 6.4,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 2.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 1.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 9.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 1.8,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 5.1,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 8.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 3.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.0,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 8.9,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.3,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 9.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 9.9,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 9.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 3.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 3.6,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 5.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 6.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 6.1,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 3.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 8.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.7,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.4,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 6.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 7.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 9.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 5.8,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 5.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 7.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 4.4,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 9.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 3.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 1.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 3.0,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 6.2,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 5.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.8,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 5.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 3.8,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.4,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 6.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 7.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 8.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 5.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 5.1,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 7.2,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 4.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 8.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 5.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.6,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.2,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 3.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 1.1,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 9.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 4.8,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 2.3,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 4.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 8.3,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 3.6,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 9.5,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 8.6,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.0,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 1.5,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 5.4,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 4.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 9.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 2.9,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 9.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 7.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 8.1,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 5.6,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 5.3,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.3,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 6.5,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 5.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 3.1,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 5.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.3,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 7.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 1.9,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 8.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 4.4,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 8.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 8.8,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.9,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 4.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 8.4,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.6,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 10.0,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 3.6,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.1,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 8.2,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 7.1,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.1,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 2.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 6.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 1.9,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 2.3,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 1.4,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 10.0,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.4,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.6,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 6.0,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 6.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 5.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 7.2,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 4.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 7.5,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 1.9,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 5.0,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 7.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 1.9,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 4.1,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 6.0,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 2.7,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 6.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 5.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 7.6,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.3,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.2,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 6.6,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 8.8,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.3,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.8,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 2.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 7.4,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 8.4,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 7.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 6.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.7,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 6.5,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.6,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 5.1,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 8.5,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 3.5,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 5.2,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 9.5,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 7.4,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 1.3,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 1.5,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 1.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 2.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 8.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 6.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 1.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 5.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 8.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 5.0,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 7.6,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 7.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 9.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 3.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 4.0,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 2.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 1.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 1.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 5.0,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 2.2,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 6.9,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 6.4,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 2.3,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 7.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 4.4,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 7.2,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 2.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 1.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 8.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 5.9,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 9.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 7.0,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 9.2,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 8.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 7.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 1.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 2.9,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 4.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 4.4,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 6.2,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 6.7,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 5.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 10.0,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 1.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 7.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 6.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 5.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 7.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 5.8,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 1.3,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 1.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 7.6,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 1.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 3.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 3.8,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 2.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.0,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 1.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 7.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.4,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 2.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 8.1,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 4.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 5.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 5.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 2.3,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 7.2,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 4.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 2.9,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 1.8,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 1.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.0,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 7.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 9.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 9.1,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 6.2,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 9.5,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.8,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 8.4,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 1.0,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 6.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 3.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 10.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 9.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 2.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 7.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 8.3,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 3.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 6.2,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 5.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 4.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 6.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 6.0,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 4.9,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 3.7,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 5.2,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 5.6,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 3.3,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 1.8,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 3.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.1,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 6.0,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.8,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 3.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.8,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 8.3,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 3.0,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 6.6,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 5.1,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 7.1,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 6.2,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.5,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 7.5,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 8.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 8.4,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 8.3,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 9.7,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 9.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 6.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 6.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.2,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 7.7,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 7.0,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 3.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.3,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 2.8,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 4.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 4.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.5,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 1.2,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 6.8,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.0,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 4.7,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 2.5,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 5.1,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.6,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 6.5,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 5.2,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 9.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.3,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 5.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.1,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 7.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.3,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 3.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 4.1,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.8,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 2.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 5.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 7.3,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.0,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 8.8,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 9.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 5.8,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 1.3,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 4.9,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 8.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 2.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 3.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 5.2,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 1.9,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 3.4,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 9.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 4.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 5.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 7.3,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 3.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.0,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.9,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 2.3,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 2.5,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.8,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 10.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 3.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 3.6,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 5.1,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 4.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 3.5,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 1.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 2.2,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 1.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 3.6,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 4.5,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 2.7,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 3.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 2.1,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 1.4,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.2,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.2,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 5.6,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 9.4,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 1.8,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 9.0,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.0,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 4.0,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 8.4,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 2.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.7,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.1,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 3.0,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 1.3,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 5.6,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 3.0,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 4.6,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 4.3,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.5,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 8.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 9.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.2,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 7.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 4.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.0,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 6.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 5.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 5.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 2.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 1.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.3,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 2.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 1.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 5.0,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 8.8,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 3.1,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.5,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 3.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 7.1,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 3.1,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 9.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 5.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 3.0,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 5.0,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 2.4,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 1.3,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 9.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 4.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 5.3,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 8.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 3.6,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.3,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 7.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 6.2,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 5.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 3.9,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 2.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 7.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 4.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 5.1,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 8.3,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 9.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 5.1,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 2.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 6.3,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 7.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 2.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 7.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 7.6,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 2.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 7.7,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 6.1,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 4.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 3.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 8.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 2.0,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 1.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 3.5,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 7.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.6,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 2.3,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 2.9,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.9,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 8.2,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 8.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 4.7,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 8.5,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 7.6,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 4.4,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.8,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.8,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 1.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 5.5,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 5.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 7.7,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 1.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 9.9,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 8.5,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.1,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 4.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 2.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 8.5,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 2.0,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 7.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 4.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 1.5,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 7.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 4.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 5.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 1.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.5,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 7.4,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 5.4,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 2.7,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 1.1,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.2,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.3,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.8,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 3.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 3.8,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 1.1,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 8.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.1,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 3.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 4.1,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 5.3,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 5.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 3.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 5.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 4.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.7,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 8.4,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 4.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 9.8,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 6.7,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.2,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 4.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 4.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 6.8,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 8.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 1.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 4.2,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 1.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 3.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 2.5,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 4.9,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 4.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 2.3,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.8,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.8,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 6.2,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 8.3,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 1.6,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 9.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 2.4,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 8.9,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.9,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 1.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 7.7,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 5.0,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 5.4,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 1.1,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 7.4,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 6.6,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.4,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 1.1,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 6.7,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 7.1,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.2,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 6.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.3,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 6.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 2.2,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.2,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 9.5,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 8.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.4,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 7.2,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.2,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 3.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 4.9,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 3.1,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 9.2,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 5.5,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 9.8,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 5.3,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 5.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 4.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 6.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.4,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 3.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 4.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 4.8,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 8.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 4.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 6.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 6.1,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 3.6,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 4.1,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 9.5,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 3.8,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 2.6,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 8.7,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 8.1,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 3.9,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 4.2,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 5.3,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 6.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 8.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.6,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 4.5,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 1.5,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 2.6,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 7.7,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 4.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.0,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 6.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 7.2,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 8.4,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 7.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 8.4,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 5.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 8.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.6,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 7.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.4,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 1.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 3.0,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 5.7,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 3.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 1.5,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 6.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 3.7,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 2.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.3,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.6,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 9.7,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.1,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 3.9,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 7.1,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 9.1,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 4.1,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 1.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 2.6,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 2.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 6.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 1.8,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.2,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 7.4,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 3.9,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 4.1,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 6.1,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 5.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.8,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 8.9,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 9.1,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 4.2,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 4.7,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 6.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 9.6,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 8.0,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 1.6,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 7.1,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 7.2,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 6.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.1,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 6.9,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 3.2,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.3,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 8.4,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 5.2,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 7.0,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 9.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 8.5,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 6.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 2.1,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 8.7,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.5,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 3.9,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.2,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 1.6,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 4.4,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 8.1,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 7.6,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 8.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 8.3,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 8.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 2.2,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 3.5,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 4.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.2,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 8.0,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 2.4,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 8.9,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 7.0,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 5.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 9.3,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 6.5,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 8.8,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 3.9,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.0,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 3.3,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.4,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.7,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 7.3,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 6.8,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 2.1,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 1.6,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 3.9,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 3.9,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 2.4,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 8.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.2,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 1.8,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.5,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 1.3,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 5.4,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 2.1,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 5.0,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 2.1,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 8.0,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 1.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 5.3,
+      "año": 1998,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Blur",
+      "rating": 4.8,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.6,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 4.0,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 4.5,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.8,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 9.6,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 3.4,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 4.1,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 4.8,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 3.8,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 7.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 8.7,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 1.8,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 5.4,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 1.6,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 3.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.2,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 4.6,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 1.2,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 8.4,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Madonna",
+      "rating": 8.6,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.5,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 2.9,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 1.7,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 3.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 7.9,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 8.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 1.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 1.1,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 6.1,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Nirvana",
+      "rating": 9.3,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 8.2,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Radiohead",
+      "rating": 2.2,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 1.3,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.4,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 2.4,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.5,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 2.2,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 9.8,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 5.7,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 7.8,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Radiohead",
+      "rating": 2.9,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 6.9,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 1.9,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 6.3,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 4.3,
+      "año": 1999,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Dance",
+      "artista": "Madonna",
+      "rating": 1.4,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Pop",
+      "artista": "Madonna",
+      "rating": 3.4,
+      "año": 1993,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 6.0,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 6.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 7.5,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Alternativo",
+      "artista": "Oasis",
+      "rating": 3.1,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 8.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Grunge",
+      "artista": "Radiohead",
+      "rating": 7.9,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.1,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 6.7,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 8.9,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 6.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 2.6,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Rock",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.2,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 9.0,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 9.2,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 2.8,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 5.7,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 3.3,
+      "año": 1996,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 9.0,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Electronica",
+      "artista": "Radiohead",
+      "rating": 2.0,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Grunge",
+      "artista": "Oasis",
+      "rating": 7.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Grunge",
+      "artista": "Nirvana",
+      "rating": 4.4,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Electronica",
+      "artista": "Nirvana",
+      "rating": 7.5,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 8.5,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 5.2,
+      "año": 1991,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Oasis",
+      "rating": 2.1,
+      "año": 1997,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Pop",
+      "artista": "Nirvana",
+      "rating": 3.3,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Rock",
+      "artista": "Blur",
+      "rating": 5.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Blur",
+      "rating": 6.4,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Rock",
+      "artista": "Radiohead",
+      "rating": 2.8,
+      "año": 1990,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Pop",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 6.5,
+      "año": 1995,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Dance",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 8.5,
+      "año": 1998,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 5.8,
+      "año": 1992,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 6.0,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Let Love Lead the Way",
+      "genero": "Grunge",
+      "artista": "Madonna",
+      "rating": 5.5,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Say You'll Be There",
+      "genero": "Grunge",
+      "artista": "Blur",
+      "rating": 6.7,
+      "año": 1994,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Goodbye",
+      "genero": "Grunge",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.3,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Rock",
+      "artista": "Madonna",
+      "rating": 2.4,
+      "año": 1994,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Never Give Up on the Good Times",
+      "genero": "Dance",
+      "artista": "Oasis",
+      "rating": 7.2,
+      "año": 1993,
+      "idioma": "Inglés"
+    }
+  ]
+}

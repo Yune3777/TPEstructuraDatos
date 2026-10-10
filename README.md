@@ -8,7 +8,7 @@ Sistema de recomendación de música de los 90' que permite buscar, ordenar y de
 ## 🎯 Dominio elegido y justificación
 
 - **Dominio elegido:** Se eligió el tema de música de los 90'.
-- **Justificación:** Al combinar una base de datos como lo es MusicBrainz, que tiene base de datos es 100% pública y descargables, Youtube Music, y Spotify, que cuenta con filtros como año, géneros específicos, etc., sumado los charts de Billboards para poder ver los temas más rankeados, se puede llegar a la cantidad de 10.000 canciones pudiendo generar un dataset con los datos necesarios para poder usarlo en el proyecto.
+- **Justificación:** Al combinar una base de datos como lo es MusicBrainz, que tiene base de datos es 100% pública y descargables, y Spotify, que cuenta con filtros como año, géneros específicos, etc., sumado los charts de Billboards para poder ver los temas más rankeados, se puede llegar a la cantidad de 10.000 canciones pudiendo generar un dataset con los datos necesarios para poder usarlo en el proyecto.
 
 ---
 

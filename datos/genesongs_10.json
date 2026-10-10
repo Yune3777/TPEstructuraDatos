@@ -1,0 +1,84 @@
+{
+  "temas": [
+    {
+      "nombre": "Viva Forever",
+      "genero": "Dance",
+      "artista": "Blur",
+      "rating": 9.0,
+      "año": 1997,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 5.1,
+      "año": 1996,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Alternativo",
+      "artista": "Nirvana",
+      "rating": 7.6,
+      "año": 1992,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Holler",
+      "genero": "Alternativo",
+      "artista": "Red Hot Chili Peppers",
+      "rating": 4.8,
+      "año": 1995,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Wannabe",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 9.1,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Spice Up Your Life",
+      "genero": "Electronica",
+      "artista": "Madonna",
+      "rating": 2.6,
+      "año": 1999,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Rock",
+      "artista": "Oasis",
+      "rating": 6.8,
+      "año": 1990,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Tell Me Why",
+      "genero": "Dance",
+      "artista": "Radiohead",
+      "rating": 3.7,
+      "año": 1991,
+      "idioma": "Español"
+    },
+    {
+      "nombre": "Stop",
+      "genero": "Pop",
+      "artista": "Blur",
+      "rating": 9.0,
+      "año": 1993,
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Viva Forever",
+      "genero": "Electronica",
+      "artista": "Oasis",
+      "rating": 6.6,
+      "año": 1993,
+      "idioma": "Español"
+    }
+  ]
+}

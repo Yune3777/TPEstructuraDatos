@@ -14,7 +14,7 @@
 - [x] Escribir propuesta de 1 página
 - [x] Bocetar diagrama de clases inicial
 - [x] Armar repositorio y README
-- [ ] Crear base de datos con 10.000 elementos
+- [-] Crear base de datos con 10.000 elementos
 
 ### Retro TP00
 - La base de datos con 10.000 elementos está costando porque tengo cuenta gratuita con la IA y se limita las posibilidades de creación de un dataset fiel, real y completo sin errores.
