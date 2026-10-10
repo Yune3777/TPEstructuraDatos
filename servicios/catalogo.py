@@ -40,6 +40,9 @@ class Catalogo:
 
     def cancion_aleatoria(self) -> Cancion:
         return random.choice(self._elementos)
+
+    def listar(self) -> list[Cancion]:
+        return list(self._elementos)
     
     def filtrar(self, genero: str) -> list[Cancion]:
         return [

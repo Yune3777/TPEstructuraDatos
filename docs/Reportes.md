@@ -47,3 +47,10 @@
 ### Conclusiones tomadas en esta entrega:
 - Como una de las integrantes está teniendo problemas con su computadora y, siendo las 1:09 am del 10 de Octubre, está en proceso de formateo se decidió dividir las tareas hasta que las dos tengan las mismas condiciones para seguir con el trabajo.
 - Se decide hace entrega de este trabajo, a pesar de no estar completo, para demostrar que se sigue avanzando en él a pesar de estar retrasadas con las entregas por haber empezado desde cero otra vez.
+
+
+## Reporte 03
+
+### Acciones del grupo:
+- Se inició el día con la noticia de que la integrante con problemas técnicos quiere dejar el grupo para no retrasar a la otra.
+- Se continúa con el la entrega de TP 3 y TP 4 dejando pendientes, por el momento, las tareas que tenía la otra compañera con la esperanza de que pueda reincorporarse.
