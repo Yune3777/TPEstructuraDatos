@@ -1,4 +1,4 @@
-# REQUERIMIENTOS - OÍD MORTALES 
+# REQUERIMIENTOS - MANPY 
 
 ## 1. Alcance
 El sistema permite un catálogo interactivo en consola para administrar mangas (historietas japonesas). Está pensada para personas de mediana edad, lectoras, que gustan de historias profundas y que suelen seguir el trabajo de los mismos artistas o eligen mangas con los mismos géneros.
