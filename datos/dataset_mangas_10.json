@@ -1,0 +1,75 @@
+{
+  "mangas":
+  [
+  {
+    "nombre": "Berserk",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Kentaro Miura",
+    "año": 1989,
+    "rating": 9.24
+  },
+  {
+    "nombre": "Monster",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Naoki Urasawa",
+    "año": 1994,
+    "rating": 9.21
+  },
+  {
+    "nombre": "Nausicaa of the Valley of the Wind",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Hayao Miyazaki",
+    "año": 1982,
+    "rating": 9.1
+  },
+  {
+    "nombre": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Hirohiko Araki",
+    "año": 2004,
+    "rating": 9.1
+  },
+  {
+    "nombre": "Vinland Saga",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Makoto Yukimura",
+    "año": 2005,
+    "rating": 9.02
+  },
+  {
+    "nombre": "Yokohama Kaidashi Kikou",
+    "genero": "Seinen / Slice of Life / Aventura",
+    "artista": "Hitoshi Ashinano",
+    "año": 1994,
+    "rating": 8.99
+  },
+  {
+    "nombre": "20th Century Boys",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Naoki Urasawa",
+    "año": 1999,
+    "rating": 8.98
+  },
+  {
+    "nombre": "Fullmetal Alchemist",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Hiromu Arakawa",
+    "año": 2001,
+    "rating": 8.97
+  },
+  {
+    "nombre": "Akira",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Katsuhiro Otomo",
+    "año": 1982,
+    "rating": 8.91
+  },
+  {
+    "nombre": "Yotsuba&!",
+    "genero": "Shonen / Slice of Life / Comedia",
+    "artista": "Kiyohiko Azuma",
+    "año": 2003,
+    "rating": 8.9
+  }
+  ]
+}

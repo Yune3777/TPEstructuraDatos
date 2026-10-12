@@ -1,0 +1,705 @@
+{
+  "mangas":
+  [
+  {
+    "nombre": "Berserk",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Kentaro Miura",
+    "año": 1989,
+    "rating": 9.24
+  },
+  {
+    "nombre": "Monster",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Naoki Urasawa",
+    "año": 1994,
+    "rating": 9.21
+  },
+  {
+    "nombre": "Nausicaa of the Valley of the Wind",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Hayao Miyazaki",
+    "año": 1982,
+    "rating": 9.1
+  },
+  {
+    "nombre": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Hirohiko Araki",
+    "año": 2004,
+    "rating": 9.1
+  },
+  {
+    "nombre": "Vinland Saga",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Makoto Yukimura",
+    "año": 2005,
+    "rating": 9.02
+  },
+  {
+    "nombre": "Yokohama Kaidashi Kikou",
+    "genero": "Seinen / Slice of Life / Aventura",
+    "artista": "Hitoshi Ashinano",
+    "año": 1994,
+    "rating": 8.99
+  },
+  {
+    "nombre": "20th Century Boys",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Naoki Urasawa",
+    "año": 1999,
+    "rating": 8.98
+  },
+  {
+    "nombre": "Fullmetal Alchemist",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Hiromu Arakawa",
+    "año": 2001,
+    "rating": 8.97
+  },
+  {
+    "nombre": "Akira",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Katsuhiro Otomo",
+    "año": 1982,
+    "rating": 8.91
+  },
+  {
+    "nombre": "Yotsuba&!",
+    "genero": "Shonen / Slice of Life / Comedia",
+    "artista": "Kiyohiko Azuma",
+    "año": 2003,
+    "rating": 8.9
+  },
+  {
+    "nombre": "REAL",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Takehiko Inoue",
+    "año": 1999,
+    "rating": 8.86
+  },
+  {
+    "nombre": "Vagabond",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Takehiko Inoue",
+    "año": 1998,
+    "rating": 8.86
+  },
+  {
+    "nombre": "GTO",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Tohru Fujisawa",
+    "año": 1996,
+    "rating": 8.84
+  },
+  {
+    "nombre": "Death Note",
+    "genero": "Shonen / Thriller / Acción",
+    "artista": "Tsugumi Ohba / Takeshi Obata",
+    "año": 2003,
+    "rating": 8.83
+  },
+  {
+    "nombre": "Mobile Suit Gundam: The Origin",
+    "genero": "Shonen / Mecha / Sci-Fi",
+    "artista": "Yoshikazu Yasuhiko",
+    "año": 2001,
+    "rating": 8.81
+  },
+  {
+    "nombre": "Phoenix",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Osamu Tezuka",
+    "año": 1967,
+    "rating": 8.81
+  },
+  {
+    "nombre": "Mushishi",
+    "genero": "Seinen / Slice of Life / Aventura",
+    "artista": "Yuki Urushihara",
+    "año": 1999,
+    "rating": 8.8
+  },
+  {
+    "nombre": "With the Light: Raising an Autistic Child",
+    "genero": "Josei / Drama / Slice of Life",
+    "artista": "Keiko Toda",
+    "año": 2000,
+    "rating": 8.79
+  },
+  {
+    "nombre": "Pluto",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Naoki Urasawa / Takashi Nagasaki",
+    "año": 2003,
+    "rating": 8.78
+  },
+  {
+    "nombre": "Hajime no Ippo",
+    "genero": "Spokon (Deportes) / Shonen",
+    "artista": "George Morikawa",
+    "año": 1989,
+    "rating": 8.76
+  },
+  {
+    "nombre": "Goodnight Punpun",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Inio Asano",
+    "año": 2007,
+    "rating": 8.76
+  },
+  {
+    "nombre": "Buddha",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Osamu Tezuka",
+    "año": 1972,
+    "rating": 8.75
+  },
+  {
+    "nombre": "Fruits Basket",
+    "genero": "Shojo / Romance / Drama",
+    "artista": "Natsuki Takaya",
+    "año": 1998,
+    "rating": 8.74
+  },
+  {
+    "nombre": "Cross Game",
+    "genero": "Spokon (Deportes) / Shonen",
+    "artista": "Mitsuru Adachi",
+    "año": 2006,
+    "rating": 8.74
+  },
+  {
+    "nombre": "JoJolion",
+    "genero": "Seinen / Drama / Psicológico",
+    "artista": "Hirohiko Araki",
+    "año": 2011,
+    "rating": 8.73
+  },
+  {
+    "nombre": "Skip Beat!",
+    "genero": "Shojo / Romance / Drama",
+    "artista": "Yoshiki Nakamura",
+    "año": 2002,
+    "rating": 8.73
+  },
+  {
+    "nombre": "A Bride's Story",
+    "genero": "Seinen / Slice of Life / Aventura",
+    "artista": "Kaoru Mori",
+    "año": 2008,
+    "rating": 8.72
+  },
+  {
+    "nombre": "Rurouni Kenshin",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Nobuhiro Watsuki",
+    "año": 1994,
+    "rating": 8.72
+  },
+  {
+    "nombre": "Sanctuary",
+    "genero": "Seinen / Acción / Thriller",
+    "artista": "Buronson / Ryoichi Ikegami",
+    "año": 1990,
+    "rating": 8.7
+  },
+  {
+    "nombre": "A Drifting Life",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Yoshihiro Tatsumi",
+    "año": 2008,
+    "rating": 8.7
+  },
+  {
+    "nombre": "Lone Wolf and Cub",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Kazuo Koike / Goseki Kojima",
+    "año": 1970,
+    "rating": 8.69
+  },
+  {
+    "nombre": "A Silent Voice",
+    "genero": "Shonen / Drama / Slice of Life",
+    "artista": "Yoshitoki Oima",
+    "año": 2013,
+    "rating": 8.68
+  },
+  {
+    "nombre": "Glass no Kamen",
+    "genero": "Shojo / Drama / Romance",
+    "artista": "Suzue Miuchi",
+    "año": 1976,
+    "rating": 8.67
+  },
+  {
+    "nombre": "Showa: A History of Japan",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Shigeru Mizuki",
+    "año": 2008,
+    "rating": 8.66
+  },
+  {
+    "nombre": "Blade of the Immortal",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Hiroaki Samura",
+    "año": 1993,
+    "rating": 8.66
+  },
+  {
+    "nombre": "Kingdom",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Yasuhisa Hara",
+    "año": 2006,
+    "rating": 8.66
+  },
+  {
+    "nombre": "Solanin",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Inio Asano",
+    "año": 2005,
+    "rating": 8.65
+  },
+  {
+    "nombre": "Town of Evening Calm, Country of Cherry Blossoms",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Fumiyo Kouno",
+    "año": 2003,
+    "rating": 8.62
+  },
+  {
+    "nombre": "?oku: The Inner Chambers",
+    "genero": "Josei / Histórico / Drama",
+    "artista": "Fumi Yoshinaga",
+    "año": 2004,
+    "rating": 8.62
+  },
+  {
+    "nombre": "Message to Adolf",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Osamu Tezuka",
+    "año": 1983,
+    "rating": 8.62
+  },
+  {
+    "nombre": "Spirit Circle",
+    "genero": "Shonen / Fantasía / Sobrenatural",
+    "artista": "Mizukami Satoshi",
+    "año": 2012,
+    "rating": 8.62
+  },
+  {
+    "nombre": "Kids on the Slope",
+    "genero": "Shojo / Romance / Música",
+    "artista": "Yuki Kodama",
+    "año": 2007,
+    "rating": 8.61
+  },
+  {
+    "nombre": "Saikano",
+    "genero": "Seinen / Drama / Sci-Fi",
+    "artista": "Shin Takahashi",
+    "año": 2000,
+    "rating": 8.58
+  },
+  {
+    "nombre": "Genshiken",
+    "genero": "Seinen / Slice of Life / Comedia",
+    "artista": "Kio Shimoku",
+    "año": 2002,
+    "rating": 8.57
+  },
+  {
+    "nombre": "Yona of the Dawn",
+    "genero": "Shojo / Fantasía / Aventura",
+    "artista": "Mizuho Kusanagi",
+    "año": 2009,
+    "rating": 8.56
+  },
+  {
+    "nombre": "Azumanga Daioh",
+    "genero": "Shonen / Slice of Life / Comedia",
+    "artista": "Kiyohiko Azuma",
+    "año": 1999,
+    "rating": 8.55
+  },
+  {
+    "nombre": "Maison Ikkoku",
+    "genero": "Shonen / Romantico / Comedia",
+    "artista": "Rumiko Takahashi",
+    "año": 1980,
+    "rating": 8.54
+  },
+  {
+    "nombre": "Historié",
+    "genero": "Seinen / Histórico / Épico",
+    "artista": "Hitoshi Iwaaki",
+    "año": 2003,
+    "rating": 8.53
+  },
+  {
+    "nombre": "My Lesbian Experience with Loneliness",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Kabi Nagata",
+    "año": 2016,
+    "rating": 8.53
+  },
+  {
+    "nombre": "Ode to Kirihito",
+    "genero": "Seinen / Drama / Misterio",
+    "artista": "Osamu Tezuka",
+    "año": 1970,
+    "rating": 8.53
+  },
+  {
+    "nombre": "Erased",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Kei Sanbe",
+    "año": 2012,
+    "rating": 8.52
+  },
+  {
+    "nombre": "Battle Angel Alita",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Yukito Kishiro",
+    "año": 1990,
+    "rating": 8.52
+  },
+  {
+    "nombre": "(The) Heart of Thomas",
+    "genero": "Shojo / Drama / Misterio",
+    "artista": "Moto Hagio",
+    "año": 1974,
+    "rating": 8.52
+  },
+  {
+    "nombre": "Grand Blue Dreaming",
+    "genero": "Seinen / Comedia / Slice of Life",
+    "artista": "Kenji Inoue / Kenzou Inoue",
+    "año": 2014,
+    "rating": 8.52
+  },
+  {
+    "nombre": "Stigma",
+    "genero": "Seinen / Thriller / Drama",
+    "artista": "Kei Sanbe",
+    "año": 2000,
+    "rating": 8.52
+  },
+  {
+    "nombre": "Girls' Last Tour",
+    "genero": "Seinen / Slice of Life / Sci-Fi",
+    "artista": "Tsukumizu",
+    "año": 2014,
+    "rating": 8.51
+  },
+  {
+    "nombre": "Your Lie in April",
+    "genero": "Shonen / Drama / Música",
+    "artista": "Naoshi Arakawa",
+    "año": 2011,
+    "rating": 8.51
+  },
+  {
+    "nombre": "One Piece",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Eiichiro Oda",
+    "año": 1997,
+    "rating": 8.5
+  },
+  {
+    "nombre": "Angel Densetsu",
+    "genero": "Shonen / Comedia / Acción",
+    "artista": "Norihiro Yagi",
+    "año": 1992,
+    "rating": 8.5
+  },
+  {
+    "nombre": "Domu",
+    "genero": "Seinen / Thriller / Sobrenatural",
+    "artista": "Katsuhiro Otomo",
+    "año": 1980,
+    "rating": 8.49
+  },
+  {
+    "nombre": "Planetes",
+    "genero": "Seinen / Sci-Fi / Slice of Life",
+    "artista": "Makoto Yukimura",
+    "año": 1999,
+    "rating": 8.48
+  },
+  {
+    "nombre": "21st Century Boys",
+    "genero": "Thriller / Misterio / Psicológico",
+    "artista": "Naoki Urasawa",
+    "año": 2001,
+    "rating": 8.48
+  },
+  {
+    "nombre": "Ashita no Joe",
+    "genero": "Spokon (Deportes) / Shonen",
+    "artista": "Ikki Kajiwara / Tetsuya Chiba",
+    "año": 1968,
+    "rating": 8.48
+  },
+  {
+    "nombre": "NANA",
+    "genero": "Shojo / Romance / Drama",
+    "artista": "Ai Yazawa",
+    "año": 2000,
+    "rating": 8.47
+  },
+  {
+    "nombre": "Black Jack",
+    "genero": "Shonen / Drama / Medicina",
+    "artista": "Osamu Tezuka",
+    "año": 1973,
+    "rating": 8.47
+  },
+  {
+    "nombre": "Onanie Master Kurosawa",
+    "genero": "Seinen / Drama / Psicológico",
+    "artista": "Fumita Yanagida",
+    "año": 2007,
+    "rating": 8.46
+  },
+  {
+    "nombre": "Hunter × Hunter",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Yoshihiro Togashi",
+    "año": 1998,
+    "rating": 8.46
+  },
+  {
+    "nombre": "Shigurui",
+    "genero": "Seinen / Acción / Gore",
+    "artista": "Norio Nanjo / Takayuki Yamaguchi",
+    "año": 2003,
+    "rating": 8.46
+  },
+  {
+    "nombre": "One-Punch Man",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "ONE / Yusuke Murata",
+    "año": 2012,
+    "rating": 8.45
+  },
+  {
+    "nombre": "Nodame Cantabile",
+    "genero": "Josei / Comedia / Música",
+    "artista": "Tomoko Ninomiya",
+    "año": 2001,
+    "rating": 8.45
+  },
+  {
+    "nombre": "Dengeki Daisy",
+    "genero": "Shojo / Romance / Misterio",
+    "artista": "Kyousuke Motousu",
+    "año": 2007,
+    "rating": 8.45
+  },
+  {
+    "nombre": "Ludwig Kakumei",
+    "genero": "Shojo / Comedia / Fantasía",
+    "artista": "Kaori Yuki",
+    "año": 1999,
+    "rating": 8.45
+  },
+  {
+    "nombre": "Hana to Akuma",
+    "genero": "Shojo / Fantasía / Romance",
+    "artista": "Hisamu Oto",
+    "año": 2008,
+    "rating": 8.44
+  },
+  {
+    "nombre": "Frieren: Beyond Journey's End",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Kanehito Yamada / Tsukasa Abe",
+    "año": 2020,
+    "rating": 8.44
+  },
+  {
+    "nombre": "Lucifer and the Biscuit Hammer",
+    "genero": "Seinen / Fantasía / Acción",
+    "artista": "Satoshi Mizukami",
+    "año": 2005,
+    "rating": 8.43
+  },
+  {
+    "nombre": "Akane-banashi",
+    "genero": "Nekketsu / Shonen / Acción",
+    "artista": "Yuki Suenaga / Takamasa Moue",
+    "año": 2022,
+    "rating": 8.43
+  },
+  {
+    "nombre": "Beck",
+    "genero": "Nekketsu / Shonen / Música",
+    "artista": "Harold Sakuishi",
+    "año": 1999,
+    "rating": 8.43
+  },
+  {
+    "nombre": "Bakuman.",
+    "genero": "Shonen / Thriller / Acción",
+    "artista": "Tsugumi Ohba / Takeshi Obata",
+    "año": 2008,
+    "rating": 8.42
+  },
+  {
+    "nombre": "Wandering Son",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Fumio Shimura",
+    "año": 2002,
+    "rating": 8.42
+  },
+  {
+    "nombre": "Girlfriends",
+    "genero": "Shonen / Romance / Slice of Life",
+    "artista": "Milk Morinaga",
+    "año": 2006,
+    "rating": 8.42
+  },
+  {
+    "nombre": "(The) World God Only Knows",
+    "genero": "Shonen / Comedia / Romance",
+    "artista": "Tamiki Wakaki",
+    "año": 2008,
+    "rating": 8.42
+  },
+  {
+    "nombre": "Saiyuki Gaiden",
+    "genero": "Shonen / Fantasía / Acción",
+    "artista": "Kazuya Minekura",
+    "año": 1999,
+    "rating": 8.41
+  },
+  {
+    "nombre": "Ascendance of a Bookworm",
+    "genero": "Shonen / Fantasía / Slice of Life",
+    "artista": "MIA / Suzuka",
+    "año": 2015,
+    "rating": 8.41
+  },
+  {
+    "nombre": "Twin Spica",
+    "genero": "Seinen / Sci-Fi / Drama",
+    "artista": "Kazuya Yaginuma",
+    "año": 2001,
+    "rating": 8.4
+  },
+  {
+    "nombre": "Ultra Heaven",
+    "genero": "Seinen / Sci-Fi / Psicológico",
+    "artista": "Hiroshi Koike",
+    "año": 2001,
+    "rating": 8.4
+  },
+  {
+    "nombre": "Ouran High School Host Club",
+    "genero": "Shojo / Romance / Comedia",
+    "artista": "Bisco Hatori",
+    "año": 2002,
+    "rating": 8.4
+  },
+  {
+    "nombre": "Ookiku Furikabutte",
+    "genero": "Spokon (Deportes) / Shonen",
+    "artista": "Higuchi Asa",
+    "año": 2003,
+    "rating": 8.4
+  },
+  {
+    "nombre": "Claymore",
+    "genero": "Shonen / Thriller / Acción",
+    "artista": "Norihiro Yagi",
+    "año": 2001,
+    "rating": 8.39
+  },
+  {
+    "nombre": "(The) Flowers of Evil",
+    "genero": "Seinen / Drama / Psicológico",
+    "artista": "Shuzo Oshimi",
+    "año": 2009,
+    "rating": 8.39
+  },
+  {
+    "nombre": "Shij? Saiky? no Deshi Kenichi",
+    "genero": "Shonen / Artes Marciales / Acción",
+    "artista": "Syun Matsuena",
+    "año": 2002,
+    "rating": 8.39
+  },
+  {
+    "nombre": "A Town Where You Live",
+    "genero": "Shonen / Romance / Drama",
+    "artista": "Kouji Seo",
+    "año": 2008,
+    "rating": 8.39
+  },
+  {
+    "nombre": "Slam Dunk",
+    "genero": "Spokon (Deportes) / Shonen",
+    "artista": "Takehiko Inoue",
+    "año": 1990,
+    "rating": 8.38
+  },
+  {
+    "nombre": "(The) World is Mine",
+    "genero": "Seinen / Thriller / Drama",
+    "artista": "Hideki Arai",
+    "año": 1997,
+    "rating": 8.38
+  },
+  {
+    "nombre": "Full Metal Panic! Sigma",
+    "genero": "Shonen / Mecha / Sci-Fi",
+    "artista": "Shouji Gatou / Hiroshi Ueda",
+    "año": 2005,
+    "rating": 8.38
+  },
+  {
+    "nombre": "Blue Flag",
+    "genero": "Shonen / Romance / Slice of Life",
+    "artista": "KAITO",
+    "año": 2017,
+    "rating": 8.38
+  },
+  {
+    "nombre": "Me and the Devil Blues",
+    "genero": "Seinen / Histórico / Sobrenatural",
+    "artista": "Akira Hiramoto",
+    "año": 2004,
+    "rating": 8.38
+  },
+  {
+    "nombre": "Pandora Hearts",
+    "genero": "Shonen / Thriller / Acción",
+    "artista": "Jun Mochizuki",
+    "año": 2006,
+    "rating": 8.37
+  },
+  {
+    "nombre": "Space Brothers",
+    "genero": "Seinen / Slice of Life / Comedia",
+    "artista": "Chuuya Koyama",
+    "año": 2007,
+    "rating": 8.37
+  },
+  {
+    "nombre": "Cardcaptor Sakura: Master of the Clow",
+    "genero": "Shojo / Mahō Shōjo / Fantasía",
+    "artista": "CLAMP",
+    "año": 1996,
+    "rating": 8.37
+  },
+  {
+    "nombre": "Misaki de Bus o Orita Hito",
+    "genero": "Seinen / Drama / Slice of Life",
+    "artista": "Jiro Taniguchi",
+    "año": 1993,
+    "rating": 8.37
+  }
+  ]
+}

@@ -1,33 +1,38 @@
-# 🎧 OÍD MORTALES 🎧 
+# 🌸 MANPY 🌸 
 
 
-## 📝 Descripción del proyecto
+## Descripción del proyecto
 
-Sistema de recomendación de música de los 90' que permite buscar, ordenar y descubrir canciones a partir de uno dado.
+Sistema de búsqueda y recomendación de mangas.
 
-## 🎯 Dominio elegido y justificación
+## Dominio elegido y justificación
 
-- **Dominio elegido:** Se eligió el tema de música de los 90'.
-- **Justificación:** Al combinar una base de datos como lo es MusicBrainz, que tiene base de datos es 100% pública y descargables, y Spotify, que cuenta con filtros como año, géneros específicos, etc., sumado los charts de Billboards para poder ver los temas más rankeados, se puede llegar a la cantidad de 10.000 canciones pudiendo generar un dataset con los datos necesarios para poder usarlo en el proyecto.
+- **Dominio elegido:** Se eligió el tema de mangas (historietas japonesas).
+- **Justificación:** Se cuenta con gran cantidad de base de datos en internet que a su vez son gratuitas o que se pueden obtener por medio de APIs.
 
 ---
 
-## 🛠️ Problema que resuelve
+## Problema que resuelve
 
-En los 90' estaba la posibilidad de encontrar música o bandas extranjeras por recomendación del boca a boca. Hoy en día el acceso a esa música es más fácil pero con tanta información uno no sabe por dónde empezar, así que lo mejor es comenzar asociando lo que ya se conoce e ir expandiendo los horizontes, por ejemplo, con recomendaciones por género, por similitud en estilos entre artistas, etc.
+Una vez que el usuario termina un manga puede seguir leyendo otro que esté relacionado con el mismo género, o el mismo artista o si quiere estar al día con los mangas más rankeados en la actualidad.
 
-## 🙋🏻‍♀️🙋🏻‍♂️ Usuario objetivo
-El Usuario es lo que hoy consideran *"Millenials"*, que creció escuchando estas bandas y no las cambia a pesar de conocer otras nuevas, ya sea por nostalgia o por fanatismo. Es el que se queja cada vez que escucha lo que los jóvenes de hoy escuchan agregando la frase "la mejor época era la de los 90'". Es el que escribe "Nirvana" en el buscador de Youtube y espera que el logaritmo lo lleve a temas icónicos de esa década encontrando siempre los mismos temas. No se cansa de escucharlos pero le gustaría descubrir nuevos temas con la estética de esa época.
+##  Usuario objetivo
+
+El usuario es una persona de unos 20 a 40 años, con gustos por la lectura. Prefieren historias profundas que no terminen en un solo capítulo. Suelen seguir al mismo autor. Eligen un género o géneros similares para seguir con el próximo manga.
 
 
-## ⚙️ Requisitos
+## Requisitos
 ```bash
 - Python 3.10 o superior.
 - Librería `Rich` (especificada en el `requirements.md`).
 ```
 
+## Pruebas
+```bash
+python -m unittest discover tests
+```
 
-## 🚀 Instrucciones de ejecucion
+## Instrucciones de ejecucion
 
 1. Abrir la terminal en la carpeta del proyecto
 2. Ejecutar el archivo principal con el siguiente comando:
@@ -35,17 +40,17 @@ El Usuario es lo que hoy consideran *"Millenials"*, que creció escuchando estas
 python main.py
 ```
 
-## ✨ Descripción detallada de las funcionalidades implementadas
+## Descripción detallada de las funcionalidades implementadas
 
 ### ️ Menú principal
 
 ```bash
 
-- Búsqueda por Canción: introducir el nombre de la canción para obtener todos los datos de ella.
-- Canción Aleatoria: se recomienda una canción aleatoria cualquiera.
-- Explorar por Género: elegir el género y devuelve canciones de ese género.
-- Recomendaciones por similitud: introducir el nombre de una canción y devuelven canciones similares en cuanto a género o artista.
-- Top 10 por año: muestra el top 10 de las mejores canciones de cada año.
+- Búsqueda por Manga: introducir el nombre del manga para obtener todos los datos de él.
+- Manga Aleatorio: se recomienda un manga aleatorio cualquiera.
+- Explorar por Género: se escribe el género y devuelve mangas de ese género.
+- Recomendaciones por similitud: introducir el nombre de un manga y devuelven mangas similares en cuanto a género o artista.
+- Top 10: muestra el top 10 de los mejores mangas.
 
 ```
 
@@ -53,62 +58,82 @@ python main.py
 
 ```text
 ========================================
-OÍD MORTALES - TERMINAL
+MANPY - TERMINAL
 ========================================
-1. Búsqueda por Canción
-2. Canción Aleatoria
+1. Búsqueda por Manga
+2. Manga Aleatorio
 3. Explorar por Género
 4. Recomendaciones por similitud
-5. Top 10 por Año
+5. Top 10
 0. Salir
 ----------------------------------------
 Opción: 1
-La canción elegida fue: Zombie y a continuación te cuento más sobre ella...
-"Zombie" fue interpretada por "The Cranberries" en el idioma Inglés. Su género es Rock alternativo y es del año 1994.
+El manga elegido fue: Dragon Ball y a continuación te cuento más sobre él...
+"Dragon Ball" su artista es "Akira Toriyama". Su género es "Acción, fantasía" y se estrenó en el año 1984.
 ```
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 ├───main.py
 │   
 ├───algoritmos
+│   ├── experimentos
+    │   ├──generador_graficos.py
+    │   ├──medicion.py
+    │   ├──midetimeit.py
+    │   └───test unittest.py
 │   ├── bfs.py
 │   ├── busqueda.py
+│   ├── busquedabinaria.py
 │   ├── caminos.py
 │   └── dfs.py
 │       
 ├───datos
-│   ├── canciones_90s_10.json
-│   ├── canciones_90s_100.json
-│   └── canciones_90s_10000.json
+│   ├── dataset_mangas_10.json
+│   ├── dataset_mangas_100.json
+│   └── dataset_mangas_10000.json
 │       
 ├───docs
+algoritmos
+│   ├── Capturas
+    │   ├──diagrama de clases 01.png
+    │   ├──diagrama de clases 02.png
+    │   ├──diagrama de clases 03.png
+    │   ├──experimento-tp2.png
+    │   └───tp1-menu-principal.png
 │   ├── Diagrama de flujo.png
 │   ├── README.md
 │   └── Reportes.md
 │       
 ├───estructuras
-│   ├── arboles.py
 │   ├── arbol_binario.py
 │   ├── avl.py
 │   ├── grafo.py
 │   └── heap.py
 │       
 ├───modelos
+│   ├── manga.py
 │   └── usuarios.py
 │       
 ├───servicios
+│   ├── carga_dataset.py
+│   ├── catalogo.py
 │   └── recomendador.py
 │       
-└───test
-    └───Arboles
-        ├── basearbol.py
-        └── clasenodo.py
-            
+├───test
+│    └───Arboles
+│        ├── basearbol.py
+│        └── clasenodo.py
+├───ui
+│    └───terminal.py
+│
+├───.gitignore
+├───main.py
+└── README.md
+
 
 ```
 ---
-## 🤝 Integrantes
-* *Antonela Bruno*
+## 🌸 Integrante
 * *Daiana Calderón*

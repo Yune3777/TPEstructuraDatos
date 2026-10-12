@@ -1,7 +1,7 @@
 # TP2 — Análisis de complejidad
 
 ## 1. Operación crítica elegida
-Búsqueda por nombre en el catálogo. [Por qué: es la que el usuario ejecuta más; es la que después va a resolver el árbol.]
+Búsqueda por nombre en el catálogo porque es la que el usuario ejecuta más.
 
 ## 2. Estrategias comparadas
 | ID | Estrategia | Implementación |
@@ -14,7 +14,7 @@ Datasets sintéticos de 100, 1.000, 10.000 y 100.000 elementos.
 Generador: `datos/generar.py`.
 
 ## 4. Método de medición
-`timeit`, 20 ejecuciones x 5 repeticiones, me quedo con el mínimo por llamada.
+`timeit`, 20 ejecuciones x 5 repeticiones, elijo el de mener tiempo para evitar interferencias del sistema operativo o proceso en segundo plano.
 Script: `algoritmos/experimentos/medicion.py`.
 
 ## 5. Resultados
@@ -35,19 +35,14 @@ Script: `algoritmos/experimentos/medicion.py`.
 | Binaria (buscar_binaria)           | O(log n)      | Ω(1)                | Θ(log n)                        |
 | Ordenar antes de binaria (una vez) | O(n log n)    | Ω(n log n)          | Pagado una vez, amortizado      |
 
-TEXTO DE EJEMPLO: "La búsqueda secuencial recorre la lista hasta encontrar el elemento: en el peor caso recorre los n
-elementos (O(n)). La búsqueda binaria descarta la mitad del espacio en cada paso: a lo sumo
-log2(n) comparaciones (O(log n)), pero requiere que la lista esté ordenada (O(n log n) al
-cargar, una sola vez)."
-⚠ No escribas complejidades a ojo: la parte más floja de una defensa es decir O(log n) de una
-estructura mal implementada. Medí y que los números te den la razón.
+### Análisis teórico
+La búsqueda secuencial recorre la lista de manera secuencial (de ahí su nombre) hasta encontrar lo que le indicaron. En el peor de los casos revisa el máximo de los elementos y por eso tiene un crecimiento lineal O(n).
+La búsqueda binaria (siempre que esté ordenada la lista) divide a la mitad la lista en cada vuelta haciendo, como mucho, log2(n) comparaciones O(log n). Si sumamos el costo de tener la lista ordenada al principio tenemos O(n log n) al acomodar el catálogo.
 
 ## 7. Conclusión
 
-1. Qué se comparó (misma operación, mismos datos, mismas condiciones).
-2. Qué dice la tabla (cuando n crece 10x, la secuencial crece ~10x; la binaria casi no).
-3. Por qué (complejidad asintótica: O(n) vs O(log n); se explica con la tabla).
-4. Cuál conviene y por qué (en este caso binaria/árbol para búsquedas frecuentes; pero secuencial es
-más simple si la lista es chica o muta mucho, porque ordenar también cuesta).
-5. Qué se aprende del experimento (y nota al margen: con 100 elementos las dos "andan igual", y
-eso también es un dato).
+1. Qué se comparó?: tomamos la misma operación crítica que era la de buscar un manta por su nombre, en condiciones iguales de entorno y con la misma cantidad de datos, enfrentando la búsqueda lineal (secuencial) contra una logarítmica (binaria).
+2. Qué dice la tabla?: Nos muestra que cuando el tamaño de los datos crece el tiempo de la búsqueda secuencial se multiplica proporcionalmente.En cambio, el crecimiento de la búsqueda binaria muestra un crecimiento míniom y más eficiente.
+3. Por qué?: Esto pasa proque el recorrido lineal depende directamente de la cantidad total del arreglo (O(n)) y el algoritmo de división binaria achica la cantidad de tareas al hacer la partición logarítmica (O(log n)).
+4. Cuál conviene y por qué?: Para catálogos grandes la búsqueda binaria sirve cuando se hace la misma búsqueda más de una vez ya que en la primera vez se acomoda el catálogo y después de esa primera vez ya queda acomodado. Al hacer esa partición al medio reduce rapidamente el tamaño del catálogo. Por esa razones es la opción más óptima. Pero para listas más chicas o donde cueste mucho mantener un orden la más indicada es la estrategia secuencial.
+5. Qué se aprende del experimento?: Con pocos elementos no hay diferencias entre los dos métodos, pero a medida que van creciendo (especialmente después de los 100 elemenetos) la cosa empieza a cambiar y vemos que la opción logarítmica empieza a mostrar su superioridad por sobre la secuencial.

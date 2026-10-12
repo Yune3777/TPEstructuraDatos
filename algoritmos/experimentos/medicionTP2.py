@@ -11,10 +11,10 @@ def main() -> None:
 
     for n in tamaños:
         catalogo = Catalogo()
-        catalogo.cargar_desde_json(f"datos/genesongs_{n}.json")
+        catalogo.cargar_desde_json(f"datos/dataset_mangas_{n}.json")
         catalogo.ordenar_por_nombre()
     
-        nombre_probe = f"Cancion {n - 1}"
+        nombre_probe = f"Manga {n - 1}"
 
         t_sec = min(timeit.repeat(lambda: catalogo.buscar(nombre_probe), number=20, repeat=5)) / 20 * 1000
         t_bin = min(timeit.repeat(lambda: catalogo.buscar_binaria(nombre_probe), number=20, repeat=5)) / 20 * 1000

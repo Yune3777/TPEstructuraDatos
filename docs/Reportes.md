@@ -54,3 +54,16 @@
 ### Acciones del grupo:
 - Se inició el día con la noticia de que la integrante con problemas técnicos quiere dejar el grupo para no retrasar a la otra.
 - Se continúa con el la entrega de TP 3 y TP 4 dejando pendientes, por el momento, las tareas que tenía la otra compañera con la esperanza de que pueda reincorporarse.
+- Se termina el día con el abandono de la integrante Antonela Bruno.
+- Se decide cambiar el universo del trabajo práctico por el "mangas" para facilitar la recolección de información para el dataset.
+- Se avanza sobre la documentación pendiente que estaba a cargo de Antonela Bruno para darle un cierre casi definitivo a esa parte del proyecto.
+- Para desestresar se trabaja en la estética de la terminal.
+- Se deja el tablero de Trello como herramienta de organización e historial de tareas realizadas.
+- En el proceso de medición de la búsqueda lineal, la binaria y el árbol estuve mucho tiempo tratando de entender qué error tenía cuando tocaba medir los 1000 y 10000 elementos del dataset. Antes de perder más tiempo consulté a la IA sólo para darme cuenta que no tenía que medir el árbol al final sino al principio, antes de que la lista se ordenara, sino iba a tener un árbol de una sola rama ordenado, y como no es un AVL éste no se puede ordenar por sí solo. Poniendo el "ordenar_por_nombre" después del cálculo del árbol pude correrlo sin problemas.
+- Se completa el TP3 y se carga al repositorio a las 2 am del Lunes.
+
+### Justificación de toma de decisiones:
+- Ante los reiterados problemas técnicos que tenía Antonela Bruno decide dejar el proyecto para no perjudicar a su compañera.
+- Se cambia el universo para comodidad, practicidad y adaptabilidad ante las exigencias del trabajo práctico.
+- Como la compañera Antonela Bruno decidió dejar el grupo se la eliminó del repositorio como colaboradora y del Trello para no seguir retrasando los trabajos y dar por finalizado el tema de idas y vueltas con los integrantes del trabajo.
+

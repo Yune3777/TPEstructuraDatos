@@ -7,12 +7,12 @@ from servicios.catalogo import Catalogo
 class TestCatalogo(unittest.TestCase):
     def setUp(self):
         self.catalogo = Catalogo()
-        self.catalogo.cargar_desde_json("datos/dataset_10.json")
+        self.catalogo.cargar_desde_json("datos/dataset_mangas_10.json")
     
     def test_buscar_por_nombre(self):
-        resultado = self.catalogo.buscar("metallica")
+        resultado = self.catalogo.buscar("berserk")
         self.assertIsNotNone(resultado)
-        self.assertEqual(resultado.nombre, "Metallica")
+        self.assertEqual(resultado.nombre, "Berserk")
 
     def test_buscar_devuelve_none_si_no_existe(self):
         self.assertIsNone(self.catalogo.buscar("no-existe"))

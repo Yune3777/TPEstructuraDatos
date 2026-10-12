@@ -4,19 +4,19 @@ import os
 import random
 import bisect
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from modelos.cancion import Cancion
+from modelos.manga import Manga
 
 
 class Catalogo:
     def __init__(self) -> None:
-        self._elementos: list[Cancion] = []
+        self._elementos: list[Manga] = []
     
     def cargar_desde_json(self, ruta: str) -> None:
-        with open(ruta, 'r', encoding='utf-8') as canciones:
-            catalogo = json.load(canciones)
-        for item in catalogo["temas"]:
+        with open(ruta, 'r', encoding='utf-8') as mangas:
+            catalogo = json.load(mangas)
+        for item in catalogo["mangas"]:
             self._elementos.append(
-                Cancion(item["nombre"], item["genero"], item["artista"], item["rating"], item["año"], item["idioma"])
+                Manga(item["nombre"], item["genero"], item["artista"], item["rating"], item["año"])
             )
                 
 
@@ -30,24 +30,24 @@ class Catalogo:
             return self._elementos[indice]
         return None
     
-    def buscar(self, nombre: str) -> Cancion | None:
-        for cancion in self._elementos:
-            if cancion.nombre.lower() == nombre.lower():
-                return cancion
+    def buscar(self, nombre: str) -> Manga | None:
+        for manga in self._elementos:
+            if manga.nombre.lower() == nombre.lower():
+                return manga
         return None
 
 
 
-    def cancion_aleatoria(self) -> Cancion:
+    def manga_aleatorio(self) -> Manga:
         return random.choice(self._elementos)
 
-    def listar(self) -> list[Cancion]:
+    def listar(self) -> list[Manga]:
         return list(self._elementos)
     
-    def filtrar(self, genero: str) -> list[Cancion]:
+    def filtrar(self, genero: str) -> list[Manga]:
         return [
-            cancion for cancion in self._elementos
-            if cancion.genero.lower() == genero.lower()
+            manga for manga in self._elementos
+            if genero.lower() in manga.genero.lower()
         ]
     
     def __len__(self) -> int:

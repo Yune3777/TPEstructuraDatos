@@ -1,11 +1,10 @@
-class Cancion:
+class Manga:
 
-    def __init__(self, nombre: str, genero: str, artista: str, rating: float, año: int, idioma: str) -> None:
+    def __init__(self, nombre: str, genero: str, artista: str, rating: float, año: int) -> None:
         self._nombre = nombre
         self._genero = genero
         self._artista = artista
         self._rating = rating
-        self._idioma = idioma
         self._año = año
     
     @property
@@ -24,9 +23,6 @@ class Cancion:
     def rating(self) -> float:
         return self._rating
     
-    @property
-    def idioma(self) -> str:
-        return self._idioma
 
     @property
     def año(self) -> int:
@@ -34,4 +30,4 @@ class Cancion:
 
     
     def __repr__(self) -> str:
-        return f"{self._nombre} ({self._genero}) ({self.artista}) ({self.idioma}) ({self.rating}) ({self.año})"
+        return f"{self._nombre} ({self._genero}) ({self.artista}) ({self.rating}) ({self.año})"
