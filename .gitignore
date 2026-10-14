@@ -3,3 +3,6 @@ Pruebas.py
 test/
 rich/
 .venv
+dataset_mangas_1000.xlsx
+dataset_mangas_1000.csv
+.pytest_cache

@@ -67,3 +67,9 @@
 - Se cambia el universo para comodidad, practicidad y adaptabilidad ante las exigencias del trabajo práctico.
 - Como la compañera Antonela Bruno decidió dejar el grupo se la eliminó del repositorio como colaboradora y del Trello para no seguir retrasando los trabajos y dar por finalizado el tema de idas y vueltas con los integrantes del trabajo.
 
+## Reporte 04
+
+### Acciones del grupo:
+- Se 
+
+### Justificación de toma de decisiones:

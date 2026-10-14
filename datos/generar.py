@@ -1,19 +1,25 @@
 import json
+import random
 
-# Carga el archivo base de 1000 elementos
-with open('datos/dataset_mangas_1000.json', 'r', encoding='utf-8') as f:
-    data = json.load(f)
+GENEROS = ["Seinen","Shojo","Shonen", "Josei"]
+ARTISTAS = ["Hayao Miyazaki","Hirohiko Araki", "Kentaro Miura", "Naoki Urasawa","Makoto Yukimura","Hitoshi Ashinano"]
 
-# 1. Crear el archivo de 10 elementos
-with open('mangas_10.json', 'w', encoding='utf-8') as f:
-    json.dump(data[:10], f, ensure_ascii=False, indent=2)
+def generar(n: int) -> None:
+    mangas = [
+    {
+    "nombre": f"Manga {i}",
+    "genero": random.choice(GENEROS),
+    "artista": random.choice(ARTISTAS),
+    "año": round(random.randint(1984, 2026)),
+    "rating": round(random.uniform(1.0, 10.0), 1),}
 
-# 2. Crear el archivo de 100 elementos
-with open('mangas_100.json', 'w', encoding='utf-8') as f:
-    json.dump(data[:100], f, ensure_ascii=False, indent=2)
-
-# 3. Crear el archivo de 10,000 elementos (repitiendo 10 veces)
-with open('mangas_10000.json', 'w', encoding='utf-8') as f:
-    json.dump(data * 10, f, ensure_ascii=False, indent=2)
-
-print("¡Los tres archivos (mangas_10.json, mangas_100.json y mangas_10000.json) se han generado con éxito!")
+    for i in range(n)
+    ]
+    
+    ruta = f"datos/dataset_mangas_{n}.json"
+    with open(ruta, "w", encoding="utf-8") as archivo:
+        json.dump(mangas, archivo, ensure_ascii=False, indent=2)
+    print(ruta)
+    
+for n in (10000, 50000):
+    generar(n)

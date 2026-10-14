@@ -5,12 +5,12 @@ from servicios.catalogo import Catalogo
 from rich.panel import Panel
 from rich import print
 from rich.prompt import Prompt
-from rich.table import Table
 from rich.align import Align
 
 class Terminal:
     def __init__(self, catalogo: Catalogo,arbol) -> None:
         self._catalogo = catalogo
+        self.arbol = arbol
 
     def iniciar(self) -> None:
         while True:
@@ -31,37 +31,41 @@ class Terminal:
             
 
     def _mostrar_menu(self) -> None:
-        print(Panel(Align.center("[bold indian_red]▀▄▀▄▀▄▀▄▀▄▀▄  MANPY  ▄▀▄▀▄▀▄▀▄▀▄▀[/bold indian_red]"), title="Versión 3.0", title_align="right",border_style="indian_red"))
+        print(Panel(Align.center("\n[bold indian_red]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  MANPY  ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/bold indian_red]\n"), title="Versión 3.0", title_align="right",border_style="indian_red"))
         
 
-        print("[bold dark_orange3][ 1 ]  [/bold dark_orange3] Buscar manga por [bold dark_orange3]Nombre[/bold dark_orange3]")
-        print("[bold dark_orange3][ 2 ]  [/bold dark_orange3] Manga [bold dark_orange3]Aleatoria[/bold dark_orange3]")
-        print("[bold indian_red][ 3 ]  [/bold indian_red] Explorar por [bold indian_red]Género[/bold indian_red]")
-        print("[bold indian_red][ 4 ]  [/bold indian_red] Recomendaciones por [bold indian_red]similitud[/bold indian_red]")
-        print("[bold hot_pink3][ 5 ]   Top 10[/bold hot_pink3]")
-        print("[bold hot_pink3][ 0 ]   Salir[/bold hot_pink3]")
+        print(Align.center("\n\n[bold dark_orange3][ 1 ]  [/bold dark_orange3] Buscar manga por [bold dark_orange3]Nombre[/bold dark_orange3]"))
+        print(Align.center("\n[bold dark_orange3][ 2 ]  [/bold dark_orange3] Manga [bold dark_orange3]Aleatoria[/bold dark_orange3]"))
+        print(Align.center("\n[bold indian_red][ 3 ]  [/bold indian_red] Explorar por [bold indian_red]Género[/bold indian_red]"))
+        print(Align.center("\n[bold indian_red][ 4 ]  [/bold indian_red] Recomendaciones por [bold indian_red]similitud[/bold indian_red]"))
+        print(Align.center("\n[bold hot_pink3][ 5 ]   Top 10[/bold hot_pink3]"))
+        print(Align.center("\n[bold hot_pink3][ 0 ]   Salir[/bold hot_pink3]"))
         
-        print("\n" + "[bold indian_red]✦ ✦ [/bold indian_red]" * 15 + "\n")
+        print("\n" + "[bold indian_red]✦ ✦ [/bold indian_red]" * 60 + "\n")
         
 
     def _buscar(self) -> None:
-        nombre = input("Nombre del manga: ").strip()
+        nombre = input("\n" "Nombre del manga: ").strip()
         resultado = self._catalogo.buscar(nombre)
         if resultado:
-            print(
-    f"El manga [bold green]{resultado.nombre}[/bold green] tiene como su artista a "f"[bold dodger_blue2]{resultado.artista}[/bold dodger_blue2], corresponde al género [bold deep_pink4]{resultado.genero}[/bold deep_pink4] y fue publicado en el año {resultado.año}.")
+            print(Align.center("\n"
+    f"El manga [bold deep_pink3]{resultado.nombre}[/bold deep_pink3] tiene como su artista a "f"[bold bold deep_pink4]{resultado.artista}[/bold  deep_pink4], corresponde al género [bold hot_pink3]{resultado.genero}[/bold hot_pink3] y fue publicado en el año [bold light_pink3]{resultado.año}[/bold light_pink3]."))
         else:
-            print(f"No encontramos '{nombre}'.")
+            print(Align.center(f"No encontramos '{nombre}'."))
+
+
 
     def _manga_aleatorio(self) -> None:
         manga = self._catalogo.manga_aleatorio()
-        print(f"El manga elegido es: [bold green]{manga.nombre}[/bold green], su artistas es {manga.artista} y su año de publicación es {manga.año}.")
+        print(Align.center("\n" f"El manga elegido es: [bold deep_pink3]{manga.nombre}[/bold deep_pink3] del género [bold red]{manga.genero}[/bold red] y su artistas es [bold hot_pink3]{manga.artista}[/bold hot_pink3] y su año de publicación es [bold plum3]{manga.año}[/bold plum3].""\n"))
+
+
 
     def _filtrar(self) -> None:
         genero = input("Género: ").strip()
         resultados = self._catalogo.filtrar(genero)
         if resultados:
             for manga in resultados:
-                print(f"- [bold green]{manga.nombre}[/bold green] ([bold blue]{manga.artista}[/bold blue])")
+                print(Align.center("\n" f"- [bold deep_pink3]{manga.nombre}[/bold deep_pink3] ([bold hot_pink3]{manga.artista}[/bold hot_pink3])""\n"))
         else:
-            print(f"No hay mangas del género '{genero}'.")
+            print(Align.center("\n" f"No hay mangas del género '{genero}'." "\n"))
