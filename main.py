@@ -1,5 +1,5 @@
 from servicios.catalogo import Catalogo
-from ui.terminal2 import Terminal
+from ui.terminal import Terminal
 from estructuras.avl import AVL
 from estructuras.arbol_general import ArbolGeneral
 

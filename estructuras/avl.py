@@ -102,6 +102,22 @@ class AVL:
             return self._buscar_recursivo(nodo.izquierdo, valor, clave)
         return self._buscar_recursivo(nodo.derecho, valor, clave)
 
+
+    def buscar_palabra(self, subcadena, clave):
+        resultados = []
+        self.buscar_palabra_recursivo(self.raiz, subcadena.lower(),clave, resultados)
+        return resultados
+
+    def buscar_palabra_recursivo(self, nodo, subcadena, clave, resultados):
+        if nodo is None:
+            return
+        self.buscar_palabra_recursivo(nodo.izquierdo, subcadena, clave, resultados)
+        texto_nodo = clave(nodo.dato)
+        if subcadena in texto_nodo:
+            resultados.append(nodo.dato)
+        self.buscar_palabra_recursivo(nodo.derecho, subcadena, clave, resultados)
+
+
     def inorder(self):
         resultado = []
         self._inorder_recursivo(self.raiz, resultado)

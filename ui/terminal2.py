@@ -3,6 +3,7 @@ import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 from servicios.catalogo import Catalogo
 from rich.panel import Panel
+from estructuras.avl import AVL
 from rich import print
 from rich.align import Align
 
@@ -46,10 +47,11 @@ class Terminal:
 
     def _buscar(self) -> None:
         nombre = input("\n" "Nombre del manga: ").strip()
-        resultado = self._catalogo.buscar(nombre)
-        if resultado:
-            print(Align.center("\n"
-    f"El manga {resultado.nombre} tiene como su artista a "f"{resultado.artista}, corresponde al género {resultado.genero} y fue publicado en el año {resultado.año}."))
+        resultados = self.arbol.buscar_palabra(nombre, lambda e: e.nombre.lower())
+        if resultados:
+            for resultado in resultados:
+                print(Align.center("\n"
+        f"El manga {resultado.nombre} tiene como su artista a "f"{resultado.artista}, corresponde al género {resultado.genero} y fue publicado en el año {resultado.año}."))
         else:
             print(Align.center(f"No encontramos '{nombre}'."))
 
@@ -57,7 +59,7 @@ class Terminal:
 
     def _manga_aleatorio(self) -> None:
         manga = self._catalogo.manga_aleatorio()
-        print(Align.center("\n" f"El manga elegido es: {manga.nombre} del género {manga.genero}, su artistas es {manga.artista} y su año de publicación es {manga.año}.""\n"))
+        print(Align.center("\n" f"El manga elegido es: {manga.nombre} del género {manga.genero}, su artistas es {manga.artista} y se publicó en el año {manga.año}.""\n"))
 
 
 

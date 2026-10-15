@@ -10,15 +10,14 @@ El sistema permite un catálogo interactivo en consola para administrar mangas (
 ## 3. Requisitos No Funcionales (RNF)
 | ID | Requerimiento | Verificación |
 |---|---|---|
-| RNF01 | La búsqueda por nombre debe ser logarítmica sobre el total de [elementos] | TP3+ (BST) |
-| RNF02 | El sistema debe soportar al menos 10.000 [elementos] sin degradar la respuesta perceptiblemente | TP2 (experimentos) |
+| RNF01 | La búsqueda por nombre debe ser logarítmica sobre el total de los elementos, en este caso mangas. | TP3+ (BST) |
+| RNF02 | El sistema debe soportar al menos 10.000 mangas sin degradar la respuesta perceptiblemente | TP2 (experimentos) |
 | RNF03 | La interfaz debe ser usable por alguien que no conoce la implementación | Demo |
 | RNF04 | El proyecto debe ejecutarse con Python 3.10+ sin instalaciones extra | README |
 
 ## 4. Criterios de aceptación (ejemplo)
 > **RF03 — Top 10**
-> - Se muestran exactamente 10 resultados (o todos los que existan si son
-menos).
+> - Se muestran exactamente 10 resultados (o todos los que existan si son menos).
 > - Orden descendente por rating, desempate alfabético.
 > - Debería responder en menos de 1 segundo con 10.000 elementos.
 

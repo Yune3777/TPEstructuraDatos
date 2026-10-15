@@ -46,9 +46,10 @@ class Terminal:
 
     def _buscar(self) -> None:
         nombre = input("\n" "Nombre del manga: ").strip()
-        resultado = self._catalogo.buscar(nombre)
-        if resultado:
-            print(Align.center("\n"
+        resultados = self.arbol.buscar_palabra(nombre, lambda e: e.nombre.lower())
+        if resultados:
+            for resultado in resultados:
+                print(Align.center("\n"
     f"El manga [bold deep_pink3]{resultado.nombre}[/bold deep_pink3] tiene como su artista a "f"[bold bold deep_pink4]{resultado.artista}[/bold  deep_pink4], corresponde al género [bold hot_pink3]{resultado.genero}[/bold hot_pink3] y fue publicado en el año [bold light_pink3]{resultado.año}[/bold light_pink3]."))
         else:
             print(Align.center(f"No encontramos '{nombre}'."))
@@ -57,7 +58,7 @@ class Terminal:
 
     def _manga_aleatorio(self) -> None:
         manga = self._catalogo.manga_aleatorio()
-        print(Align.center("\n" f"El manga elegido es: [bold deep_pink3]{manga.nombre}[/bold deep_pink3] del género [bold red]{manga.genero}[/bold red] y su artistas es [bold hot_pink3]{manga.artista}[/bold hot_pink3] y su año de publicación es [bold plum3]{manga.año}[/bold plum3].""\n"))
+        print(Align.center("\n" f"El manga elegido es: [bold deep_pink3]{manga.nombre}[/bold deep_pink3] del género [bold red]{manga.genero}[/bold red]. Su artistas es [bold hot_pink3]{manga.artista}[/bold hot_pink3] y se publicó en el año [bold plum3]{manga.año}[/bold plum3].""\n"))
 
 
 

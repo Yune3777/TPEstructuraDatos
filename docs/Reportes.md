@@ -70,6 +70,11 @@
 ## Reporte 04
 
 ### Acciones del grupo:
-- Se 
+- Finalizo el TP4 y TP5
+- Después de dárselo a probar a otra persona me di cuenta que había títulos que se conocían por una sola palabra del nombre completo del manga y que al poner esa palabra el buscador arrojaba que no existía tal manga.
+- Para corregir el problema anterior se crea la función "buscar_palabra" que toma la palabra y devuelve los títulos de los mangas que la contengan arrojando, a veces, más de un título a la vez pero siempre estando el título que se buscaba.
+- Se crearon dos versiones del archivo "terminal.py".
 
 ### Justificación de toma de decisiones:
+- Se tuvo que crear la función "buscar_palabra" porque por el idioma (japonés) muchas veces se recuerda, o se populariza, una palabra y no todo el nombre completo.
+- Las versiones de "terminal.py" fueron creadas para adaptarse a las diferentes terminales por las que puedan pasar. Si es en CMD o Powershell la "terminal2.py" es la que está adaptada para su interfaz ya que si le dejaba los arreglos en cuanto a colores o íconos, primero los colores terminaban siendo muy fuertes y quedaba muy contrastante al punto de ser agresivo para la vista. La "terminal.py" está diseñada para correr en interaces parecidas a las del Visual Studio Code y se juega con los colores claros e íconos que, gracias a diferentes librerías, son aceptadas en la interfaz de ese programa.

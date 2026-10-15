@@ -1,7 +1,7 @@
 # TP2 — Análisis de complejidad
 
 ## 1. Operación crítica elegida
-Búsqueda por nombre en el catálogo porque es la que el usuario ejecuta más.
+Se eligió "Búsqueda por nombre" porque es lo que más se recuerda en un manga y con el que se guián a la hora de buscar información.
 
 ## 2. Estrategias comparadas
 | ID | Estrategia | Implementación |
@@ -10,12 +10,13 @@ Búsqueda por nombre en el catálogo porque es la que el usuario ejecuta más.
 | B | Binaria | `Catalogo.buscar_binaria` (`bisect`, lista ordenada) |
 
 ## 3. Datos de prueba
-Datasets sintéticos de 100, 1.000, 10.000 y 100.000 elementos.
-Generador: `datos/generar.py`.
+> Datasets sintéticos de 100, 1.000 y 10.000 elementos.
+> Generador: `datos/generar.py`.
 
 ## 4. Método de medición
-`timeit`, 20 ejecuciones x 5 repeticiones, elijo el de mener tiempo para evitar interferencias del sistema operativo o proceso en segundo plano.
-Script: `algoritmos/experimentos/medicion.py`.
+> Usé `timeit` al cual le di instrucciones de hacer 20 ejecuciones x 5 repeticiones.
+> Se elije el de mener tiempo para evitar interferencias del sistema operativo o proceso en segundo plano.
+> Script usado: `algoritmos/experimentos/medicion.py`.
 
 ## 5. Resultados
 
