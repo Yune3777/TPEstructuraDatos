@@ -74,16 +74,14 @@ class ArbolBST:
 
 
     def altura(self):
-            return self._altura_recursiva(self.raiz)
+        """Profundidad máxima del árbol. Árbol vacío → 0."""
+        return self._altura_recursiva(self.raiz)
 
-        def _altura_recursiva(self, nodo):
-            if nodo is None:
-                return 0
-            return 1 + max(self._altura_recursiva(nodo.izquierdo),
-                        self._altura_recursiva(nodo.derecho))
+    def _altura_recursiva(self, nodo):
+        if nodo is None:
+            return 0
+        return 1 + max(self._altura_recursiva(nodo.izquierdo),
+                       self._altura_recursiva(nodo.derecho))
 
-        def esta_vacio(self):
-            return self.raiz is None
-
-
-if __name__ == "__main__":
+    def esta_vacio(self):
+        return self.raiz is None

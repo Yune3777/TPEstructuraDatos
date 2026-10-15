@@ -1,4 +1,6 @@
-[
+{
+  "mangas":
+  [
   {
     "nombre": "Manga 0",
     "genero": "Shonen",
@@ -350000,3 +350002,4 @@
     "rating": 3.2
   }
 ]
+}

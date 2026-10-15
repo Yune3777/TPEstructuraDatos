@@ -208,6 +208,8 @@ def comparar_bst_vs_avl(lista_datos, clave):
 
 
 if __name__ == "__main__":
+    
+    
     class Elemento:
         def __init__(self, nombre, valor):
             self.nombre = nombre
@@ -217,16 +219,16 @@ if __name__ == "__main__":
             return f"{self.nombre}({self.valor})"
 
     datos = [
-        Elemento("A", 1),
-        Elemento("B", 2),
-        Elemento("C", 3),
-        Elemento("D", 4),
-        Elemento("E", 5),
-        Elemento("F", 6),
-        Elemento("G", 7),
-        Elemento("H", 8),
-        Elemento("I", 9),
-        Elemento("J", 10),
+        Elemento("Berserk", 1),
+        Elemento("Monster", 2),
+        Elemento("Nausicaa", 3),
+        Elemento("JoJo's Bizarre Adventure", 4),
+        Elemento("Vinland Saga", 5),
+        Elemento("Yokohama Kaidashi Kikou", 6),
+        Elemento("20th Century Boys", 7),
+        Elemento("Fullmetal Alchemist", 8),
+        Elemento("Akira", 9),
+        Elemento("Yotsuba&!", 10),
     ]
 
     # AVL
@@ -249,8 +251,8 @@ if __name__ == "__main__":
         print(" ", e)
 
     print()
-    print("Buscar 'F':", avl.buscar("f", clave=lambda x: x.nombre.lower()))
-    print("Buscar 'Z':", avl.buscar("z", clave=lambda x: x.nombre.lower()))
+    print("Buscar 'Yokohama Kaidashi Kikou':", avl.buscar("yokohama kaidashi kikou", clave=lambda x: x.nombre.lower()))
+    print("Buscar 'Sailor Moon':", avl.buscar("sailor moon", clave=lambda x: x.nombre.lower()))
 
     # Comparar con BST
     print("\n=== Comparación BST vs AVL ===")

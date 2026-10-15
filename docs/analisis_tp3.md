@@ -44,7 +44,7 @@ Altura del árbol: 3
 ```
 
 ## 4. Comparación de tiempos
-En la tabla siguiente, los tiempos son **reales**, sacados con nuestro script `algoritmos/medir_tiempos.py`
+En la tabla siguiente, los tiempos son **reales**, sacados con nuestro script `algoritmos/medicionTP3.py`
 
 ```
 | Tamaño de la Muestra | Búsqueda secuencial (ms) | Búsqueda binaria (ms) | Árbol binario (ms) |
