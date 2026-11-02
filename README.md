@@ -75,19 +75,21 @@ El manga elegido fue: Dragon Ball y a continuación te cuento más sobre él...
 ## Estructura del proyecto
 
 ```
-├───main.py
-│   
 ├───algoritmos
-│   ├── experimentos
-    │   ├──generador_graficos.py
-    │   ├──medicion.py
-    │   ├──midetimeit.py
-    │   └───test unittest.py
+│   ├───experimentos
+│    │   ├──generador_graficos.py
+│   │   ├──medicionTP2.py
+│   │   ├──medicionTP3.py
+│   │   ├──medicionTP4y5.py
+│   │   ├──medicionTP6.py
+│   │   ├──midetimeit.py
+│   │   └───test unittest.py
 │   ├── bfs.py
 │   ├── busqueda.py
 │   ├── busquedabinaria.py
 │   ├── caminos.py
-│   └── dfs.py
+│   ├── dfs.py
+│   └── probar_bst.py
 │       
 ├───datos
 │   ├── dataset_mangas_10.json
@@ -95,22 +97,41 @@ El manga elegido fue: Dragon Ball y a continuación te cuento más sobre él...
 │   └── dataset_mangas_10000.json
 │       
 ├───docs
-algoritmos
 │   ├── Capturas
-    │   ├──diagrama de clases 01.png
-    │   ├──diagrama de clases 02.png
-    │   ├──diagrama de clases 03.png
-    │   ├──experimento-tp2.png
-    │   └───tp1-menu-principal.png
-│   ├── Diagrama de flujo.png
-│   ├── README.md
-│   └── Reportes.md
+│   │   ├──Prueba de Grafos
+│   │   │   ├──Paso01.PNG
+│   │   │   ├──Paso02.PNG
+│   │   │   └──Paso03.PNG
+│   │   ├──diagrama de clases 01.png
+│   │   ├──diagrama de clases 02.png
+│   │   ├──diagrama de clases 03.png
+│   │   ├──diagramde flujo 03.png
+│   │   ├──experimento-tp2.png
+│   │   ├──experimento-tp3.png
+│   │   ├──experimento-tp4y5.png
+│   │   ├──experimento-tp6.png
+│   │   ├──tp1-menu-principal.png
+│   │   ├──tp1-menu-principal3_Visual.png
+│   │   └──tp1-menu-principal3_Powershell.png
+│   ├──analisis_tp3.md
+│   ├──analisis_tp4 y 5.md
+│   ├──analisis_tp6.md
+│   ├──casos_de_usos.md
+│   ├──diagrama_clases.md
+│   ├──diagrama_secuencia.md
+│   ├──gestion_proyecto00.md
+│   ├──Reportes.md
+│   ├──requerimientos.md
+│   ├──requerimientos.txt
+│   └───tp2-experimentos.md
 │       
 ├───estructuras
 │   ├── arbol_binario.py
+│   ├── arbol_general.py
 │   ├── avl.py
 │   ├── grafo.py
-│   └── heap.py
+│   ├── heap_max.py
+│   └── heap_min.py
 │       
 ├───modelos
 │   ├── manga.py
@@ -119,12 +140,10 @@ algoritmos
 ├───servicios
 │   ├── carga_dataset.py
 │   ├── catalogo.py
-│   └── recomendador.py
+│   ├── opciones_menu.py
+│   ├── recomendador.py
+│   └── top_mangas.py
 │       
-├───test
-│    └───Arboles
-│        ├── basearbol.py
-│        └── clasenodo.py
 ├───ui
 │    └───terminal.py
 │
