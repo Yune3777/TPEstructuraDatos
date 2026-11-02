@@ -6,7 +6,7 @@ class NodoAVL:
         self.altura = 1
 
 
-class AVL:
+class ArbolAvl:
     def __init__(self):
         self.raiz = None
 
@@ -103,6 +103,7 @@ class AVL:
         return self._buscar_recursivo(nodo.derecho, valor, clave)
 
 
+    
     def buscar_palabra(self, subcadena, clave):
         resultados = []
         self.buscar_palabra_recursivo(self.raiz, subcadena.lower(),clave, resultados)
@@ -180,8 +181,7 @@ def comparar_bst_vs_avl(lista_datos, clave):
     for d in lista_datos:
         bst.insertar(d, clave=clave)
 
-    # --- AVL ---
-    avl = AVL()
+    avl = ArbolAvl()
     for d in lista_datos:
         avl.insertar(d, clave=clave)
 
@@ -231,8 +231,7 @@ if __name__ == "__main__":
         Elemento("Yotsuba&!", 10),
     ]
 
-    # AVL
-    avl = AVL()
+    avl = ArbolAvl()
     for d in datos:
         avl.insertar(d, clave=lambda x: x.nombre.lower())
 

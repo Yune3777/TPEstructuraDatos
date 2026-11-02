@@ -54,7 +54,7 @@ En la tabla siguiente, los tiempos son **reales**, sacados con nuestro script `a
 | 1000                 | 0.0944                   | 0.0752                | 0.0038             |
 | 10000                | 1.0391                   | 0.8473                | 0.0081             |
 ```
-![Grafico de los resultados](Capturas/experimento-tp3.png)
+<img src="Capturas/experimento-tp3.png" alt="Grafico de los resultados" width="800">
 
 ## 5. Análisis de complejidad
 

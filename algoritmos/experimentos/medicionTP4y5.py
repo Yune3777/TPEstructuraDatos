@@ -5,7 +5,7 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 from servicios.catalogo import Catalogo
 from estructuras.arbol_binario import ArbolBST
-from estructuras.avl import AVL
+from estructuras.avl import ArbolAvl
 
 def main() -> None:
     tamaños = (10, 100, 1000, 10000)
@@ -38,7 +38,7 @@ def medir_arbol(lista, nombre):
     return (fin - inicio) * 1000 # milisegundos
 
 def medir_avl(lista, nombre):
-    arbol_avl = AVL()
+    arbol_avl = ArbolAvl()
     for e in lista: 
         arbol_avl.insertar(e, clave=lambda e: e.nombre.lower()) 
     inicio = time.time() 

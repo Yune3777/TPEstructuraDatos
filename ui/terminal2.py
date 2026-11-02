@@ -3,7 +3,7 @@ import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 from servicios.catalogo import Catalogo
 from rich.panel import Panel
-from estructuras.avl import AVL
+from estructuras.avl import ArbolAvl
 from rich import print
 from rich.align import Align
 

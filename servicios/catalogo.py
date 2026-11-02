@@ -43,7 +43,7 @@ class Catalogo:
 
     def listar(self) -> list[Manga]:
         return list(self._elementos)
-    
+
     def filtrar(self, genero: str) -> list[Manga]:
         return [
             manga for manga in self._elementos

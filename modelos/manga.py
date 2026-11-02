@@ -1,6 +1,6 @@
 class Manga:
 
-    def __init__(self, nombre: str, genero: str, artista: str, rating: float, año: int) -> None:
+    def __init__(self, nombre: str, genero: str, artista: str, rating: float, año: int):
         self._nombre = nombre
         self._genero = genero
         self._artista = artista
