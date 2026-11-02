@@ -77,7 +77,7 @@ El manga elegido fue: Dragon Ball y a continuación te cuento más sobre él...
 ```
 ├───algoritmos
 │   ├───experimentos
-│    │   ├──generador_graficos.py
+│   ├──generador_graficos.py
 │   │   ├──medicionTP2.py
 │   │   ├──medicionTP3.py
 │   │   ├──medicionTP4y5.py
