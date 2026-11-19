@@ -4,6 +4,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from estructuras.avl import ArbolAvl
 from rich import print
 from rich.align import Align
+from servicios.top_mangas import TopMangas
 
 class OpcMenu:
 
@@ -67,3 +68,9 @@ class OpcMenu:
                 print(f"{i}. {manga.nombre} (Género: {manga.genero} - Año: {manga.año})")
 
     # OPCION 5) TOP 5
+    from servicios.top_mangas import TopMangas
+
+
+    @staticmethod
+    def _top_5_rating(catalogo) -> None:
+        TopMangas.mostrar_top_5(catalogo)

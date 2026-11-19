@@ -29,8 +29,7 @@ class Terminal:
             elif opcion == "4":
                 OpcMenu._recomendar_manga(self.recomendador, self._catalogo, self.arbol_avl)
             elif opcion == "5":
-                # Va opción TOP 5
-                pass
+                OpcMenu._top_5_rating(self._catalogo)
             elif opcion == "0":
                 print("\n [bold dark_orange3]Gracias![bold dark_orange3] [bold indian_red]Vuelvas[/bold indian_red] [bold hot_pink3]prontos![/bold hot_pink3]\n")
                 break

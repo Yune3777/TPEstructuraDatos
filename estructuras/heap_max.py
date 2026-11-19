@@ -32,6 +32,22 @@ class MaxHeap:
             # Llama recursivamente para seguir ajustando hacia arriba
             self._heapify_up(parent_index)
 
+    def _heapify_down(self, index):
+        size = len(self.heap)
+        largest = index
+        left = 2 * index + 1
+        right = 2 * index + 2
+
+        if left < size and self.heap[left] > self.heap[largest]:
+            largest = left
+
+        if right < size and self.heap[right] > self.heap[largest]:
+            largest = right
+
+        if largest != index:
+            self.heap[index], self.heap[largest] = self.heap[largest], self.heap[index]
+            self._heapify_down(largest)
+
     def delete(self, element):
         # Encuentra el índice del elemento a eliminar
         try:
@@ -48,6 +64,3 @@ class MaxHeap:
             self._heapify_down(index)
             self._heapify_up(index)
         return True
-
-    # Agrega la función a la clase MaxHeap
-    MaxHeap.delete = delete
