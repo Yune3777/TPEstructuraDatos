@@ -34,7 +34,7 @@ class GrafoLista:
     def agregar_arista (self, u, v, peso=1):
         self.adj[u][v] = peso
         if not self.dirigido:
-            self.adj[u][v] = peso
+            self.adj[v][u] = peso
             
     def eliminar_arista(self, u, v):
         self.adj[u].pop(v, None)

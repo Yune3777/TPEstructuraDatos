@@ -3,6 +3,7 @@ from ui.terminal import Terminal
 from estructuras.avl import ArbolAvl
 from estructuras.arbol_general import ArbolGeneral
 from servicios.recomendador import AdminGrafos
+from servicios.top_mangas import TopMangas
 
 def main():
     catalogo = Catalogo()
@@ -19,7 +20,7 @@ def main():
 
     servicios = {
         "recomendador" : recomendador,
-        #"top_mangas" : top_mangas,
+        "top_mangas" : TopMangas,
     }
     estructuras = {
         "arbol_general" : arbol_general,

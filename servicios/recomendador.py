@@ -35,7 +35,7 @@ class AdminGrafos:
             comparte_artista = manga_base.artista.strip().lower() == manga_recomendado.artista.strip().lower()
             comparte_año = manga_base.año == manga_recomendado.año
             comparte_genero = any(g.strip().lower() in manga_recomendado.genero.lower() for g in manga_base.genero.split('/'))
-            return (not comparte_artista, not comparte_año, not comparte_genero)
+            return (not comparte_genero, not comparte_artista, not comparte_año)
         mangas_recomendados.sort(key=prioridad)
         return mangas_recomendados[:limite]
             

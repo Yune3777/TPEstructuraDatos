@@ -6,6 +6,9 @@ from rich.panel import Panel
 from rich import print
 from rich.prompt import Prompt
 from rich.align import Align
+from rich.console import Console
+
+
 
 class Terminal:
     def __init__(self, catalogo, servicios, estructuras):
@@ -18,7 +21,7 @@ class Terminal:
     def iniciar(self) -> None:
         while True:
             self._mostrar_menu()
-            opcion = Prompt.ask("[bold white on hot_pink3] INGRESAR OPCIÓN: [/bold white on hot_pink3]").strip()
+            opcion = Prompt.ask("[bold white on hot_pink3]\n\n\n INGRESAR OPCIÓN: [/bold white on hot_pink3]").strip()
             
             if opcion == "1":
                 OpcMenu._buscar(self.arbol_avl)
@@ -38,13 +41,38 @@ class Terminal:
             print()
             
     def _mostrar_menu(self) -> None:
-        print(Panel(Align.center("\n[bold indian_red]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  MANPY  ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/bold indian_red]\n"), title="Versión 3.0", title_align="right",border_style="indian_red"))
+        console = Console()
+        console.clear()
+
+        ARTE_SUPERIOR = r"""
+ ██████   ██████   █████████   ██████   █████ ███████████  █████ █████
+▒▒██████ ██████   ███▒▒▒▒▒███ ▒▒██████ ▒▒███ ▒▒███▒▒▒▒▒███▒▒███ ▒▒███ 
+ ▒███▒█████▒███  ▒███    ▒███  ▒███▒███ ▒███  ▒███    ▒███ ▒▒███ ███  
+ ▒███▒▒███ ▒███  ▒███████████  ▒███▒▒███▒███  ▒██████████   ▒▒█████   
+ ▒███ ▒▒▒  ▒███  ▒███▒▒▒▒▒███  ▒███ ▒▒██████  ▒███▒▒▒▒▒▒     ▒▒███    
+ ▒███      ▒███  ▒███    ▒███  ▒███  ▒▒█████  ▒███            ▒███    
+ █████     █████ █████   █████ █████  ▒▒█████ █████           █████   
+▒▒▒▒▒     ▒▒▒▒▒ ▒▒▒▒▒   ▒▒▒▒▒ ▒▒▒▒▒    ▒▒▒▒▒ ▒▒▒▒▒           ▒▒▒▒▒    
+"""
+        console.print("\n\n")
+        console.print(Panel(Align.center("\n[bold indian_red]" + ARTE_SUPERIOR + "[/bold indian_red]"), style="bold indian_red"))
+
+        #print(Panel(Align.center("\n[bold indian_red]▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  MANPY  ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀[/bold indian_red]\n"), title="Versión 3.0", title_align="right",border_style="indian_red"))
         
-        print(Align.center("\n\n[bold dark_orange3][ 1 ]  [/bold dark_orange3] Buscar manga por [bold dark_orange3]Nombre[/bold dark_orange3]"))
-        print(Align.center("\n[bold dark_orange3][ 2 ]  [/bold dark_orange3] Manga [bold dark_orange3]Aleatoria[/bold dark_orange3]"))
-        print(Align.center("\n[bold indian_red][ 3 ]  [/bold indian_red] Explorar por [bold indian_red]Género[/bold indian_red]"))
-        print(Align.center("\n[bold indian_red][ 4 ]  [/bold indian_red] Recomendaciones por [bold indian_red]similitud[/bold indian_red]"))
-        print(Align.center("\n[bold hot_pink3][ 5 ]   Top 10[/bold hot_pink3]"))
-        print(Align.center("\n[bold hot_pink3][ 0 ]   Salir[/bold hot_pink3]"))
-        
-        print("\n" + "[bold indian_red]✦ ✦ [/bold indian_red]" * 60 + "\n")
+        todas_las_opciones_menu = (
+            
+        "\n[bold dark_orange3][ 1 ]  [/bold dark_orange3] Buscar manga por [bold dark_orange3]Nombre[/bold dark_orange3]"
+        "\n[bold dark_orange3][ 2 ]  [/bold dark_orange3] Manga [bold dark_orange3]Aleatorio[/bold dark_orange3]"
+        "\n[bold indian_red][ 3 ]  [/bold indian_red] Explorar por [bold indian_red]Género[/bold indian_red]"
+        "\n[bold indian_red][ 4 ]  [/bold indian_red] Recomendaciones por [bold indian_red]similitud[/bold indian_red]"
+        "\n[bold hot_pink3][ 5 ]  [/bold hot_pink3] [bold hot_pink3]Top 5[/bold hot_pink3]"
+        "\n[bold hot_pink3][ 0 ]   Salir[/bold hot_pink3]\n"
+        )
+        panel = Panel(
+            Align.center(todas_las_opciones_menu),
+            title="Menú",
+            border_style="indian_red",
+            width=60,
+            )
+
+        print(Align.center(panel))

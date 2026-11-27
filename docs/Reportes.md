@@ -93,3 +93,12 @@
 - Como ya se venía haciendo, se modularizó el `BFS` para no hacer tan extenso el archivo de `terminal.py` o el `main.py`, y se agregó la función de `bfs_recomendaciones` al que se le agregó en sus parámetros un límite de 5 resultados devueltos para no hacer tan extensa la lista de coincidencias.
 - Se usó `w! = inicio` en el recorrido del BFS porque después de ingresar el nombre del manga a comparar ese mismo manga también aparecía en la lista por lo que usando este código se lo excluyó. Creo que queda medio plana la resolución pero terminó dando el resultado que se esperaba así que se lo dejó así.
 - Se le agregó un peso a las aristas para que a la hora de devolver las recomendaciones el nombre del *mangaka*, o artista, tenga más peso por sobre el año y el género del manga. Se optó por ese orden ya que muchas veces buscan seguir obras del mismo artista primero.  En segundo lugar está el año más que nada por descarte ya que los valores de género ya se usaban en la opción 3 del menú (Explorar por Género) y los valores del rating está pensado usarse con `heap_max.py`.
+
+## Reporte 06
+- Se incorporó `MaxHeap` a la opción 5 del menú del programa (Top 5).
+- Se utilizaron los datos de rating, año y género para devolver el resultado.
+- Se decidió usar búsqueda binaria tanto para año y para género.
+- Se agregó el archivo `top_mangas.py` para seguir con la modulación. 
+
+### Justificación de toma de decisiones:
+- Un problema que se tuvo a la hora de hacer pruebas con el programa fue el buscar un título y encontrar una obra con el mismo rating. Se planteó usar el orden alfabético para desempatar pero hay obras que tienen el mismo rating y el mismo nombre ya que son adaptaciones de novelas ligeras. Por esta razón se usó el "índice_único" que hace aumentar el índice cada vez que ingresa un manga al heap. De esta manera tendría un desempate asegurado.
